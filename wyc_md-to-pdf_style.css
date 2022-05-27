@@ -1,0 +1,182 @@
+/* Base Styling */
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 100%;
+}
+
+body {
+  font-family: 'Liberation Serif', serif;
+	line-height: 1.4;
+	font-size: 0.6875em; /* 11 pt */
+	color: #111;
+	margin: 0;
+}
+
+body > :first-child {
+	padding-top: 0;
+	margin-top: 0;
+}
+
+body > :last-child {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+
+/* Document Information */
+div.document_title {
+  font-size: 2.5em;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+}
+div.document_title:before {
+  content: "Washington Yacht Club ";
+}
+div.document_revision {
+  font-style: italic;
+  text-align: center;
+}
+div.document_revision:before {
+  content: "Revision: ";
+}
+
+
+/* Headers */
+body {
+  counter-reset: counter1;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Liberation Sans', sans-serif;
+	margin: 0;
+	padding: 0.5em 0 0.25em;
+}
+
+h5,
+h6 {
+	padding: 0;
+}
+
+h1 {
+  counter-reset: counter2;
+}
+h1:before {
+  counter-increment: counter1;
+  content: "Article " counter(counter1, upper-roman) " - ";
+}
+
+h2 {
+  counter-reset: counter3;
+  padding-left: 1em;
+}
+h2:before {
+  counter-increment: counter2;
+  content: "Section " counter(counter2, upper-alpha) ". ";
+}
+
+h3 {
+  counter-reset: counter4;
+  padding-left: 2em;
+}
+h3:before {
+  counter-increment: counter3;
+  content: counter(counter3, decimal) ". ";
+}
+
+h4 {
+  counter-reset: counter5;
+  padding-left: 3em;
+}
+h4:before {
+  counter-increment: counter4;
+  content: counter(counter4, lower-alpha) ". ";
+}
+
+h5 {
+	font-size: 1em;
+  counter-reset: counter6;
+  padding-left: 4em;
+}
+h5:before {
+  counter-increment: counter5;
+  content: counter(counter5, lower-roman) ". ";
+}
+
+h6 {
+	font-size: 0.875em;
+	text-transform: uppercase;
+  counter-reset: counter6;
+  padding-left: 5em;
+}
+h6:before {
+  counter-increment: counter5;
+  content: counter(counter5) ". ";
+}
+
+
+/* Tables */
+table {
+	border-spacing: 0;
+	border-collapse: collapse;
+	display: block;
+	margin: 0 0 1em 5em;
+	width: 100%;
+	overflow: auto;
+}
+
+table th,
+table td {
+	padding: 0.5em 1em;
+	border: 1px solid gainsboro;
+}
+
+table th {
+	font-weight: 600;
+}
+
+table tr {
+	background-color: white;
+	border-top: 1px solid gainsboro;
+}
+
+table tr:nth-child(2n) {
+	background-color: whitesmoke;
+}
+
+
+/* MISC Elements */
+p {
+	margin: 0.25em 0 1em;
+	padding-left: 5em;
+}
+
+ul,
+ol {
+	margin: 0;
+	margin-left: 5em;
+	padding: 0 1.5em 0.5em;
+}
+
+pre {
+	white-space: pre-wrap;
+}
+
+.page-break {
+	page-break-after: always;
+}
+
+img {
+	max-width: 100%;
+	margin: 1em 0;
+}
+

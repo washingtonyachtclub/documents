@@ -1,0 +1,15 @@
+{
+	"stylesheet": ["./wyc_md-to-pdf_style.css"],
+	"marked_options": {
+		"smartLists": true,
+		"smartypants": true
+	},
+	"pdf_options": {
+		"displayHeaderFooter": false,
+		"printBackground": true,
+		"format": "Letter",
+		"margin": "1in"
+	},
+	"md_file_encoding": "utf-8",
+	"stylesheet_encoding": "utf-8"
+}

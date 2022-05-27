@@ -1,0 +1,26 @@
+name: Build PDFs
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-pdfs:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Build Constitution
+      run: npx md-to-pdf --config-file ./wyc_md-to-pdf_config.json WYC_Constitution.md
+    - name: Build By-Laws
+      run: npx md-to-pdf --config-file ./wyc_md-to-pdf_config.json WYC_By-Laws.md
+    - name: Build Policies
+      run: npx md-to-pdf --config-file ./wyc_md-to-pdf_config.json WYC_Policies.md
+    - name: Build Ithaka Appendix
+      run: npx md-to-pdf --config-file ./wyc_md-to-pdf_config.json WYC_Ithaka_Appendix.md
+    - name: Archive PDFs
+      uses: actions/upload-artifact@v3
+      path: **.pdf
+    - name: Download PDFs
+      uses: actions/download-artifact@v3
+      with:
+        name: **.pdf

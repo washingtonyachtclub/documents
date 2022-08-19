@@ -19,8 +19,9 @@ jobs:
       run: npx md-to-pdf --config-file ./wyc_md-to-pdf_config.json WYC_Ithaka_Appendix.md
     - name: Archive PDFs
       uses: actions/upload-artifact@v3
-      path: *.pdf
+      with:
+        name: wyc-doc-pdfs
+        path: |
+          *.pdf
     - name: Download PDFs
       uses: actions/download-artifact@v3
-      with:
-        name: **.pdf

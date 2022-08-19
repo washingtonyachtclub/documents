@@ -9,6 +9,14 @@ jobs:
   build-pdfs:
     runs-on: ubuntu-latest
     steps:
+    - name: Pull repository files
+      uses: actions/checkout@v3
+    - name: Load and cache Node
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'
+        cache: 'npm'
+        cache-dependency-path: '**/.github/workflows/*.yml'
     - name: Build Constitution
       run: npx md-to-pdf --config-file ./wyc_md-to-pdf_config.json WYC_Constitution.md
     - name: Build By-Laws

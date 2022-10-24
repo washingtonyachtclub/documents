@@ -208,7 +208,7 @@ Exercise absolute authority in all matters regarding the safety of all Club oper
 Administer rating tests and assist with the training of Members.
 
 #### Executive Council
-Attend and vote at meetings, if they are also Regular Members.
+Attend and, if they are also Regular Members, vote at meetings.
 
 ### Expiration
 Chief ratings do not expire.

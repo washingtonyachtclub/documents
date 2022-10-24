@@ -55,10 +55,10 @@ The Executive Council shall elect qualified Skippers to the rank of Chief subjec
 May suspend any Member or Chief for a period of time for infraction of the By-Laws or Club Rules.
 
 ### Committee Appointments
-Will appoint standing committee chairpersons upon the failure of the Commodore to do so.
+Will appoint standing committee chairpersons upon the failure of the Commodores to do so.
 
 ## Executive Council Meetings
-Executive Council Meetings can be called by the Commodore or by the will of the majority of the Executive Council. Adequate notice shall be given to all Members of such meetings.
+Executive Council Meetings can be called by the Commodores or by the will of the majority of the Executive Council. Adequate notice shall be given to all Members of such meetings.
 
 ## Quorum
 A quorum shall consist of the Executive Council members present.
@@ -66,7 +66,7 @@ A quorum shall consist of the Executive Council members present.
 # Positions
 
 ## Appointment
-Positions are appointed by the Commodore with the approval of the Executive Council. All paid positions must be approved by a vote of either the Executive Council or a regular meeting. Commodore may remove Members from a position. Decisions of removal may be overturned by a majority vote by the Executive Council. Additional Positions may be created at the digression of the Commodore and Executive Council.
+Positions are appointed by the Commodores with the approval of the Executive Council. All paid positions must be approved by a vote of either the Executive Council or a regular meeting. Commodores may remove Members from a position. Decisions of removal may be overturned by a majority vote by the Executive Council. Additional Positions may be created at the digression of the Commodores and Executive Council.
 
 ## Positions
 The following are descriptions of Positions in the Club:
@@ -160,7 +160,7 @@ To become an Assistant Instructor, one must be a Member, have both a Single-hand
 Assistant Instructors are qualified to assist an Instructor in all duties connected with the teaching of their class. They may not perform any of these duties unless the supervising Instructor is physically present.
 
 ## Special Committees
-Special Committees may be designated by the Commodore as the need arises.
+Special Committees may be designated by the Commodores as the need arises.
 
 ## Dues Exempt Positions
 The following positions are dues exempt:
@@ -214,7 +214,7 @@ Attend and vote at meetings, if they are also Regular Members.
 Chief ratings do not expire.
 
 ### Officers
-The Commodore, Vice Commodore, and Rear Commodore shall automatically become Chiefs upon election if they possess a skipper and whaler rating. They shall be expected to fulfill this requirement as soon as possible and will not have the rights and duties of a Chief until they do so.
+Officers (Commodore, Vice Commodore, Rear Commodore) shall automatically become Chiefs upon election if they possess a skipper and whaler rating. They shall be expected to fulfill this requirement as soon as possible and will not have the rights and duties of a Chief until they do so.
 
 ## Designated Chief
 
@@ -250,7 +250,7 @@ Position holders in charge of budgets are invited to submit budget requests to t
 The Purser shall base the budget largely upon revenues and expenditures of the previous year.
 
 #### Input
-The Purser shall seek input from no less than two Executive Council members involved with Club expenditures and the Commodore, Vice Commodore, and Rear Commodore in creating their proposed budget.
+The Purser shall seek input from no less than two Executive Council members involved with Club expenditures and the Officers in creating their proposed budget.
 
 #### Distribution of Monies
 Only 80% of the anticipated revenues shall be distributed in the preliminary budget. The remaining monies shall be at the control of the General Membership.
@@ -350,13 +350,13 @@ The following Position Holders shall have permission to regularly charge on the 
 Responsibility for individual budget categories shall be specified by Executive Council policy.
 
 ### Vacancy
-In the event that a position is vacant, the Commodore shall appoint a Member of the Executive Council to preside over the position's designated budgets while a new position holder is being sought.
+In the event that a position is vacant, the Commodores shall appoint a Member of the Executive Council to preside over the position's designated budgets while a new position holder is being sought.
 
 ### Authorized Expenditures
 Position Holders shall be authorized to spend their approved quarterly budget, or authorize the quartermaster or responsible Member in their stead.
 
 #### Spending Cap
-Any single item exceeding $1000 shall be approved by the General Membership, and any single item costing between $500 and $1000 must be approved by either the General Membership or any two Commodores, Vice Commodores, or Rear Commodores.
+Any single item exceeding $1000 shall be approved by the General Membership, and any single item costing between $500 and $1000 must be approved by either the General Membership or any two Officers.
 
 ### Purchasing Procedures
 

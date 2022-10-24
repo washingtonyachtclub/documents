@@ -1,5 +1,5 @@
 <div class="document_title">Policies</div>
-<div class="document_revision">December 6, 2021</div>
+<div class="document_revision">October 27, 2022</div>
 
 # Definitions and Ratings
 
@@ -79,7 +79,7 @@ Boats with more than one hull.
 9.1 m, fixed-keel sloop-rigged, cruising sailboat. This boat requires a specialty rating to sail and may not participate in Duck Dodge.
 
 #### Swan 441 Class
-14.1 m, fixed-keel sloop-rigged, cruising sailboat. This boat requires a majority vote of Members at a Meeting to sail and is subject any other restrictions on the use of the Swan 441 imposed by the Executive Council, Commodores, or a majority vote of Members at a General Meeting.
+14.1 m, fixed-keel sloop-rigged, cruising sailboat. This boat requires a majority vote of Members at a Meeting to sail and is subject any other restrictions on the use of the Swan 441 imposed by the Executive Council, the Officers, or a majority vote of Members at a General Meeting.
 
 ###### See Ithaka Policy Document, Appendix A for further details.
 
@@ -297,7 +297,7 @@ Keelboat Skipper ratings do not expire.
 A keelboat skipper may obtain a specialty rating allowing for the use of the Cal 3-30 or San Juan 30 sailboats, subject to the restrictions on these boats in Article I - Section A.6. of the Policies. This rating may be awarded by a KB Designated Chief, and requires proficiency in sailing the larger boats as well as use of the inboard engine specific to the boat for which the rating is given.
 
 #### Ithaka Skipper
-A keelboat skipper is eligible to be elected an Ithaka Skipper by a 2/3 majority vote at a General Meeting. This designation allows the Ithaka Skipper to skipper the Swan 441 when approved by a vote at a General Meeting, and subject to any other restrictions on the use of the Swan 441 imposed by the Executive Council, Commodores, or a majority vote of Members at a General Meeting.
+A keelboat skipper is eligible to be elected an Ithaka Skipper by a 2/3 majority vote at a General Meeting. This designation allows the Ithaka Skipper to skipper the Swan 441 when approved by a vote at a General Meeting, and subject to any other restrictions on the use of the Swan 441 imposed by the Executive Council, the Officers, or a majority vote of Members at a General Meeting.
 
 ### Whaler
 
@@ -349,7 +349,7 @@ A Member with a DH rating sufficient to sail the Pearson Ensign or J22 may sail 
 All boats, except Keelboats, the Pearson Ensign and the J-22, must be docked by dark. The only exception shall be when effort to comply is thwarted by insufficient wind.
 
 ### Restrictions During Football Games
-Except in case of an emergency or with special permission from a commodore, no WYC activities or use of club resources may take place at the WAC on Husky Harbor days from the time the boats are moved prior to the game until the official end of Husky Harbor (1 hour after the end of the football game).
+Except in case of an emergency or with special permission from a Commodore, no WYC activities or use of club resources may take place at the WAC on Husky Harbor days from the time the boats are moved prior to the game until the official end of Husky Harbor (1 hour after the end of the football game).
 
 ### Hazardous Weather
 Hazardous weather conditions shall be deemed to exist if any of the following qualifications are met: Steady winds of 25 knots or over (large branches of grown trees in motion); or, puffy, shifty winds of 20 knots or over (rapidly changing wind direction and intensity as seen in trees and in the rapidly shifting pattern of dark streaks across the water); or, the display of the Hazardous sign as posted by a Chief or the Vice Commodore at their discretion. This may include occasions when wind velocities or other conditions are not yet hazardous but are so predicted. In hazardous weather conditions, whether the sign has been posted or not, the following procedures will be adhered to:
@@ -540,7 +540,7 @@ This article provides details for the management of Members. Categories of Membe
 If any person wishing to join the club is not a current student they must apply to the Program Director. They may be admitted according to the order in which they joined the list, their affiliation with the university, their potential service to the club, or other criteria as established by the Commodores and Program Director.
 
 ### Revocation
-In cases where managing new membership applications is not sufficient to maintain the required ratio, the Program Director or Commodores may revoke the membership of any Associate Member for an indefinite period of time. The affected Associate Members will receive a full refund of membership dues paid for the quarter(s) affected and will be granted top priority for reinstatement once the student ratio allows without having to pay any initiation fee.
+In cases where managing new membership applications is not sufficient to maintain the required ratio, the Commodores or Program Director may revoke the membership of any Associate Member for an indefinite period of time. The affected Associate Members will receive a full refund of membership dues paid for the quarter(s) affected and will be granted top priority for reinstatement once the student ratio allows without having to pay any initiation fee.
 
 ## Suspension of Membership
 Any violation of the By-Laws or Policies of the Washington Yacht Club may be considered ground for suspension of membership.
@@ -552,7 +552,7 @@ A Suspended Member is a Member not in good standing who does not have voting pri
 Persons authorized to suspend membership. All suspensions must be based on a specific violation of the By-Laws or Policies.
 
 #### Chiefs
-Chiefs, the Commodores, the Vice Commodore, or the Rear Commodore may suspend any Member for a period of up to two weeks.
+Chiefs or Officers may suspend any Member for a period of up to two weeks.
 
 #### Executive Council
 The Executive Council may, by 2/3 majority vote, suspend a Chief.
@@ -640,7 +640,7 @@ The Keelboat Fleet Captain may set other restrictions and/or policies governing 
 The Club shall maintain a Keelboat Fund to account for all moneys generated by Keelboat reservations and sales, and all moneys spent buying, maintaining, and overhauling Keelboats. The Purser shall maintain this fund separate from the General Fund. The Purser shall report on the balance of this fund and its change from the previous year as part of the annual fiscal report.
 
 ## New Boat Fund
-The Club shall maintain a New Boat Fund accounted separate from other funds. This fund shall consist of all proceeds from the sale of boats (except for Keelboats, see By-Laws:Article VI - Section A.4.a.iii), all unburdened donations, all interest earned on bank deposits, and thirty percent of all dues and initiation fees. This fund shall be used for purchasing boats except in the case of a financial emergency declared by the Commodore and the Executive Council. The Purser shall report on the balance of this fund and its change from the previous year as part of the annual fiscal report.
+The Club shall maintain a New Boat Fund accounted separate from other funds. This fund shall consist of all proceeds from the sale of boats (except for Keelboats, see By-Laws:Article VI - Section A.4.a.iii), all unburdened donations, all interest earned on bank deposits, and thirty percent of all dues and initiation fees. This fund shall be used for purchasing boats except in the case of a financial emergency declared by the Commodores and the Executive Council. The Purser shall report on the balance of this fund and its change from the previous year as part of the annual fiscal report.
 
 ### Replacement of Laser Fleet
 One-fourth of the Laser Fleet shall be replaced each year by selling the oldest boats and purchasing new boats to maintain the fleet. Purchase of new boats to expand the fleet shall still require General Membership approval.
@@ -703,7 +703,7 @@ No WYC employees are paid for more than twenty hours of work per week.
 Hourly employees will start at an hourly wage greater than or equal to the prevailing University of Washington student minimum wage, as determined by a majority vote of the Executive Council.
 
 #### Raises
-After the first 100 hours of work, and every three quarters from then on, hourly employees will be eligible for a raise upon recommendation by a performance review committee consisting of the Commodore and at least one additional Executive Council Member meeting in a closed session.
+After the first 100 hours of work, and every three quarters from then on, hourly employees will be eligible for a raise upon recommendation by a performance review committee consisting of the Commodores and at least one additional Executive Council Member meeting in a closed session.
 
 #### Maximum Wage
 The maximum hourly wage paid to hourly employees will be no greater than 2 times the prevailing University of Washington student minimum wage.

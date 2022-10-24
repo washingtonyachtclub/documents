@@ -1,5 +1,5 @@
 <div class="document_title">Constitution</div>
-<div class="document_revision">February 14, 2020</div>
+<div class="document_revision">October 27, 2022</div>
 
 # Name 
 The name of this organization shall be WASHINGTON YACHT CLUB.
@@ -63,7 +63,7 @@ The term for officers shall run from the end of the Meeting of their election to
 Nominations of officers shall be made at a General Meeting. These nominations shall be submitted by the Executive Council and shall be seconded from the floor. Further nominations may also be submitted form the floor.
 
 ### Timing of elections 
-Elections for one commodore, vice commodore and rear commodore shall be held during the Fall Quarter.  The election of the other commodore shall be held in the Spring Quarter.
+Elections for one Commodore, Vice Commodore, and Rear Commodore shall be held during the Fall Quarter.  The election of the other Commodore shall be held in the Spring Quarter.
 
 ## Procedures for Voting 
 The Officers shall be chosen by a voice vote of the Members of the Club at the same Meeting. A simple majority (50%) of the vote shall be necessary to fill any office.

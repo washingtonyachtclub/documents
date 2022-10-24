@@ -1,5 +1,5 @@
 <div class="document_title">By-Laws</div>
-<div class="document_revision">February 7, 2020</div>
+<div class="document_revision">October 27, 2022</div>
 
 # Articles and Regulations Taking Precedence
 
@@ -193,7 +193,7 @@ The wage for all paid positions shall be calculated as specified by the Policies
 ## Chiefs
 
 ### Requirements
-To become a Chief, one must have a Single-handed and Double-handed Skipper rating, be nominated to the position by the Executive Council or by the Members voting at a General Meeting. There will be a probationary period of two quarters during which the Chief designation may be revoked by vote of the Executive Council or of a General Meeting.
+To become a Chief, one must have a Skipper rating, a whaler rating, and be nominated to the position by the Executive Council or by the Members voting at a General Meeting. There will be a probationary period of two quarters during which the Chief designation may be revoked by vote of the Executive Council or of a General Meeting.
 
 ### Duties
 The duties and the responsibilities of a Chief, to be exercised with discretion and courtesy, are to:
@@ -208,33 +208,24 @@ Exercise absolute authority in all matters regarding the safety of all Club oper
 Administer rating tests and assist with the training of Members.
 
 #### Executive Council
-Attend and vote at meetings.
+Attend and vote at meetings, if they are also Regular Members.
 
 ### Expiration
 Chief ratings do not expire.
 
 ### Officers
-The Commodore, Vice Commodore, and Rear Commodore shall automatically become Chiefs upon election if they possess the Single-handed and Double-handed Skipper ratings. They shall be expected to fulfill this requirement as soon as possible and will not have the rights and duties of a Chief until they do so.
+The Commodore, Vice Commodore, and Rear Commodore shall automatically become Chiefs upon election if they possess a skipper and whaler rating. They shall be expected to fulfill this requirement as soon as possible and will not have the rights and duties of a Chief until they do so.
 
 ## Designated Chief
 
 ### Requirements
-To become a Designated Chief for a boat class, one must be a Chief, have a Skipper Rating in that boat class (except for Whaler ratings), and be designated by a majority vote of Executive Council or a General Meeting.
-
-### Designated Chief Types
-Designated Chiefs exist for sailboard, catamaran, keelboat, and whaler.
+To become a Designated Chief for a boat class, one must be a Chief, have a Skipper Rating in that boat class, and be designated by a majority vote of Executive Council or a General Meeting.
 
 ### Giving Ratings
 Only Designated Chiefs can give skipper rating in that boat class.
 
-### Keelboat Designated Chiefs
-Keelboat Designated Chiefs shall give Keelboat Skipper Written and Practical Tests. Any Chief who is a keelboat Skipper may give Keelboat Novice Rating.
-
 ### Expiration
 Designated Chiefs ratings do not expire.
-
-### Exception to Prerequisites
-A Member may become a Keelboat Chief or a Whaler Chief without being a regular Chief if they are nominated by a Chief of the appropriate type, and the voting body is made aware of the exception prior to the vote. This provision is to accommodate sailors who may be limited in their ability to sail dinghies.
 
 # Financial Matters
 

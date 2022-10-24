@@ -279,10 +279,10 @@ To obtain a Keelboat Skipper rating one must:
 ##### Meet all requirements for a Keelboat Novice Rating.
 
 ##### Written Examination
-Pass the Novice and Skipper Centerboard/Daggerboard Written Examinations and pass the Keelboat Skipper written test as administered by designated Chiefs only.
+Pass the Novice and Skipper Centerboard/Daggerboard Written Examinations and pass the Keelboat Skipper written test as administered by KB Designated Chiefs only.
 
 ##### Practical Skills
-Demonstrate proficiency in the many aspects of Keelboat sailing in tidal water including; basic navigation, anchoring, reefing, and changing sails, International Rules of the Road and a man overboard recovery as part of a practical exam which may be given only by Designated Chiefs.
+Demonstrate proficiency in the many aspects of Keelboat sailing in tidal water including; basic navigation, anchoring, reefing, and changing sails, International Rules of the Road and a man overboard recovery as part of a practical exam which may be given only by KB Designated Chiefs.
 
 ##### Equipment Proficiency
 Demonstrate the use of such secondary equipment as head, engine, stove, seacocks, and compass.
@@ -294,7 +294,7 @@ A Keelboat skipper is entitled to sail a Keelboat in all winds in all waters for
 Keelboat Skipper ratings do not expire.
 
 #### Rig Ratings
-A keelboat skipper may obtain a specialty rating allowing for the use of the Cal 3-30 or San Juan 30 sailboats, subject to the restrictions on these boats in Article I - Section A.6. of the Policies. This rating may be awarded by a Designated Keelboat Chief, and requires proficiency in sailing the larger boats as well as use of the inboard engine specific to the boat for which the rating is given.
+A keelboat skipper may obtain a specialty rating allowing for the use of the Cal 3-30 or San Juan 30 sailboats, subject to the restrictions on these boats in Article I - Section A.6. of the Policies. This rating may be awarded by a KB Designated Chief, and requires proficiency in sailing the larger boats as well as use of the inboard engine specific to the boat for which the rating is given.
 
 #### Ithaka Skipper
 A keelboat skipper is eligible to be elected an Ithaka Skipper by a 2/3 majority vote at a General Meeting. This designation allows the Ithaka Skipper to skipper the Swan 441 when approved by a vote at a General Meeting, and subject to any other restrictions on the use of the Swan 441 imposed by the Executive Council, Commodores, or a majority vote of Members at a General Meeting.
@@ -374,17 +374,17 @@ November 1 to May 1: if the Rescue Barge is not being operated in the near vicin
 The above parts of Article II do not apply to the use of keelboats. The specific regulation concerning the use of these boats and their required equipment are determined by the Executive Council except where covered by other sections of the By-Laws.
 
 ### Sailboard Clothing
-Sailors using the Sailboards are required to wear wetsuits from Sept. 15 through June 15.
+Sailors using sailboards are required to wear wetsuits from Sept. 15 through June 15.
 
 ## Use of Facilities
 
 ### Members and Guests
 
-1. All sailors must be Members or Guests of Members, or University students enrolled in a sailing class approved by the Executive Council and supervised by a Chief, Rating Examiner, or Instructor. 
+1. All sailors must be Members or Guests of Members, or University students enrolled in a sailing class approved by the Executive Council and supervised by a Chief, Rating Examiner, or Instructor.
 2. All Guests must sign the Affidavit and Release for Guests on the check-out form before sailing.
 3. All Guests are expected to abide by the Club rules.
 4. Failure to do so may result in the Guest being prohibited from using any and all WYC facilities and equipment.
-5. Any Officer or Chief may issue such a prohibition for any period of time, including indefinite prohibitions.
+5. Any Officer may issue such a prohibition for any period of time, including indefinite prohibitions.
 6. An appeal may be made according to Article III - Section B.6 in the Policies.
 7. Club members must not knowingly allow prohibited guests to violate this policy.
 
@@ -437,13 +437,13 @@ A Chief or Rating Examiner may apply any time restriction they wish.
 Crew, Novice, and Intermediate rated Members may sail only in Union Bay within sight of the WAC. Specific permission to sail in waters outside Union Bay may be given to Intermediate, Novice, or Crew rated Members only by a Chief or Rating Examiner, who must be in the near vicinity.
 
 #### Catamarans and Sailboards
-Permission to sail in catamarans or Sailboards may be given by any Chief or Rating Examiner.
+Permission to sail in catamarans or sailboards may be given by any Chief or Rating Examiner.
 
 #### Basic Sailing Ability
 A Chief or Rating Examiner giving permission to practice must watch until the Member demonstrates basic ability to sail the boat.
 
 #### Sailboard
-A Chief or Rating Examiner giving permission to practice on the Sailboards must either remain on the water on the Rescue Barge or tether the board until the Member demonstrates basic ability to sail the board.
+A Chief or Rating Examiner giving permission to practice on sailboards must either remain on the water on the Rescue Barge or tether the board until the Member demonstrates basic ability to sail the board.
 
 ### Classes
 Beginning and Intermediate classes are taught only by Instructors. These classes are intended to assist the inexperienced sailor in learning the basic techniques of rigging, derigging, sailing, self rescue, and docking of club boats with primary emphasis on instilling respect for club equipment and instilling in Members safe and seaman-like sailing attitudes.
@@ -495,7 +495,7 @@ The Member who checked out the boat is required to obey and enforce the safety r
 Members below Novice rating must wear flotation at all times while sailing aboard dinghies.
 
 ### Sailboards
-All sailors of Sailboards must wear a Coast Guard approved life vest at all times.
+All sailors of sailboards must wear a Coast Guard approved life vest at all times.
 
 ## Damage to Club boats
 

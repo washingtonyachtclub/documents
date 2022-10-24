@@ -112,7 +112,7 @@ Pass the Bravo Written Examination.
 Know the check-out procedures.
 
 ##### Practical Skills
-Rig and derig the boat, demonstrate basic sailing ability, docking, a man overboard and perform a wet capsize in at least 3 knots of wind.
+Rig and derig the boat, demonstrate basic sailing ability, docking, a crew overboard and perform a wet capsize in at least 3 knots of wind.
 
 ##### Safety and Protection
 Display consideration for the safety of lives and for the protection of club equipment.
@@ -142,7 +142,7 @@ Be able to tie the following knots: Bowline, Cleating, reef (also known as squar
 Know the check-out procedures.
 
 ##### Practical Skills
-Rig and derig the testing boat for the class, demonstrate basic sailing ability, docking, a man overboard, and perform a wet capsize in at least 3 knots of wind.
+Rig and derig the testing boat for the class, demonstrate basic sailing ability, docking, a crew overboard, and perform a wet capsize in at least 3 knots of wind.
 
 #### Privileges
 A Novice rating entitles the user to sail in wind not over 7 knots in Union Bay within sight of the WAC.
@@ -208,7 +208,7 @@ To obtain a skipper rating one must:
 Pass the Skipper Written Examination (Centerboard/Daggerboard).
 
 ##### Practical Skills
-Demonstrate proficiency in all requirements for a novice and intermediate rating in over 15 knots of wind. Demonstrate a man overboard recovery, a bottom-up capsize of boat with successful recovery.
+Demonstrate proficiency in all requirements for a novice and intermediate rating in over 15 knots of wind. Demonstrate a crew overboard recovery, a bottom-up capsize of boat with successful recovery.
 
 ##### Safety and Protection
 Given the extra privileges of a skipper, a higher standard of responsibility and judgment is expected than of novices or intermediate sailors.
@@ -263,7 +263,7 @@ Be able to tie a Bowline, Cleat Knot, Figure Eight, Clove Hitch, Reef Knot, Doub
 Know the reservation and check-out procedures appropriate to the keelboats.
 
 ##### Practical Skills
-Take a Keelboat sailing test to demonstrate sailing proficiency equivalent to an Intermediate (Single-handed or Double-handed) Rating and ability to recover a man overboard.
+Take a Keelboat sailing test to demonstrate sailing proficiency equivalent to an Intermediate (Single-handed or Double-handed) Rating and ability to recover a crew overboard.
 
 #### Privileges
 A Keelboat Novice rating entitles the user to sail a keelboat in all winds in Lake Washington and all interconnecting waters east of the Aurora Bridge, during the hours covered by a reservation, subject to the restrictions of the By-Laws. Passage under the I-90 Floating Bridge between the West shore of Mercer Island and the East shore of Seattle is prohibited.
@@ -282,7 +282,7 @@ To obtain a Keelboat Skipper rating one must:
 Pass the Novice and Skipper Centerboard/Daggerboard Written Examinations and pass the Keelboat Skipper written test as administered by KB Designated Chiefs only.
 
 ##### Practical Skills
-Demonstrate proficiency in the many aspects of Keelboat sailing in tidal water including; basic navigation, anchoring, reefing, and changing sails, International Rules of the Road and a man overboard recovery as part of a practical exam which may be given only by KB Designated Chiefs.
+Demonstrate proficiency in the many aspects of Keelboat sailing in tidal water including; basic navigation, anchoring, reefing, and changing sails, International Rules of the Road and a crew overboard recovery as part of a practical exam which may be given only by KB Designated Chiefs.
 
 ##### Equipment Proficiency
 Demonstrate the use of such secondary equipment as head, engine, stove, seacocks, and compass.

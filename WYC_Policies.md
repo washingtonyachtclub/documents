@@ -1,758 +1,571 @@
 <div class="document_title">Policies</div>
-<div class="document_revision">October 27, 2022</div>
+<div class="document_revision">DRAFT: December 8, 2022</div>
 
 # Definitions and Ratings
 
 ## Fleets and Classes of Boats
+In the context of Club Policies, the term Dinghy is understood to include the Bravo, Single-Handed, Double-Handed, Performance, Sailboard, and Catamaran Fleets, unless otherwise specified.
+
+### Bravo Fleet
+12 foot long cat-rigged (having a single sail) catamarans. Our most beginner-friendly boats. They can be sailed by just one person, but they have room for additional crew as well.
+
+### Single-Handed Fleet
+14 foot long cat-rigged, daggerboard (removable centerboard) dinghies that are sailed by one person..They may be rigged as a Laser Radial using a shorter Radial mast and smaller Radial sail.
+
+### Double-Handed Fleet
+Beginner-friendly sloop-rigged (having two basic sail) dinghies designed to be sailed by two people (one skipper and one crew). Our primary Double-Handed boats are the Flying Juniors (FJ), which are 13 foot long with a centerboard, and we also have a Laser 2 (14.5 foot long with a daggerboard), RS Vision (15 foot long with a centerboard), and an International 470 (I-470) (15.5 feet long with a centerboard).
+
+The FJ’s, Laser 2, and RS Vision may be used for beginner instruction and Novice Ratings Tests, while the 470 may also be used for Intermediate and Skipper Ratings Tests.
+
+### Performance Fleet
+High-performance sloop-rigged, centerboard dinghies. These boats require a specialty rating to sail and are represented by the International 505 and International 14 (I-14) boats.
 
 ### Sailboard Fleet
-Several classes of sailboards designed for single-handed sailing. The rig is connected to the board by means of a universal joint and supported by the sailor and wind.
-
-### Single-handed Fleet
-Boats designed to be sailed by one person.
-
-#### Bravo Class
-A 12 ft, cat-rigged catamaran.
-
-#### Laser Class
-4.2 m, cat-rigged (having a single sail), daggerboard racing sailboat. (May also be rigged with a smaller “Radial” sail)
-
-### Double-handed Fleet
-Boats designed for 2 people.
-
-#### Flying Junior (FJ) Class
-4.0 m, sloop-rigged (having two basic sails), centerboard sailboat.
-
-#### Laser 2 Class
-4.4 m, sloop-rigged, daggerboard sailboat.
-
-#### Vision
-4.57 m, sloop-rigged centerboard sailboat.
-
-#### 470 Class
-4.7 m, sloop-rigged, centerboard racing sailboat.
-
-#### 505 Class
-5.05 m, sloop-rigged, centerboard high performance sailboat. This boat requires a specialty rating to sail.
-
-#### International 14 Class
-4.3 m, sloop-rigged, daggerboard racing sailboat. This boat requires a specialty rating to sail.
+The Sailboard Fleet is represented by many combinations of boards, booms, masts, mast extenders, sails, and universal joints that may be rigged together and sailed by one person.
 
 ### Catamaran Fleet
-Boats with more than one hull.
+Sloop-rigged sailboats with more than one hull.
 
-#### Hobie 16 Class
-5.0 m, sloop-rigged, beach catamaran for 2 people.
+#### Novice Catamarans
+16 to 17 foot long catamarans suitable for beginner instruction and Novice Ratings Tests. They are represented by Hobie 16’s and a Dart.
 
-#### Dart
-4.9 m, sloop-rigged catamaran.
-
-#### Hobie SX18 Class
-5.5 m, sloop-rigged, gennaker-rigged, high performance catamaran. This boat requires a specialty rating to sail.
-
-#### Hobie 21 Class
-6.4 m, sloop-rigged, beach catamaran. This boat requires a specialty rating to sail.
+#### Big Cats
+Catamarans longer than 17 feet intended for more experienced catamaran sailors. They require a Specialty Rig Rating to sail.
 
 ### Daysailer Fleet
-
-#### Flying Scott Class
-5.8 m, sloop-rigged, centerboard sailboat.
-
-#### Pearson Ensign Class
-6.86 m, sloop-rigged, fixed-keel sailboat with a cutty cabin.
-
-#### J22 Class
-7.02 m, sloop-rigged, fixed-keel high performance sailboat.
+Sloop-rigged sailboats from 19 to 22 feet in length that may comfortably hold four or more crew. The Flying Scot has a centerboard and can be sailed by a Double-Handed Novice. The other Daysailers have a fixed keel and require a Double-Handed Intermediate rating to sail.
 
 ### Keelboat Fleet
 
-#### Ranger 26 Class
-7.9 m, fixed-keel sloop-rigged, cruising sailboat.
+#### Outboard Keelboats
+Keelboats between 24 and 27 feet in length with outboard engines mounted on them. Can be sailed with a Keelboat Novice Rating.
 
-#### Catalina 27 Class
-8.2 m, fixed-keel sloop-rigged, cruising sailboat.
+#### Inboard Keelboats
+Keelboats greater than 27 feet in length with inboard engines installed inside of them. Require a Keelboat Skipper Rating and separate Rig Ratings to sail, and they may not participate in Duck Dodge.
 
-#### Cal 3-30 Class
-9.1 m, fixed-keel sloop-rigged, cruising sailboat. This boat requires a specialty rating to sail and may not participate in Duck Dodge.
-
-#### San Juan 30 Class
-9.1 m, fixed-keel sloop-rigged, cruising sailboat. This boat requires a specialty rating to sail and may not participate in Duck Dodge.
-
-#### Swan 441 Class
-14.1 m, fixed-keel sloop-rigged, cruising sailboat. This boat requires a majority vote of Members at a Meeting to sail and is subject any other restrictions on the use of the Swan 441 imposed by the Executive Council, the Officers, or a majority vote of Members at a General Meeting.
-
-###### See Ithaka Policy Document, Appendix A for further details.
+#### Ithaka
+Ithaka is a 44 foot long Swan 441 keelboat. It is the largest sailboat that the Club owns, and its normal usage is governed by the Ithaka Policy Document.
 
 ### Whaler Fleet
-Comprises powerboats maintained for the purpose of rescue and instruction. See Article I - Section B.10 of the Policies, which concerns the use of these boats.
+Rescue powerboats maintained for the purpose of rescue and instruction.
 
-## Ratings
+## Ratings Requirements and Privileges
 
 ### Definition
-A rating in a boat allows the Member to use that boat in the conditions and waters for which they are rated without supervision.
+A Rating for a fleet or class of vessels allows a Member to use those vessels in the conditions and waters for which they are rated without supervision.
 
-### Ratings Exams
-The descriptions below are minimum requirements. The final decision to award a rating is at the discretion of the Chief, Instructor, or Rating Examiner administering the rating.
+### General Requirements
+All Members must read and be familiar with the contents of Articles I, II, and III of the Policies in order to qualify to receive Ratings, especially the Club’s boat checkout procedures.
 
-### Safety and Protection
 All Members must display consideration for the safety of lives and for the protection of club equipment.
+
+A combination of Written Exams and on-the-water practical Ratings Tests are required for each rating as described below.
+
+The requirements described here are minimum requirements. The final decision to award a Rating is at the discretion of the Chief, Instructor, or Ratings Examiner administering the Ratings Test.
 
 ### Bravo Rating
 
 #### Requirements
-To obtain a Bravo Rating one must:
+The Bravo Written Exam must be taken and passed.
 
-##### By-Laws
-Read Policies:Articles I, II, and III.
-
-##### Written Examination
-Pass the Bravo Written Examination.
-
-##### Check Out Procedures
-Know the check-out procedures.
-
-##### Practical Skills
-Rig and derig the boat, demonstrate basic sailing ability, docking, a crew overboard and perform a wet capsize in at least 3 knots of wind.
-
-##### Safety and Protection
-Display consideration for the safety of lives and for the protection of club equipment.
+For the Ratings Test, one must rig and derig the boat, demonstrate basic sailing ability, docking, a crew overboard recovery and perform a wet capsize in at least 3 knots of wind.
 
 #### Privileges
-A Bravo rating entitles the user to sail in wind not over 7 knots in Union Bay within sight of the WAC.
+A Bravo Rating entitles the Member to sail in winds not over 7 knots in Union Bay within sight of the WAC.
 
 #### Expiration
-Bravo ratings are valid for six months after issue date. The Bravo Rating may be renewed by taking the Bravo Practical Test.
+Bravo Ratings are valid for 6 months after issue date. The Bravo Rating may be renewed by taking the Bravo Practical Test again.
 
-### Novice Rating
-A Novice rating may be awarded for the single-handed, double-handed, sailboard or catamaran classes of boats.
+### Dinghy Novice Ratings
+Dinghy Novice Ratings may be awarded for the Single-Handed, Double-Handed, Sailboard, and Catamaran Fleets.
 
-####  Requirements
-To obtain a Novice rating one must:
+#### Requirements
+To obtain a Novice Rating, one must:
 
-##### By-Laws
-Read Policies:Articles I, II, and III.
-
-##### Written Examination
-Pass the Novice Written Examination (Centerboard/Daggerboard or Sailboard.)
+##### Written Exam
+Pass the appropriate Novice Written Exam (Dinghy Novice or Sailboard.)
 
 ##### Knots
-Be able to tie the following knots: Bowline, Cleating, reef (also known as square), and Figure Eight.
-
-##### Check Out Procedures
-Know the check-out procedures.
+Be able to tie the following knots: Bowline, Cleating, Reef (also known as Square), and Figure Eight.
 
 ##### Practical Skills
-Rig and derig the testing boat for the class, demonstrate basic sailing ability, docking, a crew overboard, and perform a wet capsize in at least 3 knots of wind.
+Rig and derig the testing boat for the class, demonstrate basic sailing ability, docking, a crew overboard recovery, and perform a wet capsize in at least 3 knots of wind.
 
 #### Privileges
-A Novice rating entitles the user to sail in wind not over 7 knots in Union Bay within sight of the WAC.
+A Novice rating entitles the Member to sail in winds not over 7 knots in Union Bay within sight of the WAC.
 
 #### Expiration
-Novice ratings are valid for only six months. It is recommended that Members obtain an Intermediate or higher rating within this time, as the purpose of the novice rating is to allow the Member to practice whenever he wishes, so that they may learn to sail well. The novice rating may be renewed by taking the novice practical test.
+Novice Ratings are valid for 6 months. It is recommended that Members try their best to obtain an Intermediate or higher rating within this time, as the purpose of the Novice Rating is to allow the Member to practice whenever they wish, so that they may continue to improve their sailing. The Novice Rating may be renewed by taking the Novice Practical Test again.
 
 #### Types
+##### Single-Handed Novice
+The test must be performed in a Laser and qualifies the holder to sail the Laser and Bravo. The test may be performed in a Laser Radial at the discretion of the examiner.
 
-##### Single-handed Novice
-The test must be performed in a Laser, and this rating qualifies the holder to sail the Laser, and Bravo.
-
-##### Double-handed Novice
-The test may be performed in an FJ, Laser II, or Vision and this rating qualifies the holder to sail the FJ, Laser II, and Vision.
+##### Double-Handed Novice
+The test may be performed in an FJ, Laser II, or Vision, and qualifies the holder to sail the FJ, Laser II, Vision, and Flying Scot.
 
 ##### Sailboard Novice
-The test may be performed using any sailboard and qualifies the holder to sail all club sailboards.
+The test may be performed using any Sailboard and qualifies the holder to sail all club Sailboards.
 
 ##### Catamaran Novice
-The test may be performed in a Hobie 16 and qualifies the holder to sail the Hobie 16 or Dart class boats.
+The test may be performed in a Hobie 16 or Dart and qualifies the holder to sail those vessels.
 
-### Intermediate Rating
-An Intermediate rating may be awarded for the single-handed, double-handed, sailboard or catamaran classes of boats.
+### Dinghy Intermediate Ratings
 
-####  Requirements
-To obtain an intermediate rating one must:
-
-##### Demonstrate proficiency in all requirements for a novice rating in 7 to 15 knots of wind.
+#### Requirements
+To obtain an Intermediate Rating one must demonstrate proficiency in all requirements for a Novice Rating, but in 7 to 15 knots of wind.
 
 #### Privileges
-An Intermediate rating entitles the user to sail in wind not over 15 knots in Union Bay within sight of the WAC.
+An Intermediate Rating entitles the Member to sail in winds not over 15 knots in Union Bay within sight of the WAC.
 
 #### Expiration
-Intermediate ratings do not expire.
+Intermediate Ratings do not expire.
 
 #### Types
 
-##### Single-handed Intermediate
-The test must be performed in a Laser, and this rating qualifies the holder to sail the Laser, Laser Radial, and Bravo.
+##### Single-Handed Intermediate
+The test must be performed in a Laser and qualifies the holder to sail the Laser and Bravo. The test may be performed in a Laser Radial at the discretion of the examiner.
 
-##### Double-handed Intermediate
-The test may be performed in an FJ, Laser II, Vision, or 470 and this rating qualifies the holder to sail the FJ, Laser 2, Vision, Flying Scott, 470, Ensign, and J22 class boats, and to obtain the Lake Sailor specialty rating.
+##### Double-Handed Intermediate
+The test may be performed in an FJ, Laser II, Vision, or 470, and this Rating qualifies the holder to sail the boats in the Double-Handed and Daysailer Fleets.This Rating also qualifies the holder to obtain the Lake Sailor Specialty Rating and the Performance Boat Specialty Rig Ratings.
 
 ##### Sailboard Intermediate
-The test may be performed using any sailboard and qualifies the holder to sail all club sailboards.
+The test may be performed using any Sailboard and qualifies the holder to sail all club Sailboards.
 
 ##### Catamaran Intermediate
-The test may be performed in a Hobie 16, Hobie SX18, or Hobie 21 and qualifies the holder to sail the Hobie 16 or Dart class boats, and to obtain the Big Cat specialty rating.
+The test may be performed in a Hobie 16, Dart, or Big Cat and qualifies the holder to sail those vessels.
 
 ##### Big Cat Specialty
-The Hobie SX18 and Hobie 21 may be sailed by any Member who has a Catamaran Intermediate rating and who can demonstrate to a Catamaran Chief the specialty procedures in each boat.
+The Big Cats may be sailed by any Member who has a Catamaran Intermediate rating and who has demonstrated to a Catamaran Chief the specialty procedures for each boat.
 
-##### Lake Sailor
-The Lake Sailor rating may be given to a Member holding a DH intermediate rating who has displayed additional skill and judgment in sailing daysailers. The Lake Sailor rating allows the Member to sail any daysailer in winds less than 15 knots in Lake Washington north of the Evergreen Point Floating Bridge and south of Sand Point, during daylight hours. The wind speed is to be determined at the place where the boat is being sailed, not at the WAC.
+##### Lake Sailor Specialty
+The Lake Sailor Specialty Rating may be given to a Member holding a Double-Handed Intermediate rating who has displayed additional skill and judgment in sailing Daysailers. The Lake Sailor Rating allows the Member to sail any Daysailer in winds less than 15 knots in Lake Washington, north of the Evergreen Point Floating Bridge and south of Sand Point, during daylight hours. The wind speed is to be determined at the place where the boat is being sailed.
 
-### Skipper Rating
-A Skipper rating may be awarded for the single-handed, double-handed, sailboard or catamaran classes of boats.
+### Dinghy Skipper Rating
 
-####  Requirements
-To obtain a skipper rating one must:
+#### Requirements
+To obtain a Skipper Rating one must:
 
 ##### Written Examination
-Pass the Skipper Written Examination (Centerboard/Daggerboard).
+Pass the Dinghy Skipper Written Examination.
 
 ##### Practical Skills
-Demonstrate proficiency in all requirements for a novice and intermediate rating in over 15 knots of wind. Demonstrate a crew overboard recovery, a bottom-up capsize of boat with successful recovery.
+Demonstrate proficiency in all requirements for a Novice and Intermediate Rating in over 15 knots of wind. Demonstrate a crew overboard recovery and a bottom-up capsize of the boat with a successful recovery.
 
-##### Safety and Protection
-Given the extra privileges of a skipper, a higher standard of responsibility and judgment is expected than of novices or intermediate sailors.
+##### Safety and Judgment
+Given the extra privileges of a Skipper, a higher standard of responsibility and judgment is expected than of Novices or Intermediate sailors.
 
 #### Privileges
-A Skipper rating entitles the user to sail in all wind, subject to the restrictions of the By-Laws and Policies, with the following restrictions:
+A Skipper rating entitles the Member to sail in all safe wind conditions, subject to the restrictions of the By-Laws and Policies.
 
-##### Dinghy Skippers
-Single-handed, double-handed and catamaran Skippers may sail in all interconnecting waters east of the Aurora Bridge.
+Single-Handed, Double-Handed and Catamaran Skippers may sail in all interconnecting waters east of the Aurora Bridge.
 
-##### Sailboard Skippers
-Sailboard Skippers may sail in Union Bay and in Lake Washington north of the Evergreen Point Floating Bridge and south of Sand Point.
+Sailboard Skippers may sail in Union Bay and in Lake Washington, north of the Evergreen Point Floating Bridge and south of Sand Point.
 
 #### Expiration
-Skipper ratings do not expire.
+Skipper Ratings do not expire.
 
 #### Types
 
-##### Single-handed Skipper
-The test must be performed in a Laser, and this rating qualifies the holder to sail the Laser,, and Bravo. In extreme wind conditions the Chief administering the rating may allow the Member to perform the test in a Laser with a Radial rig.
+##### Single-Handed Skipper
+The test must be performed in a Laser, and this rating qualifies the holder to sail the Laser and Bravo. The test may be performed in a Laser Radial at the discretion of the examiner.
 
-##### Double-handed Skipper
-The test may be performed in any double-handed dinghy and this rating qualifies the holder to sail any double-handed or daysailer boats, except for the 505 and I-14 which require specialty ratings.
+##### Double-Handed Skipper
+The test may be performed in any Double-Handed dinghy, and this Rating qualifies the holder to sail any boats in the Double-Handed or Daysailer Fleets. This also qualifies the holder to earn Performance Boat Specialty Rig Ratings.
 
 ##### Sailboard Skipper
-The test may be performed using any sailboard and qualifies the holder to sail all club sailboards.
+The test may be performed using any Sailboard and qualifies the holder to sail all club Sailboards.
 
 ##### Catamaran Skipper
-The test may be performed in a Hobie 16, Hobie 18SX, or Hobie 21 and qualifies the holder to sail the Hobie 16 or Dart class boats, and to obtain the Big Cat specialty rating.
+The test may be performed in a Hobie 16, Dart, or Big Cat and qualifies the holder to sail those vessels.
 
-##### 505 Specialty
-The 505 may be sailed by any Member who has a Double-handed skipper rating and who can demonstrate to a Chief the rigging procedure for the boat.
+##### Performance Boat Specialty Rig Ratings
+The Performance Boats may be sailed by any Member who has a Double-Handed Skipper Rating and demonstrates to a Chief the rigging procedure for that specific boat.
 
-#####  International 14 Specialty
-The International 14 may be sailed by any Member who has a Double Handed Skipper rating and who can demonstrate to a Chief the rigging procedure for the boat.
-
-### Keelboat Novice
+### Keelboat Novice Rating
 
 #### Requirements
-To obtain a Keelboat Novice rating one must:
-
-##### By-Laws
-Read the By-Laws and Policies.
-
-##### Written Examination
-Pass the Novice and Skipper Centerboard/Daggerboard Written Examinations.
+To obtain a Keelboat Novice Rating one must:
 
 ##### Knots
-Be able to tie a Bowline, Cleat Knot, Figure Eight, Clove Hitch, Reef Knot, Double Overhand and Coil a line for storage.
-
-##### Check Out Procedures
-Know the reservation and check-out procedures appropriate to the keelboats.
+Be able to tie a Bowline, Cleat Knot, Figure Eight, Clove Hitch, Reef Knot, and Double Overhand, and be able to properly coil lines for storage.
 
 ##### Practical Skills
-Take a Keelboat sailing test to demonstrate sailing proficiency equivalent to an Intermediate (Single-handed or Double-handed) Rating and ability to recover a crew overboard.
+Demonstrate sailing proficiency equivalent to an Intermediate Dinghy Rating. Members must also show the ability to dock our Keelboats safely and the ability to recover a crew overboard.
 
 #### Privileges
-A Keelboat Novice rating entitles the user to sail a keelboat in all winds in Lake Washington and all interconnecting waters east of the Aurora Bridge, during the hours covered by a reservation, subject to the restrictions of the By-Laws. Passage under the I-90 Floating Bridge between the West shore of Mercer Island and the East shore of Seattle is prohibited.
+A Keelboat Novice Rating entitles the Member to sail a Keelboat in all winds in Lake Washington and all interconnected waters east of the Aurora Bridge during the hours covered by a reservation, subject to the restrictions in this Policies document. Passage under the I-90 Floating Bridge between the West shore of Mercer Island and the East shore of Seattle is prohibited.
 
-#### Expiration
-Keelboat Novice ratings do not expire.
-
-### Keelboat Skipper
+### Keelboat Skipper Rating
 
 #### Requirements
-To obtain a Keelboat Skipper rating one must:
-
-##### Meet all requirements for a Keelboat Novice Rating.
+To obtain a Keelboat Skipper Rating one must:
 
 ##### Written Examination
-Pass the Novice and Skipper Centerboard/Daggerboard Written Examinations and pass the Keelboat Skipper written test as administered by KB Designated Chiefs only.
+Pass the Dinghy Novice and Skipper Written Exams, and pass the Keelboat Skipper Written Exam as administered by a Keelboat Chief only.
 
 ##### Practical Skills
-Demonstrate proficiency in the many aspects of Keelboat sailing in tidal water including; basic navigation, anchoring, reefing, and changing sails, International Rules of the Road and a crew overboard recovery as part of a practical exam which may be given only by KB Designated Chiefs.
+Demonstrate proficiency in all aspects of Keelboat sailing in tidal water including: basic navigation, anchoring, reefing, and changing sails. Expert understanding of the International Rules of the Road and proper crew overboard recovery technique must be shown.
 
 ##### Equipment Proficiency
-Demonstrate the use of such secondary equipment as head, engine, stove, seacocks, and compass.
+Demonstrate the proper use of secondary equipment, such as head, engine, stove, seacocks, and compass.
 
 #### Privileges
-A Keelboat skipper is entitled to sail a Keelboat in all winds in all waters for which the club carries insurance during the hours covered by a reservation, subject to the restrictions of the By-Laws and Policies.
+A Keelboat Skipper is entitled to sail a Keelboat in all winds and in all waters for which the club carries insurance during the hours covered by a reservation, subject to the restrictions in this Policies document.
 
-#### Expiration
-Keelboat Skipper ratings do not expire.
-
-#### Rig Ratings
-A keelboat skipper may obtain a specialty rating allowing for the use of the Cal 3-30 or San Juan 30 sailboats, subject to the restrictions on these boats in Article I - Section A.6. of the Policies. This rating may be awarded by a KB Designated Chief, and requires proficiency in sailing the larger boats as well as use of the inboard engine specific to the boat for which the rating is given.
+#### Inboard Keelboat Specialty Rig Ratings
+A Keelboat Skipper may obtain separate Specialty Ratings allowing for the use of the Cal 3-30 or San Juan 30 sailboats. This rating may be awarded by a Keelboat Chief and requires proficiency in sailing the larger boats, as well as use of the inboard engine and other equipment specific to the boat for which the rating is given.
 
 #### Ithaka Skipper
-A keelboat skipper is eligible to be elected an Ithaka Skipper by a 2/3 majority vote at a General Meeting. This designation allows the Ithaka Skipper to skipper the Swan 441 when approved by a vote at a General Meeting, and subject to any other restrictions on the use of the Swan 441 imposed by the Executive Council, the Officers, or a majority vote of Members at a General Meeting.
+A Keelboat Skipper is eligible to be elected as an Ithaka Skipper by a two-thirds majority vote at a General Meeting following nomination by an existing Ithaka Skipper. This designation allows the Ithaka Skipper to skipper the Swan 441 when approved by a vote at a General Meeting, and is subject to any other restrictions on the use of the Swan 441 imposed by the Officers or by a majority vote of Members at an Executive Council Meeting or General Meeting.
 
-### Whaler
+### Whaler Rating
 
 #### Requirements
-To obtain a whaler rating one must:
-
-##### Rating Prerequisite
-Have an intermediate level rating.
-
-##### By-Laws
-Read the By-Laws and Policies.
-
-##### Check Out Procedures
-Know the reservation and check-out procedures appropriate to the whalers.
+To obtain a Whaler Rating, one must:
 
 ##### Practical Skills
-Demonstrate basic knowledge of docking, whaler systems and maneuvering. Basic maneuvering skills must be demonstrated in addition to maneuvering specific to sailing instruction, as defined by the Vice Commodore.
+Demonstrate basic knowledge of docking, Whaler systems, and maneuvering. Basic maneuvering skills must be demonstrated in addition to maneuvering specific to performing sailing instruction, as defined by the Vice Commodore.
 
 ##### Radio Skills
-Demonstrate basic operation of a marine VHF radio.
+Demonstrate proper operation of a marine VHF radio.
 
 ##### State Law Compliance
-To operate a whaler one must meet the requirements to operate a motor driven boat within the state of Washington. These requirements must be met before attempting a whaler practical test.
+To operate a Whaler one must meet the requirements to operate a motor-powered vessel within the State of Washington (e.g., the Boater Education Card). These requirements must be met before operating a Whaler in any capacity.
+
 
 # Use of Boats, Facilities, and Equipment
 
-## Hours of availability and permissible sailing areas
+## Sailing Requirements and Restrictions
 
 ### Sailing Areas
-Boats may be sailed by Members in the waters specified by their rating for the type of boat being sailed.
+Boats may be sailed by Members in the waters specified by their Rating for the type of boat being sailed.
 
 #### Additional Waters
-With the approval of the Membership at a General Meeting, club boats may be sailed on other waters during organized club activities.
+With the approval of the Membership at a General Meeting, club boats may be sailed on other waters during organized club activities and as otherwise specified.
 
-#### Regattas
-The Executive Council may approve the use of club boats to be sailed in US Sailing sanctioned sailing regattas within an area covered by the Club's insurance policy, or in series racing on Puget Sound conducted by a local Yacht Club.
+#### Races and Regattas
+The Executive Council may approve the use of club boats to be sailed in US Sailing sanctioned sailing regattas within an area covered by the Club’s insurance policy, or in series racing organized by local sailing organizations.
 
 ### Sailing Hours
-Boats, except designated keelboat fleet, the Pearson Ensign and J22, may be sailed during daylight hours and must be in sight of the WAC by sunset.
+Boats, except those designated as part of the Keelboat Fleet, the Pearson Ensign, and the J/22, may only be sailed during daylight hours and must be in sight of the WAC by sunset.
 
-#### Pearson Ensign and J22 Hours
-A Member with a DH rating sufficient to sail the Pearson Ensign or J22 may sail after sunset if:
+#### Exception for the Pearson Ensign and J/22
+A Member with a Double-Handed Intermediate Rating may sail the Pearson Ensign or J/22 after sunset if:
 
-1. That Member holds a keelboat rating.
-2. The navigation lights are in working order.
-3. Wind and geographical restrictions are dictated by Members DH rating.
+##### That Member also holds a Keelboat Rating.
+
+##### The navigation lights are in good working order and a battery is connected to the electrical system.
+
+##### Wind and geographical restrictions are dictated by the Member’s Double-Handed Rating.
 
 ### Docking Hours
-All boats, except Keelboats, the Pearson Ensign and the J-22, must be docked by dark. The only exception shall be when effort to comply is thwarted by insufficient wind.
-
-### Restrictions During Football Games
-Except in case of an emergency or with special permission from a Commodore, no WYC activities or use of club resources may take place at the WAC on Husky Harbor days from the time the boats are moved prior to the game until the official end of Husky Harbor (1 hour after the end of the football game).
-
-### Hazardous Weather
-Hazardous weather conditions shall be deemed to exist if any of the following qualifications are met: Steady winds of 25 knots or over (large branches of grown trees in motion); or, puffy, shifty winds of 20 knots or over (rapidly changing wind direction and intensity as seen in trees and in the rapidly shifting pattern of dark streaks across the water); or, the display of the Hazardous sign as posted by a Chief or the Vice Commodore at their discretion. This may include occasions when wind velocities or other conditions are not yet hazardous but are so predicted. In hazardous weather conditions, whether the sign has been posted or not, the following procedures will be adhered to:
-
-#### Bridge Hazard
-No boat shall be sailed to weather of the Evergreen Point Bridge.
-
-#### PFD Use
-Adequate flotation must be worn by all persons in Yacht Club boats.
-
-#### Water Limitations
-No boat shall be sailed east of Webster Point or west of the WAC unless the Rescue Barge is being operated, the majority of the Chiefs present will decide where the various boats may be sailed.
-
-#### Clothing
-November 1 to May 1: if the Rescue Barge is not being operated in the near vicinity, all sailors must wear wetsuits or their close equivalent.
-
-#### Ratings Restrictions
-
-##### No Novice Sailing.
-
-### Keelboats
-The above parts of Article II do not apply to the use of keelboats. The specific regulation concerning the use of these boats and their required equipment are determined by the Executive Council except where covered by other sections of the By-Laws.
+All boats, except Keelboats and Daysailers with appropriate lighting must be docked by dark. The only exception shall be when a best effort to comply with this requirement is thwarted by insufficient wind. In this situation, the Member must inform the Officers or a Chief about their delay at their earliest convenience.
 
 ### Sailboard Clothing
-Sailors using sailboards are required to wear wetsuits from Sept. 15 through June 15.
+From September 15th to June 15th, Members using the Sailboards are required to wear wetsuits.
 
-## Use of Facilities
+### Hazardous Weather
+Hazardous weather conditions shall be deemed to exist if any of the following criteria are met: Steady winds of 25 knots or higher (large branches of grown trees in motion); or puffy, shifty winds of 20 knots or higher (rapidly changing wind direction and intensity as seen in trees and in the rapidly shifting pattern of dark streaks across the water); or, the display of the Hazardous Weather sign as posted by a Chief or an Officer at their discretion. This may include occasions when wind velocities or other conditions are not yet hazardous but are so predicted. In hazardous weather conditions, whether the sign has been posted or not, the following procedures must be adhered to:
 
-### Members and Guests
+#### Bridge Hazard
+No boat shall be sailed near the Evergreen Point Bridge on the windward side of it.
 
-1. All sailors must be Members or Guests of Members, or University students enrolled in a sailing class approved by the Executive Council and supervised by a Chief, Rating Examiner, or Instructor.
-2. All Guests must sign the Affidavit and Release for Guests on the check-out form before sailing.
-3. All Guests are expected to abide by the Club rules.
-4. Failure to do so may result in the Guest being prohibited from using any and all WYC facilities and equipment.
-5. Any Officer may issue such a prohibition for any period of time, including indefinite prohibitions.
-6. An appeal may be made according to Article III - Section B.6 in the Policies.
-7. Club members must not knowingly allow prohibited guests to violate this policy.
+#### Personal Floating Device Use
+Adequate flotation must be worn by all persons in Club boats.
+
+#### Water Limitations
+No boat shall be sailed East of Webster Point or West of the WAC unless a Rescue Whaler is being operated in support of such boats.
+
+#### Clothing
+From November 1st to May 1st, if hazardous conditions exist and a Rescue Whaler is not being operated in support of such boats, all sailors must wear wetsuits.
+
+#### Ratings Restrictions
+No Novice or Intermediate sailing.
+
+### Exception for Keelboats
+The above sections of Article II do not apply to the use of Keelboats. However, the Executive Council or Officers may determine conditions or expected conditions in which Keelboats may not be used.
+
+### Restrictions During Football Games
+Except in case of an emergency or with special permission from a Co-Commodore, no WYC activities or use of Club resources may take place at the WAC on home football game Husky Harbor days from the time that the boats are moved prior to the game until the official end of Husky Harbor (one hour after the end of the football game).
+
+## Requirements for the Use of Boats, Facilities, and Equipment
+
+### Member and Guest Requirements
+
+#### All Members and Guests accessing Club boats and facilities at the waterfront must be either fully-enrolled UW Seattle students or IMA members.
+
+#### During Waterfront Activities Center (WAC) operating hours, Members and Guests must check in at the WAC office by presenting their Husky Card or IMA membership card.
+
+#### To access Club boats and facilities at the waterfront outside of WAC operating hours, Guests must email guests@washingtonyachtclub.org each quarter with proof of full-time student status or IMA membership, and the Member bringing out the Guest must also be a recipient of this email. This will be used to verify that the waterfront is not being used for club activity by individuals without IMA membership.
+
+#### All Guests, both at the waterfront and at other locations, must sign the online WYC Participants Agreement (available at https://waiver.washingtonyachtclub.org/) before sailing, and the Member bringing them out must verify that they have properly completed the waiver.
+
+#### All Guests must abide by the Club rules and may not be under 18 years of age.
+
+#### Failure to follow the above requirements may result in the Member losing their privilege to bring Guests, and both the Member and Guest being prohibited from using any and all WYC facilities and equipment for a period of time to be determined by the Executive Council.An appeal may be made according to Article IV - Section B.6 in the Policies.
+
+#### Club members must not knowingly allow prohibited Guests from accessing Club boats of facilities.
+
+### Facilities Access
+Only Members with Ratings or Position Holders may open the Sail Locker, Shell House, and Gas Locker and only for usage in Club activity. When Members are not inside, these spaces must be locked at all times unless a Member in the immediate area knows that the door is unlocked and there is a defined plan for who will be locking the door and when. Any member failing to abide by the above requirements may have their privilege to access these facilities revoked.
 
 ### Monetary Gain
-WYC facilities and equipment shall not be used for any type of personal monetary gain.
+WYC and WAC facilities and equipment shall not be used for any type of personal monetary gain.
 
-### Responsibilities
-It is the responsibility of the Member checking out a boat to ensure that:
+### Responsibilities for Boat Usage
+It is the responsibility of the Member checking out a boat to ensure that the boat is correctly rigged and derigged, the boat is properly secured in its designated place, the sails are correctly put away, and all other equipment on board is stored back in its proper place.
 
-#### Rigging
-The boat is correctly rigged.
-
-#### Derigging
-The boat is correctly derigged.
-
-#### Storage
-The boat is stored in its assigned place and properly tied or lashed down.
-
-#### Sails
-The sails are correctly folded and stored.
-
-#### Other Equipment
-All other equipment on board is stored in its proper place.
-
-### Restrictions
-No boat shall be sailed:
+### Boat Checkout Requirements
+Boats may only be sailed if the following requirements are met:
 
 #### Checkout Sheet Requirement
-Without filling out the appropriate Check-Out Sheet as designated by the Executive Council and without the surrender of the membership card or the signing of the Affidavit and Release for Guests by every person on board.
+The online Checkout Form must be completed, and every Guest must sign the online Participants Agreement (available at https://waiver.washingtonyachtclub.org/).
 
 #### Ratings Requirement
-Without a Novice, Intermediate, or Skipper aboard, except with the express permission of a Chief, Rating Examiner, or an Instructor.
+The appropriate Novice, Intermediate, or Skipper rating is required, except with the express permission of a Chief, Ratings Examiner, or Instructor.
 
 #### Equipment Requirement
-Without the proper equipment for the particular class of boat aboard.
+All proper equipment for the particular boat must be on board.
 
-### Permission by Chiefs and Rating Examiners
-A Chief or Rating Examiner may, at their discretion, give permission for a crew-rated Member (or a Novice or Intermediate, when high wind conditions exist) to practice sailing for the purpose of becoming a Novice, Intermediate, or Skipper, provided the following:
+### Checkout Permissions by Chiefs and Ratings Examiners
+A Chief or Ratings Examiner may, at their discretion, give permission for a non-rated Member (or a Novice or Intermediate-rated Member when high wind conditions exist) to practice sailing for the purpose of becoming a Novice, Intermediate, or Skipper, provided the following:
 
 #### Permission
 Permission must be granted each time the Member wants to sail.
 
-#### Check-Out Sheet
-The Check-Out Sheets must be signed by the Chief or Rating Examiner giving permission.
+#### Checkout Form
+The Member checking out the boat must indicate on the online Checkout Form which Chief, Ratings Examiner, or Instructor is giving permission.
 
 #### Time Restriction
-A Chief or Rating Examiner may apply any time restriction they wish.
+A Chief or Ratings Examiner may apply any reasonable time restriction to the sailing of each vessel.
 
 #### Water Limitations
-Crew, Novice, and Intermediate rated Members may sail only in Union Bay within sight of the WAC. Specific permission to sail in waters outside Union Bay may be given to Intermediate, Novice, or Crew rated Members only by a Chief or Rating Examiner, who must be in the near vicinity.
+Non-rated, Novice, and Intermediate-rated Members receiving checkout permission may sail only in Union Bay within sight of the WAC. Specific permission to sail in waters outside Union Bay may be given to Novice or Intermediate Members only by a Chief or Ratings Examiner, who must be operating a Rescue Whaler in support of the vessel.
 
-#### Catamarans and Sailboards
-Permission to sail in catamarans or sailboards may be given by any Chief or Rating Examiner.
+#### Catamarans and Sailboards Checkouts
+Permission to sail in Catamarans or sailboards may be given by any Chief or Ratings Examiner at their discretion.
 
-#### Basic Sailing Ability
-A Chief or Rating Examiner giving permission to practice must watch until the Member demonstrates basic ability to sail the boat.
-
-#### Sailboard
-A Chief or Rating Examiner giving permission to practice on sailboards must either remain on the water on the Rescue Barge or tether the board until the Member demonstrates basic ability to sail the board.
+#### Confirmation of Basic Sailing Ability
+A Chief or Ratings Examiner giving permission to practice must watch the Member’s sailing performance until the Member demonstrates the basic ability to sail the boat safely. For Sailboards, the Chief or Ratings Examiner may alternatively tether the board until the Member demonstrates the basic ability to sail the board safely.
 
 ### Classes
-Beginning and Intermediate classes are taught only by Instructors. These classes are intended to assist the inexperienced sailor in learning the basic techniques of rigging, derigging, sailing, self rescue, and docking of club boats with primary emphasis on instilling respect for club equipment and instilling in Members safe and seaman-like sailing attitudes.
+Novice and Intermediate classes are taught only by Instructors. These classes are intended to assist the inexperienced sailor in learning the basic techniques of rigging, derigging, sailing, self-rescue, and docking of club boats, with primary emphasis on instilling respect for club equipment and instilling in Members safe sailing behaviors.
 
 #### Times
-Classes are taught at scheduled times as determined by the Instructor and the Vice Commodore.
+Classes are taught at scheduled times as determined by the Instructor(s) and the Vice Commodore.
 
-#### Instructor Signature
-Class Members having only a Crew rating shall, in addition to fulfilling the check-out requirements of Members having ratings, obtain a permission signature from the Instructor at each class session.
+#### Instructor Checkout Permissions
+Class Members without appropriate ratings shall, in addition to fulfilling the checkout requirements of Members having Ratings, obtain permission from the Instructor at each class session.
 
 #### Boat Reservations
-Instructors may reserve those boats needed for scheduled classes subject to the restrictions of the Vice Commodore and/or Executive Council.
+Instructors may reserve those boats needed for scheduled classes, subject to the restrictions of the Vice Commodore and/or Executive Council.
 
 ### Defective Equipment
-No boat shall be sailed in known defective condition as regards to hull, rigging, spars, or sails without the express permission of the Fleet Captain of that fleet.
-
-### Sail Locker
-The Sail and Gear Check-out Room in the WAC must be locked at all times unless a Member in the immediate area knows that the door is unlocked.
+No boat shall be sailed in known defective condition in regards to hull, rigging, spars, or sails without the express permission of the Fleet Captain of that fleet.
 
 ### Smoking
-There will be no smoking in the vicinity of the WAC or on University property except in designated smoking areas. Smoking is not permitted in the cabin of any club boat.
+There will be no smoking in the vicinity of the WAC except in designated smoking areas. Smoking is not permitted in the cabin of any Club boat.
 
 ### Flammable Liquids
-Flammable liquids must be stored in the gas locker.
+Flammable liquids must be stored in the Gas Locker.
 
-## Equipment
-
-### Requirements
-Each boat shall be equipped with the following when being sailed:
-
-#### PFDs
-One Coast Guard approved life preserver for each person aboard.
-
-#### Buoyant Cushion
-One Coast Guard approved buoyant cushion for boats over 16 feet in length.
+## Boat Equipment Requirements
+In order to be sailed, each boat shall be equipped with one Coast Guard-approved life jacket for each person on board or expected to be on board at any point in the outing. One Coast Guard-approved buoyant throwable must be on board any boat over 16 feet in length, and any additional Coast Guard equipment requirements must be met.
 
 ## Personal Safety
 
 ### Swimming Ability
-It is expected that all Members of the Club will have sufficient swimming ability to take care of themselves in an emergency. Because the Club lacks testing facilities, Members must vouch for their own abilities and sail at their own risk if this ability is insufficient.
+It is expected that all Members of the Club will have sufficient swimming ability to take care of themselves in an emergency. Members must vouch for their own abilities and sail at their own risk if this ability is insufficient.
 
 ### Guests
-The Member who checked out the boat is responsible for the safety of their guests and has authority over their vessel. All guests must sign the “Affidavit and Release for Guests” prior to boarding. Guests must wear flotation at all times while sailing aboard dinghies. Guests who can not swim must wear flotation at all times when aboard any WYC boat.
+Members who check out a boat are responsible for the safety of their Guests and have full authority over their vessel. All guests must fill out the online Participants Agreement (available at https://waiver.washingtonyachtclub.org/) prior to boarding. Guests must wear proper flotation at all times while sailing aboard Dinghies. Guests who can not swim must wear flotation at all times while on board all Club boats.
 
 ### Club Regulations
-The Member who checked out the boat is required to obey and enforce the safety regulations of the club, especially those rules related to the having and wearing of life preservers. Non-swimmers or persons under 18 years of age who are not University of Washington students must wear coast Guard approved life preservers at all times while on board club boats.
+The Member who checked out the boat is required to obey and enforce the safety regulations of the Club, especially those rules related to having and wearing life preservers. Non-swimmers must wear Coast Guard-approved life preservers at all times while on board Club boats.
 
-### Sub-Novice Ratings
-Members below Novice rating must wear flotation at all times while sailing aboard dinghies.
+### Use of Personal Flotation Devices
+Members without Ratings, members who cannot swim, and all Guests must wear proper flotation at all times while sailing aboard dinghies.
 
 ### Sailboards
-All sailors of sailboards must wear a Coast Guard approved life vest at all times.
+All sailors of Sailboards must wear proper flotation at all times.
 
-## Damage to Club boats
+## Damage to Club Boats
 
 ### Responsibilities
-All Members are responsible, and equally so, for any damage or loss of equipment while the boat is checked out to them. The Executive Council may charge a reasonable amount for such loss. Such a charge shall not exceed the value of the damage or loss, and shall be proportional to the extent to which the Member was at fault for the damage.
+All Members are responsible, and equally so, for any damage or loss of equipment while the boat is checked out to them. The Executive Council may charge a reasonable amount for such loss to account for replacement and repair of equipment or vessels. Such a charge shall not exceed the value of the damage or loss and shall be proportional to the extent to which the Member was at fault for the damage.
 
 ### Damage Repair Form
-Anyone damaging or finding a damaged boat shall fill out a Repair Form for that boat. If the damage is such that the boat is not sailable, the Fleet Captain of that fleet or Head Fleet Captain must be notified by phone or in person. If both these persons are unavailable, the damage may be reported to any Chief.
+Anyone damaging or finding a damaged boat shall fill out a Repair Form for that boat. If the damage is such that the boat is not in sailable condition, the Fleet Captain of that fleet or the Head Fleet Captain must be notified.
 
 ### Boat Repair
-In case of damage to Club boats, the skipper shall make arrangements with the Fleet Captain of that fleet or repair such damage.
+In case of damage to Club Boats, the Skipper shall make arrangements with the Fleet Captain of that fleet to learn to perform the necessary repairs, or repair such damage themselves.
 
-## Use of Club Rescue Powerboats
+## Use of Rescue Whalers
 
 ### Personnel
-The rescue boats shall be used by Chiefs, Rating Examiners, and Instructors only, except that in case of an emergency endangering life or property, anyone may use the boats. The exception to this rule shall be by express permission of any Chief.
+The rescue Whalers shall be used by Chiefs, Ratings Examiners, and Instructors only, except that in case of an emergency endangering life or property, anyone may use the boats. Any exception to this rule shall be by express permission of a Chief or the Executive Council.
 
 ### Required Equipment
-The following equipment shall be on board the rescue boats when in use:
+The following equipment shall be on board the Whalers when in use:
 
 #### Gasoline
-Two gallons of gasoline.
+Two or more gallons of gasoline.
 
-#### PFDs
-A minimum of 4 Coast Guard approved life preservers.
+#### Personal Flotation Devices
+A minimum of four Coast Guard-approved life preservers.
 
 #### Paddle
-One paddle.
+One or more paddles.
 
-## Outboard Motors
-Other outboard motors except Keelboat motors may be used only by Chiefs, or by the permission of a Chief.
+## Outboard Motor Usage on Keelboats
+Usage of the outboard motors affixed to Keelboats is limited to qualified Keelboat Novices and Skippers, except with the permission of a Chief or the Executive Council.
 
-## Keelboat Outboards
-Keelboat outboards are limited to keelboat use by qualified Keelboat Novices and Skippers except with the permission of the Keelboat Fleet Captain or the Executive Council.
+## Outboard Motor Usage on Daysailers
+Usage of outboard motors affixed to a Daysailer is limited to qualified Keelboat Novices and Skippers, except with the permission of a Chief or the Executive Council. A reservation fee equivalent to 50% of the corresponding Keelboat Reservation Fee described in Article III, Section B of this Policies document must be submitted to the club.
 
-# Membership
-This article provides details for the management of Members. Categories of Members and qualifications for Membership are defined in the Constitution.
+## Other Usage of Outboard Motors
+Outboard motors may only be used for purposes other than those outlined above with the permission of a Chief or the Executive Council.
 
-## Management of Associate Members
 
-### Application
-If any person wishing to join the club is not a current student they must apply to the Program Director. They may be admitted according to the order in which they joined the list, their affiliation with the university, their potential service to the club, or other criteria as established by the Commodores and Program Director.
-
-### Revocation
-In cases where managing new membership applications is not sufficient to maintain the required ratio, the Commodores or Program Director may revoke the membership of any Associate Member for an indefinite period of time. The affected Associate Members will receive a full refund of membership dues paid for the quarter(s) affected and will be granted top priority for reinstatement once the student ratio allows without having to pay any initiation fee.
-
-## Suspension of Membership
-Any violation of the By-Laws or Policies of the Washington Yacht Club may be considered ground for suspension of membership.
-
-### Loss of Privileges
-A Suspended Member is a Member not in good standing who does not have voting privileges and is also prohibited from using any and all WYC facilities and equipment, as a guest or otherwise.
-
-### Authority
-Persons authorized to suspend membership. All suspensions must be based on a specific violation of the By-Laws or Policies.
-
-#### Chiefs
-Chiefs or Officers may suspend any Member for a period of up to two weeks.
-
-#### Executive Council
-The Executive Council may, by 2/3 majority vote, suspend a Chief.
-
-### Period of suspension
-
-#### Duration
-The maximum period of suspension shall be two weeks.
-
-#### Extensions
-The maximum suspension may be extended by a 2/3 majority vote of the Executive Council. This extension shall be for deliberate and/or repeated disregard of the By-Laws or Policies.
-
-### Obligatory suspensions
-
-#### Hazardous Weather
-Violations of Hazardous Weather rules requires obligatory suspension. The penalty shall be suspension of membership for two weeks and the infraction shall be brought before the Executive Council for review.
-
-#### Use of Facilities Violations
-The penalty shall be suspension of membership for one week or removal of ratings.
-
-#### Gas Supply Violations
-The penalty shall be suspension of membership for one week or removal of ratings.
-
-#### Violations of the UW Student Conduct Code
-All Members, including Associate Members, are expected to abide by the University's Student Conduct Code. Any violation of such while using WYC resources, attending WYC events, or which occurs in the vicinity of the UW Waterfront will incur a suspension of membership for at least one week and the infraction shall be brought before the Executive Council for review. Suspensions will become longer for any subsequent violations.
-
-### Suspension Procedures
-Those authorized to suspend a Member, upon suspending a Member, shall:
-
-1. Inform the Member of their suspension.
-2. Point out the section of the By-Laws or Policies that was violated.
-3. Remove the person's membership card.
-4. Inform the Member of any intention to ask the Executive Council for an extension of the penalty.
-5. Notify the Member of their right to appeal to the Executive Council.
-6. Notify the Executive Council of the details of suspension by email.
-
-### Appeal Suspensions
-Any suspension may be appealed to the Executive Council. The suspension will be made void upon a 2/3 majority vote in favor of the appeal.
-
-### Indefinite Suspension of Membership
-A Member who has repeatedly violated the By-Laws or Policies, or by their actions has shown a repeated disregard for the safety of Club Members or Equipment, or by their actions creates an overly negative or hostile environment for Members, or threatens the continued operation of the Club, may be suspended indefinitely by a 2/3 majority vote of the Executive Council.
-
-## Removal of Ratings
-
-### Unqualified Ratings
-Any rating may be removed for any violation of the By-Laws or Policies when, in the judgment of a Chief, a person could not qualify for that rating.
-
-### Procedures
-A Chief, upon removal of a rating, shall:
-
-1. Inform Interested Party(s), the Executive Council and a Program Director of the removal of that rating.
-2. Describe the reason for removal of the rating and cite any section of the By-Laws or Policies violated.
-3. Scratch the rating from the membership card and remove the rating from the database.
-
-### Appealing Ratings Removal
-A removal of a rating may be appealed to the Executive Council. The removal will be made void upon a 2/3 vote and with a majority approval at a General Meeting.
-
-### Chief Rating
-The Rating of Chief may be removed by the Executive Council with a 2/3 vote and with a majority approval at a General Meeting.
-
-# Finances
-
-## Keelboat Fees
-
-### Reservations
-
-#### Keelboat reservation fees shall be:
-
-| || Regular Members || Associate Members |
-|:---|---:|---:|---:|---:|
-| | Weekdays | Weekends <br />& Holidays | Weekdays | Weekends <br />& Holidays |
-| Full Day (outboard) | $22 | $30 | $35 | $45 |
-| Half Day* (outboard) | $16 | $20 | $25 | $30 |
-| Full Day (inboard) | $25 | $33 | $40 | $50 |
-| Half Day* (inboard) | $19 | $23 | $30 | $35 |
-
-1. Full-day reservations begin at 03:00 on the day reserved and end at 03:00 on the day after. Half-day reservations are either from 03:00 to 15:00 or from 15:00 to 03:00.
-2. Keelboat reservation fees are due in full when a reservation is placed.
-3. Policies and procedures for the placement of no-fee reservations for classes, maintenance and repair periods, and club events may be made by the Keelboat Fleet Captain.
-
-### Fleet Captain
-The Keelboat Fleet Captain may set other restrictions and/or policies governing the reservation and check out of the keelboats.
-
-### Keelboat Fund
-The Club shall maintain a Keelboat Fund to account for all moneys generated by Keelboat reservations and sales, and all moneys spent buying, maintaining, and overhauling Keelboats. The Purser shall maintain this fund separate from the General Fund. The Purser shall report on the balance of this fund and its change from the previous year as part of the annual fiscal report.
-
-## New Boat Fund
-The Club shall maintain a New Boat Fund accounted separate from other funds. This fund shall consist of all proceeds from the sale of boats (except for Keelboats, see By-Laws:Article VI - Section A.4.a.iii), all unburdened donations, all interest earned on bank deposits, and thirty percent of all dues and initiation fees. This fund shall be used for purchasing boats except in the case of a financial emergency declared by the Commodores and the Executive Council. The Purser shall report on the balance of this fund and its change from the previous year as part of the annual fiscal report.
-
-### Replacement of Laser Fleet
-One-fourth of the Laser Fleet shall be replaced each year by selling the oldest boats and purchasing new boats to maintain the fleet. Purchase of new boats to expand the fleet shall still require General Membership approval.
+# Membership Dues, Fees, and Wages
 
 ## Dues Periods
 
 ### Amounts
+| | Initiation Fee | Quarterly Dues | Annual Dues |
+|:---|---:|---:|---:|
+| Student | $0 | $29 | $85 |
+| Associate | $45 | $80 | $225 |
 
-| | Initiation Fee | Quarterly Dues | Annual Dues | WAC Fee* |
-|:---|---:|---:|---:|---:|
-| Student | $0 | $29 | $85 | $0 |
-| Associate | $45 | $80 | $225 | $50 |
-
-*The WAC fee must be paid by every faculty, staff and alumni Member who is not a member of the IMA.
+Full-time UW Seattle student status or IMA membership is required to be a Member. Membership will not be recognized if these requirements are not met.
 
 #### Force Majeure
-In the event of being unable to access the boats, facilities, and equipment for an extended period of time, Quarterly Dues and the WAC Fee will be reduced to $0. At such time as access becomes available, both shall return to the amounts listed above and must be paid before usage as described in Article II of the Policies.
+In the event of being unable to access the boats, facilities, and equipment for an extended period of time, quarterly membership dues will be reduced to $0. At such time as access becomes available again, membership dues shall return to the amounts listed above and must be paid before usage as described in Article II of the Policies. However, any duration of time in which Members were unable to make use of their Membership will be added on to their updated Membership duration.
 
 ### Duration
 Membership dues shall be paid either quarterly or annually. The rates established for the payment of dues may not be prorated. An annual membership covers four consecutive quarters.
 
 #### Student Winter Extension
-Quarterly membership dues paid during Autumn Quarter cover the entirety of Winter Quarter for members who remain a student during both periods.
+Quarterly membership dues paid during Autumn Quarter cover the entirety of Winter Quarter for members who remain a full-time student during both periods.
 
-#### Annual Dues Exception
-Annual membership dues paid while a student do not carry-over after they graduate. The affected members will receive a full refund of membership dues paid for the quarter(s) affected.
+#### Policy for Graduating Students
+Annual student memberships do not carry over if the student status of a Member changes during the time period covered by the annual membership. For each of the quarters affected, the Member will receive a refund equal to single-quarter membership dues for quarterly membership, or one-quarter of the annual membership dues paid.
 
-### Purchase Dates
-The first quarter a payment of dues shall be applied to shall be determined by the date the payment is received as follows:
-
-#### Autumn Quarter
-For payments received in September, October, or November: Autumn Quarter.
-
-#### Winter Quarter
-For payments received in December, January, or February: Winter Quarter.
-
-#### Spring Quarter
-For payments received in March, April, or May: Spring Quarter.
-
-#### Summer Quarter
-For payments received in June, July, or August: Summer Quarter.
-
-###  Effective Date
-A payment of dues shall become effective upon its receipt by the club or the club's agent.
-
-### Membership Dates
-Dues are effective through the day before the day instruction begins, as listed in the academic calendar published by the University of Washington, in the quarter immediately following the last quarter to which they are applicable.
+### Effective Dates
+Dues are effective from the date that instruction begins for the quarter(s) covered by the membership, as provided in the University of Washington Academic Calendar. Dues are effective until the day before instruction begins for the quarter immediately following the last quarter to which they are applicable.
 
 ### Dues Exempt Refund
-Members who qualify for a dues exemption may request a refund for the quarter affected or have that amount applied to their future membership, after fulfilling the duties of their role.
+Members who qualify for a dues exemption may request a refund for the quarter affected or have that amount applied to their future membership after fulfilling the duties of their role.
 
-## Salaries
+## Keelboat Reservation Fees
+Unless the Keelboat Fleet Captain has otherwise set other restrictions and/or policies governing the reservation and check out of the keelboats, the Reservation Fees outlined below are required in order to take out a Club Keelboat, or a Daysailer with usage of an attached Outboard.
+
+| || Regular Members || Associate Members |
+|:---|---:|---:|---:|---:|
+| | Weekdays | Weekends <br />& Holidays | Weekdays | Weekends <br />& Holidays |
+| Full Day Outboard | $22 | $30 | $35 | $45 |
+| Half Day Outboard | $16 | $20 | $25 | $30 |
+| Full Day Inboard | $25 | $33 | $40 | $50 |
+| Half Day Inboard | $19 | $23 | $30 | $35 |
+
+1. Full day reservations begin at 3 am on the day reserved and end at 3 am on the day after. Half day reservations are either from 3 am to 3 pm or from 3 pm to 3 am.
+2. Keelboat reservation fees are due in full when a reservation is placed.
+3. Policies and procedures for the placement of no-fee reservations without payment of fees for classes, maintenance and repair periods, and club events (e.g., Keelboat Clinic or Snooze ‘n’ Cruise) may be made by the Keelboat Fleet Captain or Vice Commodore.
+
+## Wages
 
 ### Maximum Hours
-No WYC employees are paid for more than twenty hours of work per week.
+No WYC employees may be paid for more than twenty hours of work per week.
 
-### Program Directors and Rating Examiners
+### Program Director and Ratings Examiners
 
 #### Starting Wage
-Hourly employees will start at an hourly wage greater than or equal to the prevailing University of Washington student minimum wage, as determined by a majority vote of the Executive Council.
+Hourly employees will start at an hourly wage equal to the prevailing University of Washington student minimum wage, unless otherwise approved by the Executive Council.
 
 #### Raises
-After the first 100 hours of work, and every three quarters from then on, hourly employees will be eligible for a raise upon recommendation by a performance review committee consisting of the Commodores and at least one additional Executive Council Member meeting in a closed session.
+After the first 100 hours of work, and every three quarters from then on, hourly employees will be eligible for a raise upon recommendation by a performance review committee consisting of a Co-Commodore and at least one additional Executive Council Member in a closed-session meeting.
 
 #### Maximum Wage
-The maximum hourly wage paid to hourly employees will be no greater than 2 times the prevailing University of Washington student minimum wage.
+The maximum hourly wage paid to hourly employees will be no greater than two times the prevailing University of Washington student minimum wage.
 
 #### Salary Disputes
-Hourly employees may petition the Executive Council for resolution of any salary disputes with the performance review committee.
+Hourly employees may petition the Executive Council for resolution of any salary disputes.
 
 #### Hours
-The Program Director's and Rating Examiner's hours will be set in consultation with the Executive Council. The Rating Examiner's hours should be spread out to ensure sufficient coverage for both weekends and weekdays. The Program Director's and Rating Examiner's hours may be significantly curtailed depending on seasonal demand. The Purser's hours will be on an as-needed basis.
-
-### Quartermaster
-The Quartermaster shall be paid up to a maximum of $325.00 per quarter.
+The Program Director’s and Ratings Examiners’ hours will be set in consultation with the Executive Council. The Ratings Examiners’ hours should be spread out to ensure sufficient coverage for both weekends and weekdays based on Member interests. The Program Director’s and Ratings Examiners’ hours may be significantly curtailed depending on seasonal demand or budget constraints. The Treasurer’s hours will be on an as-needed basis.
 
 ### Payment Dates
-The salary of the Quartermaster will be paid by the seventh week of the quarter. Hourly employees will be paid on a bi-monthly basis.
+Hourly employees will be paid on a bi-monthly basis.
 
 ### Salary Reduction
-The Executive Council may reduce the amount paid any individual as they see fit by a 2/3 vote.
+The Executive Council may reduce the future wages of an individual for hours of work not yet accrued by a two-thirds majority vote. The impacted member will be notified of this immediately.
 
-## Lost Membership Cards
-Lost membership cards will be replaced for a service charge determined by the Executive Council.
 
-# Enforcement of These Policies
+# Membership Management and Suspensions
+This Article provides details for the management of Members. Categories of Members and requirements for Membership are defined in the Constitution.
 
-## These Policies may be enforced by:
+## Management of Associate Members
 
-### Chiefs
-Chiefs by their power of suspension as described in Article III of the Policies.
+### Application Process
+If any person wishing to join the club is not a current UW Seattle student, they must apply to the Program Director. They may be admitted according to the order in which they joined the list, their affiliation with the university, their potential service to the club, or other criteria as established by the Co-Commodores and Program Director.
 
-### Executive Council
-The Executive Council by its power of suspension as described in Article III of the Policies.
+### Revocation of Membership
+In cases where managing new membership applications is not sufficient to maintain the required 50% student ratio, the Co-Commodores or Program Director may halt the membership of any Associate Member for an indefinite period of time. The affected Associate Members will receive a full refund of membership dues paid for the quarter(s) affected and will be granted top priority for reinstatement once the student ratio allows, without having to pay any Initiation Fee.
 
-## Theft
-Under any circumstances which may imply theft of Yacht Club property the University of Washington Police Department will be called upon for assistance.
+## Membership Suspensions
+Any violation of the By-Laws or Policies of the Washington Yacht Club, University regulations, or governing laws are grounds for suspension of membership. Memberships should not be suspended without such justification. Suspensions last for two weeks unless otherwise determined, including for an indefinite period of time.
 
-# Communications
+### Loss of Privileges
+A Suspended Member is a Member not in good standing who does not have voting privileges and is also prohibited from using any and all WYC facilities and equipment, as a guest or otherwise. Refunds are not given for membership dues previously paid by a Suspended Member, unless otherwise approved by the Executive Council.
 
-## Posting of announcements
-Any club action which requires notification, announcement, distribution, or posting will be announced on the wyc_info email list and posted on the club website for the period of time specified by the relevant section of the Constitution, By-Laws, or Policies.
+### Authority
+#### Officers
+A majority of officers may suspend any Member for a period of up to two weeks.
 
-## Official University Communication
-Only the Commodores are empowered to represent the Club when speaking with University administration.
+#### Executive Council
+A majority vote from the Executive Council may also be used to suspend any Member for a period of up to two weeks.
 
-### Limitations
-This policy does not restrict communications of a routine or operational nature.
+By a two-thirds majority vote, the Executive Council may suspend any Member for a specified period beyond two weeks, including indefinitely, or revoke the status of a Chief. This shall be for deliberate and/or repeated disregard of the By-Laws or Policies.
 
-# Forecast
+### Obligatory Suspensions
+Obligatory suspensions will be enforced for improper use of boats and facilities, violation of Hazardous Weather rules, or violation of the University of Washington Student Code of Conduct.
 
-## Meetings
-Dates for a minimum of one (1) executive council meeting and one (1) general meeting, to occur during the upcoming quarter, shall be announced by the Program Director during the final meeting of each quarter.
+### Suspension Procedures
+Upon suspension of a Member, the Club shall:
 
+#### Inform the Member and the Executive Council of the suspension, describing the section(s) of the By-Laws, Policies, University regulations, or governing laws violated.
+
+#### Inform the Member of any intention for the Executive Council to consider extending the duration of the penalty.
+
+#### Notify the Member of their right to appeal to the Executive Council.
+
+### Appeal Suspensions
+Any suspension may be appealed to the Executive Council. The suspension will be made void upon a two-thirds majority vote in favor of the appeal.
+
+### Indefinite Suspension of Membership
+A Member who has repeatedly violated the By-Laws or Policies, or by their actions has shown a repeated disregard for the safety of Club Members or equipment, or by their actions creates an overtly negative or hostile environment for Members or threatens the continued operation of the Club, may be suspended indefinitely by a two-thirds majority vote of the Executive Council.
+
+## Removal of Ratings
+
+### Unqualified Ratings
+Any Rating may be removed for any violation of the By-Laws or Policies or when, in the judgment of a Chief, the Member in question should not have qualified for that Rating, whether due to a lack of appropriate sailing abilities, knowledge of club policies, or the judgment expected of Rated Members.
+
+### Procedures
+A Chief, upon removal of a rating, shall:
+
+#### Inform the Member and the Executive Council of the removal of that Rating,describing the reason for removal of the Rating and citing any section(s) of the By-Laws, Policies, University regulations, or governing laws violated.
+
+#### Remove the Rating from the Club’s online database.
+
+#### Notify the Member of their right to appeal to the Executive Council.
+
+### Appealing Ratings Removal
+A removal of a rating may be appealed to the Executive Council. The removal will be made void upon a two-thirds vote by the Executive Council
+
+# Posting of Announcements
+Any Club action which requires formal notification will be announced on the wyc_info@u.washington.edu email list as specified by the relevant section of the Constitution, By-Laws, or Policies.
+
+# Meeting Forecasts
+Dates for a minimum of one Executive Council Meeting and one General Meeting, to occur during the upcoming quarter, shall be decided by the final Meeting of each quarter.
 

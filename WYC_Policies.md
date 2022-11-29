@@ -468,6 +468,8 @@ Unless the Keelboat Fleet Captain has otherwise set other restrictions and/or po
 | Half Day Outboard | $16 | $20 | $25 | $30 |
 | Full Day Inboard | $25 | $33 | $40 | $50 |
 | Half Day Inboard | $19 | $23 | $30 | $35 |
+| Full Day Daysailor with Outboard | $11 | $15 | $18 | $23 |
+| Half Day Daysailor with Outboard | $8 | $10 | $13 | $15 |
 
 1. Full day reservations begin at 3 am on the day reserved and end at 3 am on the day after. Half day reservations are either from 3 am to 3 pm or from 3 pm to 3 am.
 2. Keelboat reservation fees are due in full when a reservation is placed.

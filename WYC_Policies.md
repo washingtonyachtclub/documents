@@ -253,11 +253,9 @@ Boats, except those designated as part of the Keelboat Fleet, the Pearson Ensign
 #### Exception for the Pearson Ensign and J/22
 A Member with a Double-Handed Intermediate Rating may sail the Pearson Ensign or J/22 after sunset if:
 
-##### That Member also holds a Keelboat Rating.
-
-##### The navigation lights are in good working order and a battery is connected to the electrical system.
-
-##### Wind and geographical restrictions are dictated by the Member’s Double-Handed Rating.
+###### That Member also holds a Keelboat Rating.
+###### The navigation lights are in good working order and a battery is connected to the electrical system.
+###### Wind and geographical restrictions are dictated by the Member’s Double-Handed Rating.
 
 ### Docking Hours
 All boats, except Keelboats and Daysailers with appropriate lighting must be docked by dark. The only exception shall be when a best effort to comply with this requirement is thwarted by insufficient wind. In this situation, the Member must inform the Officers or a Chief about their delay at their earliest convenience.
@@ -293,19 +291,13 @@ Except in case of an emergency or with special permission from a Co-Commodore, n
 
 ### Member and Guest Requirements
 
-#### All Members and Guests accessing Club boats and facilities at the waterfront must be either fully-enrolled UW Seattle students or IMA members.
-
-#### During Waterfront Activities Center (WAC) operating hours, Members and Guests must check in at the WAC office by presenting their Husky Card or IMA membership card.
-
-#### To access Club boats and facilities at the waterfront outside of WAC operating hours, Guests must email guests@washingtonyachtclub.org each quarter with proof of full-time student status or IMA membership, and the Member bringing out the Guest must also be a recipient of this email. This will be used to verify that the waterfront is not being used for club activity by individuals without IMA membership.
-
-#### All Guests, both at the waterfront and at other locations, must sign the online WYC Participants Agreement (available at https://waiver.washingtonyachtclub.org/) before sailing, and the Member bringing them out must verify that they have properly completed the waiver.
-
-#### All Guests must abide by the Club rules and may not be under 18 years of age.
-
-#### Failure to follow the above requirements may result in the Member losing their privilege to bring Guests, and both the Member and Guest being prohibited from using any and all WYC facilities and equipment for a period of time to be determined by the Executive Council.An appeal may be made according to Article IV - Section B.6 in the Policies.
-
-#### Club members must not knowingly allow prohibited Guests from accessing Club boats of facilities.
+###### All Members and Guests accessing Club boats and facilities at the waterfront must be either fully-enrolled UW Seattle students or IMA members.
+###### During Waterfront Activities Center (WAC) operating hours, Members and Guests must check in at the WAC office by presenting their Husky Card or IMA membership card.
+###### To access Club boats and facilities at the waterfront outside of WAC operating hours, Guests must email guests@washingtonyachtclub.org each quarter with proof of full-time student status or IMA membership, and the Member bringing out the Guest must also be a recipient of this email. This will be used to verify that the waterfront is not being used for club activity by individuals without IMA membership.
+###### All Guests, both at the waterfront and at other locations, must sign the online WYC Participant’s Agreement (available at https://waiver.washingtonyachtclub.org/) before sailing, and the Member bringing them out must verify that they have properly completed the waiver.
+###### All Guests must abide by the Club rules and may not be under 18 years of age.
+###### Failure to follow the above requirements may result in the Member losing their privilege to bring Guests, and both the Member and Guest being prohibited from using any and all WYC facilities and equipment for a period of time to be determined by the Executive Council.An appeal may be made according to Article IV - Section B.6 in the Policies.
+###### Club members must not knowingly allow prohibited Guests from accessing Club boats of facilities.
 
 ### Facilities Access
 Only Members with Ratings or Position Holders may open the Sail Locker, Shell House, and Gas Locker and only for usage in Club activity. When Members are not inside, these spaces must be locked at all times unless a Member in the immediate area knows that the door is unlocked and there is a defined plan for who will be locking the door and when. Any member failing to abide by the above requirements may have their privilege to access these facilities revoked.
@@ -320,7 +312,7 @@ It is the responsibility of the Member checking out a boat to ensure that the bo
 Boats may only be sailed if the following requirements are met:
 
 #### Checkout Sheet Requirement
-The online Checkout Form must be completed, and every Guest must sign the online Participants Agreement (available at https://waiver.washingtonyachtclub.org/).
+The online Checkout Form must be completed, and every Guest must sign the online Participant’s Agreement (available at https://waiver.washingtonyachtclub.org/).
 
 #### Ratings Requirement
 The appropriate Novice, Intermediate, or Skipper rating is required, except with the express permission of a Chief, Ratings Examiner, or Instructor.
@@ -379,7 +371,7 @@ In order to be sailed, each boat shall be equipped with one Coast Guard-approved
 It is expected that all Members of the Club will have sufficient swimming ability to take care of themselves in an emergency. Members must vouch for their own abilities and sail at their own risk if this ability is insufficient.
 
 ### Guests
-Members who check out a boat are responsible for the safety of their Guests and have full authority over their vessel. All guests must fill out the online Participants Agreement (available at https://waiver.washingtonyachtclub.org/) prior to boarding. Guests must wear proper flotation at all times while sailing aboard Dinghies. Guests who can not swim must wear flotation at all times while on board all Club boats.
+Members who check out a boat are responsible for the safety of their Guests and have full authority over their vessel. All Guests must fill out the online Participant’s Agreement (available at https://waiver.washingtonyachtclub.org/) prior to boarding. Guests must wear proper flotation at all times while sailing aboard Dinghies. Guests who can not swim must wear flotation at all times while on board all Club boats.
 
 ### Club Regulations
 The Member who checked out the boat is required to obey and enforce the safety regulations of the Club, especially those rules related to having and wearing life preservers. Non-swimmers must wear Coast Guard-approved life preservers at all times while on board Club boats.
@@ -519,9 +511,10 @@ In cases where managing new membership applications is not sufficient to maintai
 Any violation of the By-Laws or Policies of the Washington Yacht Club, University regulations, or governing laws are grounds for suspension of membership. Memberships should not be suspended without such justification. Suspensions last for two weeks unless otherwise determined, including for an indefinite period of time.
 
 ### Loss of Privileges
-A Suspended Member is a Member not in good standing who does not have voting privileges and is also prohibited from using any and all WYC facilities and equipment, as a guest or otherwise. Refunds are not given for membership dues previously paid by a Suspended Member, unless otherwise approved by the Executive Council.
+A Suspended Member is a Member not in good standing who does not have voting privileges and is also prohibited from using any and all WYC facilities and equipment, as a Guest or otherwise. Refunds are not given for membership dues previously paid by a Suspended Member, unless otherwise approved by the Executive Council.
 
 ### Authority
+
 #### Officers
 A majority of officers may suspend any Member for a period of up to two weeks.
 
@@ -536,11 +529,9 @@ Obligatory suspensions will be enforced for improper use of boats and facilities
 ### Suspension Procedures
 Upon suspension of a Member, the Club shall:
 
-#### Inform the Member and the Executive Council of the suspension, describing the section(s) of the By-Laws, Policies, University regulations, or governing laws violated.
-
-#### Inform the Member of any intention for the Executive Council to consider extending the duration of the penalty.
-
-#### Notify the Member of their right to appeal to the Executive Council.
+###### Inform the Member and the Executive Council of the suspension, describing the section(s) of the By-Laws, Policies, University regulations, or governing laws violated.
+###### Inform the Member of any intention for the Executive Council to consider extending the duration of the penalty.
+###### Notify the Member of their right to appeal to the Executive Council.
 
 ### Appeal Suspensions
 Any suspension may be appealed to the Executive Council. The suspension will be made void upon a two-thirds majority vote in favor of the appeal.
@@ -556,11 +547,9 @@ Any Rating may be removed for any violation of the By-Laws or Policies or when, 
 ### Procedures
 A Chief, upon removal of a rating, shall:
 
-#### Inform the Member and the Executive Council of the removal of that Rating,describing the reason for removal of the Rating and citing any section(s) of the By-Laws, Policies, University regulations, or governing laws violated.
-
-#### Remove the Rating from the Club’s online database.
-
-#### Notify the Member of their right to appeal to the Executive Council.
+###### Inform the Member and the Executive Council of the removal of that Rating,describing the reason for removal of the Rating and citing any section(s) of the By-Laws, Policies, University regulations, or governing laws violated.
+###### Remove the Rating from the Club’s online database.
+###### Notify the Member of their right to appeal to the Executive Council.
 
 ### Appealing Ratings Removal
 A removal of a rating may be appealed to the Executive Council. The removal will be made void upon a two-thirds vote by the Executive Council

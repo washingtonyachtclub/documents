@@ -2,7 +2,6 @@
 <div class="document_revision">DRAFT: December 8, 2022</div>
 
 # Articles and Regulations Taking Precedence
-
 ## University of Washington Policies
 Since the Washington Yacht Club (WYC) is a Registered Student Organization at the University of Washington (UW), the WYC shall abide by and act in accordance with all lawful policies and the rules set forth by UW.
 
@@ -13,7 +12,6 @@ The three governing documents of the WYC are the Constitution, the By-Laws, and 
 This Article provides details for the duties and powers of the Officers. The procedures for their election and removal from office are included in the Constitution.
 
 ## Officer Duties
-
 ### Co-Commodores
 1. Oversee all activities of the Club, the Officers, the Executive Council, and the General Membership.
 2. Serve as the primary representatives of the Club to members, entities of the University, and the general public. Only the Co-Commodores are empowered to represent the Club when speaking with University administration and public entities, unless authorization is otherwise explicitly granted. This policy does not restrict communications of a routine or operational nature.
@@ -35,7 +33,6 @@ This Article provides details for the duties and powers of the Officers. The pro
 3. Work with the Recruitment Chair, Social Chair, Media Director, and Snooze n Cruise Chair to plan and carry out WYC recruitment, publicity, social events, and other non-instructional activities. If any of these positions are vacant, the Rear Commodore will fulfill those responsibilities or delegate those responsibilities to another Member until those positions can be filled.
 
 # Executive Council
-
 ## Definition
 The Executive Council plans, coordinates, and executes on all necessary Club business. It is also in charge of the enforcement of Club rules, policies, and regulations, and determining the repercussions for any infractions of these rules, policies, and regulations. It is responsible to the General Membership.
 
@@ -43,7 +40,6 @@ The Executive Council plans, coordinates, and executes on all necessary Club bus
 The Voting Members of the Executive Council are Regular Members who are Officers, Position Holders (including Fleet Captains), and/or Chiefs.
 
 ## Duties of the Executive Council
-
 ### Club Operations 
 The Members of the Executive Council are responsible for leading all aspects of the Club’s operations.The Executive Council shall act as the Club’s planning and coordinating body, which also enables all necessary Club activities to be carried out.
 
@@ -62,7 +58,6 @@ Will appoint Position Holders to vacant positions upon the failure of the Co-Com
 Executive Council Meetings can be called by a Co-Commodore or by the will of the majority of the Executive Council. Adequate notice of such meetings shall be given to all Executive Council Members.
 
 # Positions
-
 ## Appointment
 Position Holders are appointed by the Co-Commodores with the approval of the Executive Council. Program Director and Treasurer are paid Positions and must be approved by a majority vote of either the General Membership or the Executive Council. The Co-Commodores may remove Position Holders from their Position, but decisions of removal may be overturned by a majority vote of the Executive Council. Additional Positions may be created at the discretion of the Co-Commodores or the Executive Council.
 
@@ -137,9 +132,7 @@ Special Committees may be designated by the Commodore as the need arises. Commit
 
 
 # Ratings Examiners and Instructors
-
 ## Rating Examiners
-
 ### Definition
 Ratings Examiners host Supervised Sailing hours, give Ratings Tests and Written Exams, and otherwise coordinate with individual Members who wish to continue to receive sailing instruction outside of formal lessons. They may be Chiefs who wish to make it clear that they would like to help the Club provide Supervised Sailing opportunities, or they may be Members with Instructor qualifications who would like to be granted standing approval to provide Supervised Sailing opportunities.
 
@@ -161,44 +154,34 @@ Ratings Examiners who are not Officers may ask to be paid for their hours of ser
 Members with at least one Novice rating, who are capable of assisting other Members in the rigging and checkout of boats may request to be appointed as an Assistant Ratings Examiner. They may be granted authority to sign checkout sheets as a proxy for an on-duty Ratings Examiner when the Ratings Examiner is unavailable, but they do not have the authority to sign out Members on their own.
 
 ## Instructors
-
 ### Definition
 Instructors are Members with Ratings who teach organized sailing classes, mostly to beginning sailors.
 
 ### Requirements
-At least one Instructor for each class must hold a Whaler Rating. If a Member wishes to become an Instructor, the Club will prioritize the training of potential Instructors in safe Whaler usage (provided that they hold a Boater Education Card).
-
-To become an Instructor, one should have a Skipper Rating for the class that they wish to teach. Alternatively, to teach a Dinghy Class (Single-Handed, Double-Handed, Sailboard, or Catamaran), they may have an Intermediate Rating for the class that they wish to teach and at least one other Dinghy Skipper rating, and be approved by the Vice Commodore.
-
-If approved by the Vice Commodore, Members with only Intermediate Ratings but with prior experience serving as a Co-Instructor may serve as an Instructor for Novice Dinghy classes for the Fleet in which they hold the Intermediate Rating.
-
-Instructors should have already passed the Dinghy Novice Written Test, and they should attempt to pass the Dinghy Skipper Written Test before teaching their next class.
+1. At least one Instructor for each class must hold a Whaler Rating. If a Member wishes to become an Instructor, the Club will prioritize the training of potential Instructors in safe Whaler usage (provided that they hold a Boater Education Card).
+2. To become an Instructor, one should have a Skipper Rating for the class that they wish to teach. Alternatively, to teach a Dinghy Class (Single-Handed, Double-Handed, Sailboard, or Catamaran), they may have an Intermediate Rating for the class that they wish to teach and at least one other Dinghy Skipper rating, and be approved by the Vice Commodore.
+3. If approved by the Vice Commodore, Members with only Intermediate Ratings but with prior experience serving as a Co-Instructor may serve as an Instructor for Novice Dinghy classes for the Fleet in which they hold the Intermediate Rating.
+4. Instructors should have already passed the Dinghy Novice Written Test, and they should attempt to pass the Dinghy Skipper Written Test before teaching their next class.
 
 ### Duties and Privileges
-Instructors may check out Members for vessels in which the Members are not rated within the defined scope of the class that is being taught.
-
-Instructors may only give Ratings Tests to students in their own classes. After a class has concluded, with the approval of the Vice Commodore, Instructors may continue to supervise the sailing of their former students for the remainder of the quarter, with the goal of allowing the student to earn the Rating designated by the class that they took.
-
-During classes, Instructors should supervise the performance of instructional duties by Assistant Instructors, and they may allow the Assistant Instructor to practice driving a rescue Whaler on which they are aboard when this can be done safely.
+1. Instructors may check out Members for vessels in which the Members are not rated within the defined scope of the class that is being taught.
+2. Instructors may only give Ratings Tests to students in their own classes. After a class has concluded, with the approval of the Vice Commodore, Instructors may continue to supervise the sailing of their former students for the remainder of the quarter, with the goal of allowing the student to earn the Rating designated by the class that they took.
+3. During classes, Instructors should supervise the performance of instructional duties by Assistant Instructors, and they may allow the Assistant Instructor to practice driving a rescue Whaler on which they are aboard when this can be done safely.
 
 ### Dues Exemption
 Instructors are dues exempt for any quarters in which they commit to teaching one or more classes.
 
 ### Assistant Instructors
-To become an Assistant Instructor, one must have at least an Intermediate Rating corresponding to the class in which they wish to assist.
-
-They will be under the supervision of an Instructor who is responsible for training of the Assistant Instructor. Assistant Instructors assist an Instructor in all duties related to the teaching of their class. However, they may not perform any of these duties unless the supervising Instructor is present.
-
-Separately, Club Members with Dinghy certifications for similar vessels from formal sailing certification bodies or other significant demonstrated experience (e.g., competitive sailing experience) may serve as Assistant Instructors if they pass the Novice Dinghy Written Test, but they should try to test for our Club Ratings as soon as reasonable.
+1. To become an Assistant Instructor, one must have at least an Intermediate Rating corresponding to the class in which they wish to assist.
+2. They will be under the supervision of an Instructor who is responsible for training of the Assistant Instructor. Assistant Instructors assist an Instructor in all duties related to the teaching of their class. However, they may not perform any of these duties unless the supervising Instructor is present.
+3. Separately, Club Members with Dinghy certifications for similar vessels from formal sailing certification bodies or other significant demonstrated experience (e.g., competitive sailing experience) may serve as Assistant Instructors if they pass the Novice Dinghy Written Test, but they should try to test for our Club Ratings as soon as reasonable.
 
 ### Co-Instructors
 Two Members who meet the requirements for being Assistant Instructors may teach a class in pairs, at the discretion of the Vice Commodore.
 
 
 # Chiefs
-
 ## Chiefs
-
 ### Purpose
 The primary purpose of maintaining an active set of Chiefs of the Club is to identify and recognize Members who show good judgment in matters of safety and a willingness to continue to contribute their advice and efforts to supporting the Members and the activities of the Club. Their substantial knowledge, abilities, and experience with the Club benefits the continued success of the Club as a whole.
 
@@ -227,7 +210,6 @@ Chiefs are encouraged to attend Executive Council Meetings and provide their inp
 The Officers shall automatically become Chiefs upon their election if they possess the necessary Ratings to be eligible. They shall be expected to fulfill this Ratings requirement as soon as possible if they are able, but they will not become a Chief until they do so.
 
 ## Designated Chief
-
 ### Definitions
 Designated Chiefs for a specific fleet of vessels may give Skipper Ratings for that fleet of vessels. For example, a Designated Catamaran Chief may give Catamaran Skipper Ratings, but they may give no other Skipper Ratings if they do not hold a Designation for those other fleets. A Designated Whaler Chief may give one type of Whaler Rating; separate Whaler Novice and Whaler Skipper ratings do not exist. The individual types of Designated Chiefs make up the entire set of Chiefs of the Club.
 
@@ -244,9 +226,7 @@ Any Chief who is a Keelboat Skipper may give a Keelboat Novice Rating, but the C
 
 
 # Financial Matters
-
 ## Annual Budget
-
 ### Budget Proposal and Approval
 The Treasurer shall present a proposed annual budget for the following year at or before the last planned meeting of Fall Quarter, with advanced notice of the expected date provided to them by the Co-Commodores. The proposed budget must be discussed and approved by the General Membership. Until an annual budget is approved, no expenditures shall be made, except to be used for wages, insurance, existing bills, and fuel, or via emergency authorization described below.
 
@@ -315,9 +295,7 @@ Up to date budget reports shall be presented by the Treasurer quarterly for revi
 Insurance costs shall be paid from the General Fund.
 
 ## Purchasing
-
 ### Check Writing
-
 #### Check Writing Privileges
 The following Members shall have permission to write checks from the Club accounts.
 
@@ -351,7 +329,6 @@ Position Holders shall be authorized to spend their approved budget or shall aut
 Any single item costing over $500 must be approved by any two Officers or by the General Membership. Any single item exceeding $1000 must be approved by the General Membership.
 
 ### Purchasing Procedures
-
 #### Documentation of Expenditures
 Any Club expenditures must be documented and submitted to the Treasurer, indicating which budget each expense is to be charged to. If receipts or invoices contain expenses for multiple budgets, the portion of the expense that is to be charged to each budget must be indicated. The Treasurer shall establish the specific manner and format in which they would like expenditures to be documented and submitted.
 
@@ -360,7 +337,6 @@ Requests for reimbursement for Club expenditures paid for by Members should be s
 
 
 # Club Document Amendments
-
 ## Constitutional Amendments
 Procedures for amending the Constitution are described in the Constitution.
 
@@ -368,7 +344,6 @@ Procedures for amending the Constitution are described in the Constitution.
 The By-Laws and Policies may be amended by a majority vote of Regular Members at a General Meeting, following the procedures outlined below.
 
 ## Procedure
-
 ### By-Laws
 A proposed By-Laws amendment must be announced at a General Meeting where discussion and revision of the amendment may take place. The revised amendment will then be posted to the wyc_info@u.washington.edu email list at least 7 days prior to a General Meeting in which the amendment may be voted on. The amendment may be further revised during the meeting prior to a vote and/or following a failed vote.
 

@@ -86,6 +86,12 @@ The following are descriptions of Positions in the Club:
 4. Distributes Quarterly and Annual financial reports to the Officers and the Executive Council.
 5. Pays bills for Club expenses on our purchasing accounts.
 
+### Fundraising Chair
+1. Pursues financial support for our nonprofit organization through grant applications, funding requests, and periodic calls for donations.
+2. Researches and explores fundraising opportunities, keeping track of their core requirements and deadlines.
+3. Coordinates with the Officers and the Treasurer to set an annual fundraising goal and any specific fundraising targets that are needed for individual funding requests.
+4. Maintains and shares a prioritized list of equipment and vessel types that the Club is seeking for donation.
+
 ### Recruitment Chair
 1. Organizes and coordinates all Club recruitment activity including membership drives and open houses (e.g., Boat on the Bricks/Lawn and Dawg Daze), and other recruiting activities.
 2. Ensures that there is one or more Club recruitment activity each academic quarter.

@@ -74,6 +74,12 @@ h1:before {
   counter-increment: counter1;
   content: "Article " counter(counter1, upper-roman) " - ";
 }
+h1 + ol {
+  list-style-type: upper-alpha;
+}
+h1 + p + ol {
+  list-style-type: upper-alpha;
+}
 
 h2 {
   counter-reset: counter3;
@@ -82,6 +88,12 @@ h2 {
 h2:before {
   counter-increment: counter2;
   content: "Section " counter(counter2, upper-alpha) ". ";
+}
+h2 + ol {
+  list-style-type: decimal;
+}
+h2 + p + ol {
+  list-style-type: decimal;
 }
 
 h3 {
@@ -92,6 +104,12 @@ h3:before {
   counter-increment: counter3;
   content: counter(counter3, decimal) ". ";
 }
+h3 + ol {
+  list-style-type: lower-alpha;
+}
+h3 + p + ol {
+  list-style-type: lower-alpha;
+}
 
 h4 {
   counter-reset: counter5;
@@ -101,6 +119,13 @@ h4:before {
   counter-increment: counter4;
   content: counter(counter4, lower-alpha) ". ";
 }
+h4 + ol {
+  list-style-type: lower-roman;
+}
+h4 + p + ol {
+  list-style-type: lower-roman;
+}
+
 
 h5 {
 	font-size: 1em;
@@ -111,16 +136,30 @@ h5:before {
   counter-increment: counter5;
   content: counter(counter5, lower-roman) ". ";
 }
+h5 + ol {
+  list-style-type: decimal;
+}
+h5 + p + ol {
+  list-style-type: decimal;
+}
+
 
 h6 {
-	font-size: 0.875em;
-	text-transform: uppercase;
-  counter-reset: counter6;
+	font-size: 1em;
+	font-weight: normal;
+  counter-reset: counter7;
   padding-left: 5em;
 }
 h6:before {
-  counter-increment: counter5;
-  content: counter(counter5) ". ";
+	font-weight: bold;
+  counter-increment: counter6;
+  content: counter(counter6, decimal) ". ";
+}
+h6 + ol {
+  list-style-type: lower-roman;
+}
+h6 + p + ol {
+  list-style-type: lower-roman;
 }
 
 

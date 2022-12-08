@@ -309,7 +309,7 @@ The following Members shall have permission to write checks from the Club accoun
 If warranted, checks shall be distributed by the Treasurer or Program Director upon request.
 
 #### Records
-Records of sent checks shall be submitted to the Treasurer, along with receipts detailing which accounts, outlined in Article VII - Section A.4.a of the By-Laws, that the purchases shall be taken from.
+Records of sent checks shall be submitted to the Treasurer, along with receipts detailing which accounts, outlined in Article VII - Section A.4 of the By-Laws, that the purchases shall be taken from.
 
 #### Fees
 If not properly reported to the Treasurer, any fees associated with determining the amount, recipient, and purpose of specific checks shall be paid by the Member who wrote the check.

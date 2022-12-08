@@ -166,7 +166,7 @@ Instructors are Members with Ratings who teach organized sailing classes, mostly
 ### Duties and Privileges
 1. Instructors may check out Members for vessels in which the Members are not rated within the defined scope of the class that is being taught.
 2. Instructors may only give Ratings Tests to students in their own classes. After a class has concluded, with the approval of the Vice Commodore, Instructors may continue to supervise the sailing of their former students for the remainder of the quarter, with the goal of allowing the student to earn the Rating designated by the class that they took.
-3. During classes, Instructors should supervise the performance of instructional duties by Assistant Instructors, and they may allow the Assistant Instructor to practice driving a rescue Whaler on which they are aboard when this can be done safely.
+3. During classes, Instructors should supervise the performance of instructional duties by Assistant Instructors, and they may allow the Assistant Instructor to practice driving a rescue Whaler on which they are aboard when this can be done safely (provided that the Member holds a Boater Education Card).
 
 ### Dues Exemption
 Instructors are dues exempt for any quarters in which they commit to teaching one or more classes.
@@ -175,6 +175,7 @@ Instructors are dues exempt for any quarters in which they commit to teaching on
 1. To become an Assistant Instructor, one must have at least an Intermediate Rating corresponding to the class in which they wish to assist.
 2. They will be under the supervision of an Instructor who is responsible for training of the Assistant Instructor. Assistant Instructors assist an Instructor in all duties related to the teaching of their class. However, they may not perform any of these duties unless the supervising Instructor is present.
 3. Separately, Club Members with Dinghy certifications for similar vessels from formal sailing certification bodies or other significant demonstrated experience (e.g., competitive sailing experience) may serve as Assistant Instructors if they pass the Novice Dinghy Written Test, but they should try to test for our Club Ratings as soon as reasonable.
+4. Assistant Instructors are encouraged to obtain a Boater Education Card prior to teaching so that they have the opportunity to practice operating the Whalers during their classes.
 
 ### Co-Instructors
 Two Members who meet the requirements for being Assistant Instructors may teach a class in pairs, at the discretion of the Vice Commodore.

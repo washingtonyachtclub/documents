@@ -1,5 +1,5 @@
 <div class="document_title">Policies</div>
-<div class="document_revision">DRAFT: December 8, 2022</div>
+<div class="document_revision">December 8, 2022</div>
 
 # Definitions and Ratings
 ## Fleets and Classes of Boats

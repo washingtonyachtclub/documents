@@ -1,5 +1,5 @@
 <div class="document_title">By-Laws</div>
-<div class="document_revision">DRAFT: December 8, 2022</div>
+<div class="document_revision">December 8, 2022</div>
 
 # Articles and Regulations Taking Precedence
 ## University of Washington Policies

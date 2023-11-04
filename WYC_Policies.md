@@ -402,8 +402,8 @@ Outboard motors may only be used for purposes other than those outlined above wi
 ### Amounts
 | | Initiation Fee | Quarterly Dues | Annual Dues |
 |:---|---:|---:|---:|
-| Student | $0 | $29 | $85 |
-| Associate | $45 | $80 | $225 |
+| Student | $0 | $39 | $100 |
+| Associate | $0 | $80 | $225 |
 
 Full-time UW Seattle student status or IMA membership is required to be a Member. Membership will not be recognized if these requirements are not met.
 
@@ -412,9 +412,6 @@ In the event of being unable to access the boats, facilities, and equipment for 
 
 ### Duration
 Membership dues shall be paid either quarterly or annually. The rates established for the payment of dues may not be prorated. An annual membership covers four consecutive quarters.
-
-#### Student Winter Extension
-Quarterly membership dues paid during Autumn Quarter cover the entirety of Winter Quarter for members who remain a full-time student during both periods.
 
 #### Policy for Graduating Students
 Annual student memberships do not carry over if the student status of a Member changes during the time period covered by the annual membership. For each of the quarters affected, the Member will receive a refund equal to single-quarter membership dues for quarterly membership, or one-fourth of the annual membership dues paid.

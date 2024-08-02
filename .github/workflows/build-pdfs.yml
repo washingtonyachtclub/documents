@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
   build-pdfs:
@@ -11,25 +12,46 @@ jobs:
     steps:
     - name: Pull repository files
       uses: actions/checkout@v3
+      
     - name: Load and cache Node
       uses: actions/setup-node@v3
       with:
         node-version: '16'
         cache: 'npm'
         cache-dependency-path: '**/.github/workflows/*.yml'
+        retention-days: 300
+
+    - name: Install Dependencies
+      run: npm install
+      
     - name: Build Constitution
       run: npx md-to-pdf --config-file ./wyc_md-to-pdf_config.json WYC_Constitution.md
+      
     - name: Build By-Laws
       run: npx md-to-pdf --config-file ./wyc_md-to-pdf_config.json WYC_By-Laws.md
+      
     - name: Build Policies
       run: npx md-to-pdf --config-file ./wyc_md-to-pdf_config.json WYC_Policies.md
+      
     - name: Build Ithaka Appendix
       run: npx md-to-pdf --config-file ./wyc_md-to-pdf_config.json WYC_Ithaka_Appendix.md
+      
     - name: Archive PDFs
       uses: actions/upload-artifact@v3
       with:
         name: wyc-doc-pdfs
         path: |
           *.pdf
+          
     - name: Download PDFs
       uses: actions/download-artifact@v3
+      with:
+        name: wyc-doc-pdfs-${{ github.run_id }}
+
+    - name: Notify Success
+      if: success()
+      run: echo "PDF build completed successfully."
+
+    - name: Notify Failure
+      if: failure()
+      run: echo "PDF build failed. Check the logs for details."

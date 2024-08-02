@@ -16,13 +16,9 @@ jobs:
     - name: Load and cache Node
       uses: actions/setup-node@v3
       with:
-        node-version: '16'
+        node-version: '20'
         cache: 'npm'
         cache-dependency-path: '**/.github/workflows/*.yml'
-        retention-days: 300
-
-    - name: Install Dependencies
-      run: npm install
       
     - name: Build Constitution
       run: npx md-to-pdf --config-file ./wyc_md-to-pdf_config.json WYC_Constitution.md

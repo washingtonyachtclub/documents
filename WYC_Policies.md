@@ -439,32 +439,15 @@ Unless the Keelboat Fleet Captain has otherwise set other restrictions and/or po
 2. Keelboat reservation fees are due in full when a reservation is placed.
 3. Policies and procedures for the placement of reservations without payment of fees for classes, maintenance and repair periods, and club events (e.g., Keelboat Clinic or Snooze ‘n’ Cruise) may be made by the Keelboat Fleet Captain or Vice Commodore.
 
-## Wages
-### Maximum Hours
-No WYC employees may be paid for more than twenty hours of work per week.
+## Volunteer Recognition
+### Volunteer Recognition Positions
+The Program Director and Ratings Examiners may be paid by a fixed ammount as a quarterly stipend.
 
-### Secretary and Ratings Examiners
-#### Starting Wage
-Hourly employees will start at an hourly wage equal to the prevailing University of Washington student minimum wage, unless otherwise approved by the Executive Council.
+#### Program Director
+The quarterly stipend shall be set by the Executive Council.
 
-#### Raises
-After the first 100 hours of work and every three quarters from then on, hourly employees will be eligible for a raise upon recommendation by a performance review committee consisting of a Co-Commodore and at least one additional Executive Council Member in a closed-session meeting.
-
-#### Maximum Wage
-The maximum hourly wage paid to hourly employees will be no greater than two times the prevailing University of Washington student minimum wage.
-
-#### Salary Disputes
-Hourly employees may petition the Executive Council for resolution of any salary disputes.
-
-#### Hours
-The Secretary’s and Ratings Examiners’ hours will be set in consultation with the Executive Council. The Ratings Examiners’ hours should be spread out to ensure sufficient coverage for both weekends and weekdays based on Member interests. The Secretary’s and Ratings Examiners’ hours may be significantly curtailed depending on seasonal demand or budget constraints. The Treasurer’s hours will be on an as-needed basis.
-
-### Payment Dates
-Hourly employees will be paid on a bi-monthly basis.
-
-### Salary Reduction
-The Executive Council may reduce the future wages of an individual for hours of work not yet accrued by a two-thirds majority vote. The impacted member will be notified of this immediately.
-
+#### Ratings Examiners
+The quarterly stipend shall not be greater than total of all fees required for membership by the club and the UW Recreation Department.
 
 # Membership Management and Suspensions
 This Article provides details for the management of Members. Categories of Members and requirements for membership are defined in the Constitution.

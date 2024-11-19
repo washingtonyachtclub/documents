@@ -1,5 +1,5 @@
 <div class="document_title">Policies</div>
-<div class="document_revision">December 8, 2022</div>
+<div class="document_revision">November 19, 2024</div>
 
 # Definitions and Ratings
 ## Fleets and Classes of Boats
@@ -397,7 +397,7 @@ Usage of outboard motors affixed to a Daysailer is limited to qualified Keelboat
 Outboard motors may only be used for purposes other than those outlined above with the permission of a Chief or the Executive Council.
 
 
-# Membership Dues, Fees, and Wages
+# Membership Dues, Fees, and Volunteer Recognition
 ## Dues Periods
 ### Amounts
 | | Initiation Fee | Quarterly Dues | Annual Dues |

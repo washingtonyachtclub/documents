@@ -441,9 +441,9 @@ Unless the Keelboat Fleet Captain has otherwise set other restrictions and/or po
 
 ## Volunteer Recognition
 ### Volunteer Recognition Positions
-The Program Director and Ratings Examiners may be paid by a fixed ammount as a quarterly stipend.
+The Secretary and Ratings Examiners may be paid by a fixed ammount as a quarterly stipend.
 
-#### Program Director
+#### Secretary
 The quarterly stipend shall be set by the Executive Council.
 
 #### Ratings Examiners

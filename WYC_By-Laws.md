@@ -32,6 +32,20 @@ This Article provides details for the duties and powers of the Officers. The pro
 2. Assist in the management of the Club in coordination with the Co-Commodores and Vice Commodore.
 3. Work with the Recruitment Chair, Social Chair, Media Director, and Snooze n Cruise Chair to plan and carry out WYC recruitment, publicity, social events, and other non-instructional activities. If any of these positions are vacant, the Rear Commodore will fulfill those responsibilities or delegate those responsibilities to another Member until those positions can be filled.
 
+### Treasurer
+1. Oversees the finances of the Club, including current balances, income, and expenditures.
+2. Responsible for all Quarterly and Annual financial filings.
+3. Maintains records detailing all income and expenditures, divided into useful classifications.
+4. Distributes Quarterly and Annual financial reports to the other Officers and the Executive Council.
+5. Pays bills for Club expenses on our purchasing accounts.
+
+### Secretary
+1. Communicates with prospective and current Members, responding to any inquiries about the Club that are received.
+2. Processes membership sign-ups and renewals, and maintains the Club roster in our online database.
+3. Hosts Office Hours at our office in the HUB several times a week in order to chat with prospective Members, assist with membership sign-ups, and administer Written Exams.
+4. Attends Club Meetings and takes Meeting Minutes.
+5. Assists the Officers with their duties.
+
 # Executive Council
 ## Definition
 The Executive Council plans, coordinates, and executes on all necessary Club business. It is also in charge of the enforcement of Club rules, policies, and regulations, and determining the repercussions for any infractions of these rules, policies, and regulations. It is responsible to the General Membership.
@@ -59,7 +73,7 @@ Executive Council Meetings can be called by a Co-Commodore or by the will of the
 
 # Positions
 ## Appointment
-Position Holders are appointed by the Co-Commodores with the approval of the Executive Council. Program Director and Treasurer are paid Positions and must be approved by a majority vote of either the General Membership or the Executive Council. The Co-Commodores may remove Position Holders from their Position, but decisions of removal may be overturned by a majority vote of the Executive Council. Additional Positions may be created at the discretion of the Co-Commodores or the Executive Council.
+Position Holders are appointed by the Co-Commodores with the approval of the Executive Council. Secretary and Treasurer are paid Positions and must be approved by a majority vote of either the General Membership or the Executive Council. The Co-Commodores may remove Position Holders from their Position, but decisions of removal may be overturned by a majority vote of the Executive Council. Additional Positions may be created at the discretion of the Co-Commodores or the Executive Council.
 
 ## Dues Exemption 
 Position Holders are exempt from paying membership dues if the Member acts in the capacity of their designated role during the quarter(s) in which dues exemption is claimed.
@@ -67,24 +81,10 @@ Position Holders are exempt from paying membership dues if the Member acts in th
 ## Positions
 The following are descriptions of Positions in the Club:
 
-### Program Director
-1. Communicates with prospective and current Members, responding to any inquiries about the Club that are received.
-2. Processes membership sign-ups and renewals, and maintains the Club roster in our online database.
-3. Hosts Office Hours at our office in the HUB several times a week in order to chat with prospective Members, assist with membership sign-ups, and administer Written Exams.
-4. Attends Club Meetings and takes Meeting Minutes.
-5. Assists the Officers with their duties.
-
-### Treasurer
-1. Oversees the finances of the Club, including current balances, income, and expenditures.
-2. Responsible for all Quarterly and Annual financial filings.
-3. Maintains records detailing all income and expenditures, divided into useful classifications.
-4. Distributes Quarterly and Annual financial reports to the Officers and the Executive Council.
-5. Pays bills for Club expenses on our purchasing accounts.
-
 ### Fundraising Chair
 1. Pursues financial support for our nonprofit organization through grant applications, funding requests, and periodic calls for donations.
 2. Researches and explores fundraising opportunities, keeping track of their core requirements and deadlines.
-3. Coordinates with the Officers and the Treasurer to set an annual fundraising goal and any specific fundraising targets that are needed for individual funding requests.
+3. Coordinates with the Officers to set an annual fundraising goal and any specific fundraising targets that are needed for individual funding requests.
 4. Maintains and shares a prioritized list of equipment and vessel types that the Club is seeking for donation.
 
 ### Recruitment Chair
@@ -241,7 +241,7 @@ The Treasurer shall base the budget largely upon revenues and expenditures of th
 Position Holders in charge of specific budgets are invited to submit budget requests for the upcoming year to the Treasurer prior to November 1st of the current year.
 
 #### Club Member Input
-The Treasurer shall seek input from the Officers and no less than two Executive Council members involved with Club expenditures (e.g., the Program Director and Head Fleet Captain) in creating their initial proposed budget. This proposed budget should then be shared to the broader Executive Council for their input.
+The Treasurer shall seek input from the Officers and no less than two Executive Council members involved with Club expenditures (e.g., the Secretary and Head Fleet Captain) in creating their initial proposed budget. This proposed budget should then be shared to the broader Executive Council for their input.
 
 #### Due Date for Submission to Executive Council
 The proposed annual budget shall be submitted for review by the Executive Council no later than December 1st of the current year.
@@ -302,11 +302,11 @@ The following Members shall have permission to write checks from the Club accoun
 
 1. Co-Commodores
 2. Treasurer
-3. Program Director
+3. Secretary
 4. When needed, any designated Club Member executing defined Club business.
 
 #### Distribution
-If warranted, checks shall be distributed by the Treasurer or Program Director upon request.
+If warranted, checks shall be distributed by the Treasurer or Secretary upon request.
 
 #### Records
 Records of sent checks shall be submitted to the Treasurer, along with receipts detailing which accounts, outlined in Article VII - Section A.4 of the By-Laws, that the purchases shall be taken from.
@@ -336,7 +336,6 @@ Any Club expenditures must be documented and submitted to the Treasurer, indicat
 #### Member Reimbursement
 Requests for reimbursement for Club expenditures paid for by Members should be submitted to the Treasurer within 30 days if possible. Reimbursement requests should be submitted before the end of each calendar year in order to ensure proper tracking of annual expenditures.
 
-
 # Club Document Amendments
 ## Constitutional Amendments
 Procedures for amending the Constitution are described in the Constitution.
@@ -352,10 +351,9 @@ A proposed By-Laws amendment must be announced at a General Meeting where discus
 A proposed Policies amendment must be posted to the wyc_info@u.washington.edu email list at least 7 days prior to a General Meeting in which the amendment may be voted on. The amendment may be revised during the meeting prior to a vote and/or following a failed vote.
 
 ## Incorporation of Approved Amendments
-After the Constitution, By-Laws, or Policies have been amended, the Program Director shall incorporate the changes within 14 days and post the amended documents to the “Club Documents and Forms” page of the Club website.
+After the Constitution, By-Laws, or Policies have been amended, the Secretary shall incorporate the changes within 14 days and post the amended documents to the “Club Documents and Forms” page of the Club website.
 
 If any document is not updated within 14 days, those changes shall not be binding until the document has been updated and appropriately distributed to Members.
-
 
 # Sunset Provision
 If an action approved at either a General Meeting or an Executive Council Meeting has not been started within 10 weeks of when it could reasonably be started or another timeframe set for the commencement of that action, that action shall be considered null and void.

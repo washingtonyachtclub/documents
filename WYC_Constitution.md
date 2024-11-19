@@ -47,7 +47,7 @@ Members who perform service to the Club may be exempt from dues for one or more 
 # Officers
 
 ## Officers 
-The Officers of the Washington Yacht Club shall be co-Commodores, Vice Commodore, and Rear Commodore; The Commodores with the assistance of the other officers shall exercise the executive functions of the Club. The Commodores shall call and conduct all Meetings of the Club and shall act as the official representatives of the Club.  Other officer positions may be held by a single individual (e.g. Vice Commodore) or by two individuals acting as co-officers (e.g. two co-Vice Commodores).
+The Officers of the Washington Yacht Club shall be co-Commodores, Vice Commodore, Rear Commodore, Secretary, Treasurer, and Head Fleet Captain; The Commodores with the assistance of the other officers shall exercise the executive functions of the Club. The Commodores shall call and conduct all Meetings of the Club and shall act as the official representatives of the Club.  Other officer positions may be held by a single individual (e.g. Vice Commodore) or by two individuals acting as co-officers (e.g. two co-Vice Commodores).
 
 ## Qualifications
 Rules of eligibility for candidacy for election to and holding of Club offices shall be established in the By-Laws and shall be consistent with University of Washington rules. Any officer of the Club who under the rules of the University of Washington of the Club becomes ineligible for such offices shall, upon determination of such fact and without further action, cease to hold such office and their office shall be filled according to Article VI - Section C of the Constitution.
@@ -112,3 +112,9 @@ A proposed amendment to the Constitution must be announced at a General Meeting 
 ## Announcement
 Procedure outlined by Article VII - Section D in the By-Laws.
 
+# Chapters
+
+## Washington Yacht Club Rec Club Chapter
+The Washington Yacht Club Rec Club Chapter is a chapter of the Washington Yacht Club that operates as a UW Rec Club. This Chapter is based at the Waterfront Activities Center at the University of Washington.
+
+The Chapter can enter into agreements with the UW Department of Recreation to be a UW Rec Club. This agreement allows the Chapter, equipment and vessels operated by the Chapter, and its members to use facilities managed by UW Recreation at the University. The Club reserves the right to terminate this Chapter through the processes of Article VIII, at which time any agreements made by this chapter will also end.

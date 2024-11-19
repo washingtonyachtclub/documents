@@ -441,9 +441,9 @@ Unless the Keelboat Fleet Captain has otherwise set other restrictions and/or po
 
 ## Volunteer Recognition
 ### Volunteer Recognition Positions
-The Program Director and Ratings Examiners may be paid by a fixed ammount as a quarterly stipend.
+The Secretary and Ratings Examiners may be paid by a fixed ammount as a quarterly stipend.
 
-#### Program Director
+#### Secretary
 The quarterly stipend shall be set by the Executive Council.
 
 #### Ratings Examiners
@@ -454,10 +454,10 @@ This Article provides details for the management of Members. Categories of Membe
 
 ## Management of Associate Members
 ### Application Process
-If any person wishing to join the club is not a current UW Seattle student, they must apply to the Program Director. They may be admitted according to the order in which they joined the list, their affiliation with the university, their potential service to the club, or other criteria as established by the Co-Commodores and Program Director.
+If any person wishing to join the club is not a current UW Seattle student, they must apply to the Secretary. They may be admitted according to the order in which they joined the list, their affiliation with the university, their potential service to the club, or other criteria as established by the Co-Commodores and Secretary.
 
 ### Revocation of Membership
-In cases where managing new membership applications is not sufficient to maintain the required 50% student ratio, the Co-Commodores or Program Director may halt the membership of any Associate Member for an indefinite period of time. The affected Associate Members will receive a full refund of membership dues paid for the quarter(s) affected and will be granted top priority for reinstatement once the student ratio allows, without having to pay any Initiation Fee.
+In cases where managing new membership applications is not sufficient to maintain the required 50% student ratio, the Co-Commodores or Secretary may halt the membership of any Associate Member for an indefinite period of time. The affected Associate Members will receive a full refund of membership dues paid for the quarter(s) affected and will be granted top priority for reinstatement once the student ratio allows, without having to pay any Initiation Fee.
 
 ## Membership Suspensions
 Any violation of the By-Laws or Policies of the Washington Yacht Club, University regulations, or governing laws are grounds for suspension of membership. Memberships should not be suspended without such justification. Suspensions last for two weeks unless otherwise determined, including for an indefinite period of time.

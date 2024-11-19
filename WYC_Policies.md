@@ -443,7 +443,7 @@ Unless the Keelboat Fleet Captain has otherwise set other restrictions and/or po
 ### Maximum Hours
 No WYC employees may be paid for more than twenty hours of work per week.
 
-### Program Director and Ratings Examiners
+### Secretary and Ratings Examiners
 #### Starting Wage
 Hourly employees will start at an hourly wage equal to the prevailing University of Washington student minimum wage, unless otherwise approved by the Executive Council.
 
@@ -457,7 +457,7 @@ The maximum hourly wage paid to hourly employees will be no greater than two tim
 Hourly employees may petition the Executive Council for resolution of any salary disputes.
 
 #### Hours
-The Program Director’s and Ratings Examiners’ hours will be set in consultation with the Executive Council. The Ratings Examiners’ hours should be spread out to ensure sufficient coverage for both weekends and weekdays based on Member interests. The Program Director’s and Ratings Examiners’ hours may be significantly curtailed depending on seasonal demand or budget constraints. The Treasurer’s hours will be on an as-needed basis.
+The Secretary’s and Ratings Examiners’ hours will be set in consultation with the Executive Council. The Ratings Examiners’ hours should be spread out to ensure sufficient coverage for both weekends and weekdays based on Member interests. The Secretary’s and Ratings Examiners’ hours may be significantly curtailed depending on seasonal demand or budget constraints. The Treasurer’s hours will be on an as-needed basis.
 
 ### Payment Dates
 Hourly employees will be paid on a bi-monthly basis.
@@ -471,10 +471,10 @@ This Article provides details for the management of Members. Categories of Membe
 
 ## Management of Associate Members
 ### Application Process
-If any person wishing to join the club is not a current UW Seattle student, they must apply to the Program Director. They may be admitted according to the order in which they joined the list, their affiliation with the university, their potential service to the club, or other criteria as established by the Co-Commodores and Program Director.
+If any person wishing to join the club is not a current UW Seattle student, they must apply to the Secretary. They may be admitted according to the order in which they joined the list, their affiliation with the university, their potential service to the club, or other criteria as established by the Co-Commodores and Secretary.
 
 ### Revocation of Membership
-In cases where managing new membership applications is not sufficient to maintain the required 50% student ratio, the Co-Commodores or Program Director may halt the membership of any Associate Member for an indefinite period of time. The affected Associate Members will receive a full refund of membership dues paid for the quarter(s) affected and will be granted top priority for reinstatement once the student ratio allows, without having to pay any Initiation Fee.
+In cases where managing new membership applications is not sufficient to maintain the required 50% student ratio, the Co-Commodores or Secretary may halt the membership of any Associate Member for an indefinite period of time. The affected Associate Members will receive a full refund of membership dues paid for the quarter(s) affected and will be granted top priority for reinstatement once the student ratio allows, without having to pay any Initiation Fee.
 
 ## Membership Suspensions
 Any violation of the By-Laws or Policies of the Washington Yacht Club, University regulations, or governing laws are grounds for suspension of membership. Memberships should not be suspended without such justification. Suspensions last for two weeks unless otherwise determined, including for an indefinite period of time.

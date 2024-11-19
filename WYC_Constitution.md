@@ -1,5 +1,5 @@
 <div class="document_title">Constitution</div>
-<div class="document_revision">February 14, 2020</div>
+<div class="document_revision">November 19, 2024</div>
 
 # Name 
 The name of this organization shall be WASHINGTON YACHT CLUB.

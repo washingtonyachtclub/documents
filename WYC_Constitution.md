@@ -112,3 +112,9 @@ A proposed amendment to the Constitution must be announced at a General Meeting 
 ## Announcement
 Procedure outlined by Article VII - Section D in the By-Laws.
 
+# Chapters
+
+## Washington Yacht Club Rec Club Chapter
+The Washington Yacht Club Rec Club Chapter is a chapter of the Washington Yacht Club that operates as a UW Rec Club. This Chapter is based at the Waterfront Activities Center at the University of Washington.
+
+The Chapter can enter into agreements with the UW Department of Recreation to be a UW Rec Club. This agreement allows the Chapter, equipment and vessels operated by the Chapter, and its members to use facilities managed by UW Recreation at the University. The Club reserves the right to terminate this Chapter through the processes of Article VIII, at which time any agreements made by this chapter will also end.

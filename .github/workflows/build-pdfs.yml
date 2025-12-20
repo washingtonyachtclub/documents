@@ -5,6 +5,10 @@ on:
     branches:
       - main
 
+defaults:
+  run:
+    working-directory: ./pdf-generator
+
 jobs:
   build-pdfs:
     runs-on: ubuntu-latest

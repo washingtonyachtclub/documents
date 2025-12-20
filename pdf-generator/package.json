@@ -1,0 +1,36 @@
+{
+	"private": true,
+	"name": "wyc-documents-pdf-generator",
+	"version": "0.0.1",
+	"description": "Project to generate PDFs of WYC documents that are written in Markdown",
+	"author": "Wm Salt Hale <salt@washingtonyachtclub.org> (@altsalt)",
+	"license": "AGPL-3.0-only",
+	"homepage": "https://washingtonyachtclub.org/",
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com:washingtonyachtclub/documents.git"
+	},
+	"bugs": {
+		"url": "https://github.com/washingtonyachtclub/documents/-/issues"
+	},
+	"keywords": [
+		"washingtonyachtclub",
+		"markdown",
+		"md",
+		"pdf"
+	],
+	"scripts": {
+		"build:constitution": "md-to-pdf --config-file ./wyc_md-to-pdf_config.json ../WYC_Constitution.md",
+		"build:bylaws": "md-to-pdf --config-file ./wyc_md-to-pdf_config.json ../WYC_Constitution.md",
+		"build:policies": "md-to-pdf --config-file ./wyc_md-to-pdf_config.json ../WYC_Constitution.md",
+		"build:ithaka": "md-to-pdf --config-file ./wyc_md-to-pdf_config.json ../WYC_Constitution.md"
+	},
+	"dependencies": {
+		"md-to-pdf": "^5.2.5"
+	},
+	"engines": {
+		"node": "^24",
+		"npm": "^11"
+	},
+	"type": "module"
+}

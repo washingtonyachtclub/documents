@@ -1,0 +1,25 @@
+# https://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+[*]
+# Set default charset
+charset = utf-8
+# Unix-style newlines
+end_of_line = lf
+# Automatic newline at end of file
+insert_final_newline = true
+# 2 character-sized tab indentation
+indent_size = 2
+indent_style = tab
+# Remove whitespace before newlines
+trim_trailing_whitespace = true
+
+[*.{json,yaml,yml}]
+# space indention for json and yaml
+indent_style = space
+
+[*.md]
+# don't remove whitespace for markdown
+trim_trailing_whitespace = false

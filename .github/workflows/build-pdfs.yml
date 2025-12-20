@@ -11,36 +11,39 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Pull repository files
-      uses: actions/checkout@v4
-      
+      uses: actions/checkout@v6
+
     - name: Load and cache Node
-      uses: actions/setup-node@v4
+      uses: actions/setup-node@v6
       with:
-        node-version: '20'
+        node-version: '24'
         cache: 'npm'
         cache-dependency-path: '**/.github/workflows/*.yml'
-      
+
+    - name: Install Browser dependency
+      run: npx puppeteer browsers install chrome
+
     - name: Build Constitution
       run: npx md-to-pdf --config-file ./wyc_md-to-pdf_config.json WYC_Constitution.md
-      
+
     - name: Build By-Laws
       run: npx md-to-pdf --config-file ./wyc_md-to-pdf_config.json WYC_By-Laws.md
-      
+
     - name: Build Policies
       run: npx md-to-pdf --config-file ./wyc_md-to-pdf_config.json WYC_Policies.md
-      
+
     - name: Build Ithaka Appendix
       run: npx md-to-pdf --config-file ./wyc_md-to-pdf_config.json WYC_Ithaka_Appendix.md
-      
+
     - name: Archive PDFs
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v6
       with:
         name: wyc-doc-pdfs-${{ github.run_id }}
         path: |
           *.pdf
-          
+
     - name: Download PDFs
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v7
       with:
         name: wyc-doc-pdfs-${{ github.run_id }}
 

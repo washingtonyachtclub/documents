@@ -21,9 +21,10 @@
 	],
 	"scripts": {
 		"build:constitution": "md-to-pdf --config-file ./wyc_md-to-pdf_config.json ../WYC_Constitution.md",
-		"build:bylaws": "md-to-pdf --config-file ./wyc_md-to-pdf_config.json ../WYC_Constitution.md",
-		"build:policies": "md-to-pdf --config-file ./wyc_md-to-pdf_config.json ../WYC_Constitution.md",
-		"build:ithaka": "md-to-pdf --config-file ./wyc_md-to-pdf_config.json ../WYC_Constitution.md"
+		"build:bylaws": "md-to-pdf --config-file ./wyc_md-to-pdf_config.json ../WYC_By-Laws.md",
+		"build:policies": "md-to-pdf --config-file ./wyc_md-to-pdf_config.json ../WYC_Policies.md",
+		"build:ithaka": "md-to-pdf --config-file ./wyc_md-to-pdf_config.json ../WYC_Ithaka_appendix.md",
+    "build:all": "md-to-pdf --config-file ./wyc_md-to-pdf_config.json ../WYC_*.md"
 	},
 	"dependencies": {
 		"md-to-pdf": "^5.2.5"

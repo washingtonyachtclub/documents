@@ -16,6 +16,10 @@ jobs:
     - name: Pull repository files
       uses: actions/checkout@v6
 
+    # Temporary workaround for Ubuntu 23.10+ AppArmor restrictions
+    - name: Enable unprivileged user namespaces
+      run: echo 1 | sudo tee /proc/sys/kernel/unprivileged_userns_clone
+
     - name: Load and cache Node
       uses: actions/setup-node@v6
       with:

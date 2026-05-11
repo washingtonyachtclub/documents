@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 defaults:
   run:
@@ -41,6 +42,15 @@ jobs:
 
     - name: Build Ithaka Appendix
       run: npm run build:ithaka
+
+    - name: Build Windsurf Policies
+      run: npm run build:windsurf-policies
+
+    - name: Build Windsurf Badge Program
+      run: npm run build:windsurf-badges
+
+    - name: Build Windsurf SSP Southerly Policies
+      run: npm run build:windsurf-southerly
 
     - name: Archive PDFs
       uses: actions/upload-artifact@v6

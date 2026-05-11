@@ -131,6 +131,9 @@ The Big Cats may be sailed by any Member who has a Catamaran Intermediate Rating
 ##### Lake Sailor Specialty
 The Lake Sailor Specialty Rating may be given to a Member holding a Double-Handed Intermediate Rating who has displayed additional skill and judgment in sailing Daysailers. The Lake Sailor Rating allows the Member to sail any Daysailer in winds less than 15 knots in Lake Washington, north of the Evergreen Point Floating Bridge and south of Sand Point, during daylight hours. The wind speed is to be determined at the place where the boat is being sailed.
 
+##### Daysailer Small Outboard Specialty Rig Rating
+Daysailers may be sailed with an outboard of no more than 6 horsepower by DH intermediate or above who demonstrate to a Chief who has this rating the correct usage and installation of the propane, electric, and gasoline outboards as well as proper docking and safety methods as well as competency. The outboards shall only be used for the appropriate vessels (daysailers) and the corresponding daysailer reservation fees adhering to Article III section B of the policies must be paid in advance of usage of the vessel.
+
 ### Dinghy Skipper Rating
 #### Requirements
 To obtain a Skipper Rating one must:

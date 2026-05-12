@@ -1,4 +1,5 @@
 {
+	"basedir": "..",
 	"stylesheet": ["./wyc_md-to-pdf_style.css"],
 	"marked_options": {
 		"smartLists": true,

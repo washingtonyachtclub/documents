@@ -1,6 +1,5 @@
 <div class="document_title">Policies</div>
-<div class="document_revision">February 19, 2026</div>
-
+<div class="document_revision">May 7, 2026</div>
 
 # Definitions and Ratings
 ## Fleets and Classes of Boats
@@ -234,14 +233,14 @@ With the approval of the Membership at a General Meeting, club boats may be sail
 The Executive Council may approve the use of club boats to be sailed in US Sailing sanctioned sailing regattas within an area covered by the Club’s insurance policy, or in series racing organized by local sailing organizations.
 
 ### Sailing Hours
-Boats, except those designated as part of the Keelboat Fleet, the Pearson Ensign, and the J/22, may only be sailed during daylight hours and must be in sight of the WAC by sunset.
+Boats, except those designated as part of the Keelboat Fleet, may only be sailed during daylight hours. By sunset they must be in sight of the WAC or have taken steps to eliminate night-time sailing, such as planning a tow from a WYC motorized vessel.
 
-#### Exception for the Pearson Ensign and J/22
-A Member with a Double-Handed Intermediate Rating may sail the Pearson Ensign or J/22 after sunset if:
+#### Exception for the Pearson Ensign, J/22, and Flying Scot
+A Member with a Double-Handed Intermediate Rating may sail the Pearson Ensign, J/22, or Flying Scot after sunset if:
 
 1. That Member also holds a Keelboat Rating.
-2. The navigation lights are in good working order and a battery is connected to the electrical system.
-3. Wind and geographical restrictions are dictated by the Member’s Double-Handed Rating.
+2. The navigation lights are in good working order.
+3. They are sailing within the geographical restrictions.
 
 ### Docking Hours
 All boats, except Keelboats and Daysailers with appropriate lighting must be docked by dark. The only exception shall be when a best effort to comply with this requirement is thwarted by insufficient wind. In this situation, the Member must inform the Officers or a Chief about their delay as soon as possible.

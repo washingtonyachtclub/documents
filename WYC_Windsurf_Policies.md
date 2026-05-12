@@ -196,7 +196,7 @@ Windsurf badges are for promoting and awarding the development of windsurf skill
 
 ### Badge Requirements
 
-Visit Windsurf badge document.
+Visit the [Windsurf Badge Program](https://documents.washingtonyachtclub.org/WYC_Windsurfing_Badge_Program.pdf).
 
 # Use of Boats, Facilities, and Equipment
 
@@ -277,6 +277,8 @@ Windsurf boards must be sailed only during daylight hours and must be within tea
 All windsurf boards must be back on shore by dark, no exceptions.
 
 ### Sail Sand Point Southerly Policy
+
+Full policy described in [Windsurfing SSP Southerly Policies](https://documents.washingtonyachtclub.org/WYC_Windsurfing_SSP_Southerly_Policies.pdf).
 
 *(not directly applicable for northerly winds)*
 

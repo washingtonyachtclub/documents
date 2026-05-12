@@ -1,5 +1,5 @@
 <div class="document_title">By-Laws</div>
-<div class="document_revision">November 8, 2025</div>
+<div class="document_revision">January 7, 2026</div>
 
 # Articles and Regulations Taking Precedence
 ## University of Washington Policies
@@ -126,6 +126,10 @@ There shall be one Fleet Captain for each Fleet of vessels and one Sail Fleet Ca
 ### Quartermaster
 1. Responsible for procuring and maintaining an inventory of necessary materials and equipment for boat repair and maintenance.
 2. May lead the disposal and sale of Club equipment if directed by the Officers, Fleet Captains, or Executive Council.
+
+### System Administrator
+1. Responsible for managing and maintaining critical Club computing infrastructure.
+2. Including but not limited to the database, checkout forms, keelboat calendar, membership processing, and mailing list.
 
 ## Special Committees
 Special Committees may be designated by the Commodore as the need arises. Committees may be Standing Committees or they may be Temporary Committees formed to achieve a specific goal.

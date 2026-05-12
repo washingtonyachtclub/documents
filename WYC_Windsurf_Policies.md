@@ -221,11 +221,11 @@ Additional waters can be allowed for skippers or captains by permission of a win
 
 The following are the teaching boundaries, to be used for classes or ratings examinations:
 
-![SSP Teaching Boundaries](images/SSP_teaching_boundaries.jpg)
+![SSP Teaching Boundaries](../images/SSP_teaching_boundaries.jpg)
 
 The following are novice and intermediate sailing boundaries for open sailing:
 
-![SSP Sailing Boundaries](images/SSP_sailing_boundaries.png)
+![SSP Sailing Boundaries](../images/SSP_sailing_boundaries.png)
 
 ##### Union Bay
 

@@ -1,6 +1,7 @@
 <div class="document_title">Policies</div>
 <div class="document_revision">February 19, 2026</div>
 
+
 # Definitions and Ratings
 ## Fleets and Classes of Boats
 In the context of Club Policies, the term Dinghy is understood to include the Bravo, Single-Handed, Double-Handed, Performance, Sailboard, and Catamaran Fleets, unless otherwise specified.
@@ -139,7 +140,7 @@ Daysailers may be sailed with an outboard of no more than 6 horsepower by DH int
 To obtain a Skipper Rating one must:
 
 ##### Written Examination
-Pass the Dinghy Skipper Written Examination.
+Pass the Dinghy Skipper Written Examination - Including use of a knife to cut rope and demonstration of proper handheld radio usage.
 
 ##### Practical Skills
 Demonstrate proficiency in all requirements for a Novice and Intermediate Rating in over 15 knots of wind. Demonstrate a crew overboard recovery and a bottom-up capsize of the boat with a successful recovery.

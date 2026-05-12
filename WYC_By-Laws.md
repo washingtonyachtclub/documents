@@ -1,5 +1,5 @@
 <div class="document_title">By-Laws</div>
-<div class="document_revision">November 8, 2025</div>
+<div class="document_revision">January 7, 2026</div>
 
 # Articles and Regulations Taking Precedence
 ## University of Washington Policies
@@ -127,6 +127,10 @@ There shall be one Fleet Captain for each Fleet of vessels and one Sail Fleet Ca
 1. Responsible for procuring and maintaining an inventory of necessary materials and equipment for boat repair and maintenance.
 2. May lead the disposal and sale of Club equipment if directed by the Officers, Fleet Captains, or Executive Council.
 
+### System Administrator
+1. Responsible for managing and maintaining critical Club computing infrastructure.
+2. Including but not limited to the database, checkout forms, keelboat calendar, membership processing, and mailing list.
+
 ## Special Committees
 Special Committees may be designated by the Commodore as the need arises. Committees may be Standing Committees or they may be Temporary Committees formed to achieve a specific goal.
 
@@ -210,10 +214,10 @@ The duties and the responsibilities of a Chief, to be exercised with discretion 
 Chiefs are expected to use their good judgment and their understanding of sailing, weather, and safe rescue Whaler operation to oversee the safety of club members out on the water. However, a Chief is not authorized to criticize Members when they are engaged in recreational sailing except in the case of danger to life, limb, or equipment.
 
 #### Removal of Club Members from Unsafe Situations
-If the safety of Club Members is believed to be in danger due to poor conditions, poor sailing ability, or poor judgment on behalf of Club Member(s), the Chief should put their best effort into ensuring the safe return to land of the Club Member(s) and seek outside assistance if deemed necessary. If warranted, the Chief may remove the sailing permissions of the Member(s) for a period of two days, and the Chief should inform the Officers and/or Executive Council about the event at their earliest convenience, such that any appropriate repercussions for the incident may be determined.
+If the safety of Club Members is believed to be in danger due to poor conditions, poor sailing ability, or poor judgment on behalf of Club Member(s), the Chief should put their best effort into ensuring the safe return to land of the Club Member(s) and seek outside assistance if deemed necessary. If warranted, the Chief may remove the sailing permissions of the Member(s) for a period of up to two weeks, and the Chief should inform the Officers and/or Executive Council about the event at their earliest convenience, such that any appropriate repercussions for the incident may be determined.
 
 #### Enforcement of Club Rules
-Chiefs may reprimand Club Members if they are found to be in violation of the Club’s By-Laws or Policies. Chiefs may remove the privileges of club members, such as access to indoor facilities and Club vessels, if warranted, for a period of two days. Following such an incident, the Chief should inform the Officers and/or Executive Council about the event at their earliest convenience, such that the appropriate repercussions for the incident may be determined.
+Chiefs may reprimand Club Members if they are found to be in violation of the Club’s By-Laws or Policies. Chiefs may remove the privileges of club members, such as access to indoor facilities and Club vessels, if warranted, for a period of up to two weeks. Following such an incident, the Chief should inform the Officers and/or Executive Council about the event at their earliest convenience, such that the appropriate repercussions for the incident may be determined.
 
 #### Administer Ratings and Written Tests
 When possible, Chiefs should administer Ratings Tests and Written Tests and assist with the training of Members if their qualifications and knowledge allow them to do so.

@@ -40,9 +40,6 @@ jobs:
     - name: Build Policies
       run: npm run build:policies
 
-    - name: Build Ithaka Appendix
-      run: npm run build:ithaka
-
     - name: Build Windsurf Policies
       run: npm run build:windsurf-policies
 

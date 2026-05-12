@@ -1,4 +1,4 @@
-name: Build PDFs
+name: Build and Deploy PDFs
 
 on:
   push:
@@ -6,13 +6,20 @@ on:
       - main
   workflow_dispatch:
 
+permissions:
+  pages: write
+  id-token: write
+
 defaults:
   run:
     working-directory: ./pdf-generator
 
 jobs:
-  build-pdfs:
+  build-and-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
     - name: Pull repository files
       uses: actions/checkout@v6
@@ -31,40 +38,20 @@ jobs:
     - name: Install Dependencies
       run: npm ci
 
-    - name: Build Constitution
-      run: npm run build:constitution
+    - name: Build all PDFs
+      run: npm run build:all
 
-    - name: Build By-Laws
-      run: npm run build:bylaws
+    - name: Stage site for deployment
+      run: |
+        mkdir -p ../site
+        cp ../*.pdf ../site/
+        cp ../index.html ../site/
 
-    - name: Build Policies
-      run: npm run build:policies
-
-    - name: Build Windsurf Policies
-      run: npm run build:windsurf-policies
-
-    - name: Build Windsurf Badge Program
-      run: npm run build:windsurf-badges
-
-    - name: Build Windsurf SSP Southerly Policies
-      run: npm run build:windsurf-southerly
-
-    - name: Archive PDFs
-      uses: actions/upload-artifact@v6
+    - name: Upload Pages artifact
+      uses: actions/upload-pages-artifact@v3
       with:
-        name: wyc-doc-pdfs-${{ github.run_id }}
-        path: |
-          *.pdf
+        path: site
 
-    - name: Download PDFs
-      uses: actions/download-artifact@v7
-      with:
-        name: wyc-doc-pdfs-${{ github.run_id }}
-
-    - name: Notify Success
-      if: success()
-      run: echo "PDF build completed successfully."
-
-    - name: Notify Failure
-      if: failure()
-      run: echo "PDF build failed. Check the logs for details."
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4

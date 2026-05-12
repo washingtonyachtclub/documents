@@ -1,5 +1,5 @@
 <div class="document_title">Policies</div>
-<div class="document_revision">November 19, 2024</div>
+<div class="document_revision">February 19, 2026</div>
 
 # Definitions and Ratings
 ## Fleets and Classes of Boats
@@ -202,7 +202,7 @@ Demonstrate the proper use of secondary equipment, such as head, engine, stove, 
 A Keelboat Skipper is entitled to sail a Keelboat in all winds and in all waters for which the club carries insurance during the hours covered by a reservation, subject to the restrictions in this Policies document.
 
 #### Inboard Keelboat Specialty Rig Ratings
-A Keelboat Skipper may obtain separate Specialty Ratings allowing for the use of the Cal 3-30 or San Juan 30 sailboats. This Rating may be awarded by a Keelboat Chief and requires proficiency in sailing the larger boats, as well as use of the inboard engine and other equipment specific to the boat for which the Rating is given.
+A Keelboat Skipper may obtain separate Specialty Ratings allowing for the use of the Cal 3-30 or San Juan 30 sailboats. This Rating may be awarded by a Keelboat Chief and requires proficiency in sailing the larger boats, as well as use of the inboard engine and other equipment specific to the boat for which the Rating is given. A Keelboat Novice may also receive a Specialty Rating if they fulfill the same requirements. Keelboat novice water restrictions still apply with the Specialty Rating.
 
 #### Ithaka Skipper
 A Keelboat Skipper is eligible to be elected as an Ithaka Skipper by a two-thirds majority vote at a General Meeting following nomination by an existing Ithaka Skipper. This designation allows the Ithaka Skipper to skipper the Swan 441 when approved by a vote at a General Meeting, and is subject to any other restrictions on the use of the Swan 441 imposed by the Officers or by a majority vote of Members at an Executive Council Meeting or General Meeting.

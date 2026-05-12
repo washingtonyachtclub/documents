@@ -1,11 +1,15 @@
 # WYC Documents
 
-This repository stores the Washington Yacht Club documents (constitution, by-laws, policies, etc.) in their raw markdown text format and converts them to PDF assets for public consumption.
+Official Washington Yacht Club governing documents (constitution, by-laws, policies) stored as markdown and converted to PDF for public access.
 
-## Technologies
-- [Markdown to PDF](https://github.com/simonhaenisch/md-to-pdf/) NodeJS tool
-- [GitHub Actions](https://docs.github.com/en/actions)
+## Deployment
 
-## TODO
-- verify formatting expectations with everyone
-- make build conditional on file being updated
+Merges to `main` trigger a GitHub Actions workflow that builds PDFs and deploys them to GitHub Pages at [documents.washingtonyachtclub.org](https://documents.washingtonyachtclub.org).
+
+The build uses [md-to-pdf](https://github.com/simonhaenisch/md-to-pdf/) — config and scripts are in `pdf-generator/`.
+
+## Making Changes
+
+1. Create a branch named `changes/YYYY-MM-DD` with the date of the meeting where the changes were voted on.
+2. Open a PR into `main` and squash merge it. Title the squash commit with the meeting date so the history reads as a changelog of general meetings.
+3. PDFs rebuild and deploy automatically on merge.

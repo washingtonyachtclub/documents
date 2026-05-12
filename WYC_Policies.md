@@ -32,7 +32,7 @@ Sloop-rigged sailboats with more than one hull.
 Catamarans longer than 17 feet intended for more experienced catamaran sailors. They require a Specialty Rig Rating to sail.
 
 ### Daysailer Fleet
-Sloop-rigged sailboats from 19 to 22 feet in length that may comfortably hold four or more crew. The Flying Scot has a centerboard and can be sailed by a Double-Handed Novice. The other Daysailers have a fixed keel and require a Double-Handed Intermediate Rating to sail.
+Sloop-rigged sailboats from 19 to 22 feet in length that may comfortably hold four or more crew. The Flying Scot has a centerboard and can be sailed by a Double-Handed Novice. The other Daysailers have a fixed keel and require a Double-Handed Intermediate Rating to sail. If a fixed-keeled daysailer is operated with an outboard motor it may be sailed by a keelboat Novice or Skipper within the geographical restriction of their respective ratings.
 
 ### Keelboat Fleet
 #### Outboard Keelboats

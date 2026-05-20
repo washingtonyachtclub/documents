@@ -47,6 +47,7 @@ jobs:
         mkdir -p ../site
         cp ../*.pdf ../site/
         cp ../index.html ../site/
+        cp -r ../windsurf-documents ../site/
         echo "documents.washingtonyachtclub.org" > ../site/CNAME
 
     - name: Upload Pages artifact

@@ -45,6 +45,9 @@ This Article provides details for the duties and powers of the Officers. The pro
 3. Attends Club Meetings and takes Meeting Minutes.
 4. Assists the Officers with their duties.
 
+## Dues Exemption
+Officers are exempt from paying membership dues if the Member acts in the capacity of their elected role during the quarter(s) in which dues exemption is claimed.
+
 # Executive Council
 ## Definition
 The Executive Council plans, coordinates, and executes on all necessary Club business. It is also in charge of the enforcement of Club rules, policies, and regulations, and determining the repercussions for any infractions of these rules, policies, and regulations. It is responsible to the General Membership.
@@ -217,7 +220,7 @@ The Officers shall automatically become Chiefs upon their election if they posse
 
 ## Designated Chief
 ### Definitions
-Designated Chiefs for a specific fleet of vessels may give Skipper Ratings for that fleet of vessels. For example, a Designated Catamaran Chief may give Catamaran Skipper Ratings, but they may give no other Skipper Ratings if they do not hold a Designation for those other fleets. A Designated Whaler Chief may give one type of Whaler Rating; separate Whaler Novice and Whaler Skipper ratings do not exist. The individual types of Designated Chiefs make up the entire set of Chiefs of the Club.
+Designated Chiefs for a specific fleet of vessels may give Skipper Ratings for that fleet of vessels. For example, a Designated Catamaran Chief may give Catamaran Skipper Ratings, but they may give no other Skipper Ratings if they do not hold a Designation for those other fleets. A Designated Whaler Chief may give one type of Whaler Rating; separate Whaler Novice and Whaler Skipper ratings do not exist. A Windsurf Skipper Examiner Designated Chief can give Skipper ratings, while a Windsurf Captain Examiner Designated Chief can give Captains ratings. The individual types of Designated Chiefs make up the entire set of Chiefs of the Club.
 
 For simplicity, the word “Designated” does not have to be stated in order to understand that a Chief is a Designated Chief for the specific fleet of vessels indicated. For example, a “Catamaran Chief” may be understood to be a Chief who holds a Catamaran Designation and they do not explicitly have to be referred to as a Designated Catamaran Chief.
 
@@ -237,9 +240,9 @@ A Whaler Rating.
 A Windsurf Skipper Examiner must hold a Windsurf Skipper rating and a Windsurf Badge – Level 1. A Windsurf Captain Examiner must hold a Windsurf Captain rating, a Windsurf Badge – Level 1, a Gorge Windsurf Badge, and a Power Gybe Badge. Both must be familiar with: undertaking a risk assessment of the environment and providing a safety-related chalk talk before supervising windsurfers on the water; Club supervision/teaching boundaries and rescue policies; different methods for preventing windsurfers from entering dangerous situations; explaining and demonstrating members windsurfing out of dangerous situations; rescuing windsurfers from dangerous situations; using a stand-up paddleboard; and calling emergency services or for outside help.
 
 ### Appointment
-If possible, for the Single-Handed, Double-Handed, Sailboard, and Catamaran fleets, an existing Designated Chief for the fleet in question should give their approval for the Member to proceed with being considered for appointment. However, to be considered specifically for a Whaler Designation or Keelboat Designation, one or more existing Whaler Chiefs or Keelboat Chiefs, respectively, must support the Member being considered for this appointment.  
+For Dinghy and Sailboard Fleets, it is recommended that an existing Designated Chief for the relevant fleet endorse the apointee. For Whaler or Keelboat Designation, this endorsement is required.
 
-A Windsurf Skipper Examiner Designated Chief can give Skipper ratings, while a Windsurf Captain Examiner Designated Chief can give Captains ratings. A Windsurf Skipper Examiner Designated Chief who then receives their Windsurf Captain rating does not automatically become a Windsurf Captain Examiner. To receive the Windsurf Captain Examiner Designation, the sailor must have a Captain rating, be given approval for appointment by one or more existing Windsurf Captain Examiner Chiefs, and be considered for appointment by the Executive Council.  
+To receive the Windsurf Captain Examiner Designation, the sailor must have a Captain rating, be given approval for appointment by one or more existing Windsurf Captain Examiner Chiefs, and be considered for appointment by the Executive Council.  
 
 ### Exception for Granting of Keelboat Novice Ratings
 Any Chief who is a Keelboat Skipper may give a Keelboat Novice Rating, but the Club is encouraged to continue to evaluate whether that Keelboat Skipper should be considered for appointment as a Designated Keelboat Chief as they continue to gain experience and show continued good judgment.
@@ -277,28 +280,8 @@ The proposed budget may be amended at the General Meeting in which it is voted o
 #### Amendments to Budget
 The budget may be updated at any time at the request of the Executive Council, but it must follow the approval procedures described above.
 
-<!-- evaluate the entire funds section -->
-### Funds
-#### Description 
-The following Funds shall be tracked, with revenues being deposited into them coming from the fees and other income described below.
-
-##### General Fund
-Membership dues and initiation fees not allocated to the New Boat Fund, in addition to any other income not allocated to a different fund.
-
-##### Keelboat Fund
-Keelboat reservation fees and keelboat sales.
-
-#### Carryover
-All Funds shall carry over from year to year.
-
-#### Loans
-Loans may be made from one Fund to another at the discretion of the Executive Council.
-
-#### Redistribution
-The Executive Council may permanently redistribute the monies held in any Fund at their discretion.
-
 ### Budget Categories
-Expenditures and budgets shall be tracked based on defined categories and shall be drawn from specific Funds. Purchases for the Keelboat Fleet shall be drawn from the Keelboat Fund. All other purchases will be drawn from the General Fund unless otherwise directed.
+Expenditures and budgets shall be tracked based on defined categories.
 
 ### Approval of Exceeding Expenditures
 Requests for expenditures exceeding the budgeted amount in any budget category must first receive approval by the General Membership or the Executive Council. They must be posted to the wyc_info@u.washington.edu email list 7 days prior to the meeting where the vote to approve will take place.

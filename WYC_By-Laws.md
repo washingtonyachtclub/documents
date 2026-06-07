@@ -42,9 +42,8 @@ This Article provides details for the duties and powers of the Officers. The pro
 ### Secretary
 1. Communicates with prospective and current Members, responding to any inquiries about the Club that are received.
 2. Processes membership sign-ups and renewals, and maintains the Club roster in our online database.
-3. Hosts Office Hours at our office in the HUB several times a week in order to chat with prospective Members, assist with membership sign-ups, and administer Written Exams.
-4. Attends Club Meetings and takes Meeting Minutes.
-5. Assists the Officers with their duties.
+3. Attends Club Meetings and takes Meeting Minutes.
+4. Assists the Officers with their duties.
 
 # Executive Council
 ## Definition
@@ -73,13 +72,12 @@ Executive Council Meetings can be called by a Co-Commodore or by the will of the
 
 # Positions
 ## Appointment
-Position Holders are appointed by the Co-Commodores with the approval of the Executive Council. Secretary and Treasurer are paid Positions and must be approved by a majority vote of either the General Membership or the Executive Council. The Co-Commodores may remove Position Holders from their Position, but decisions of removal may be overturned by a majority vote of the Executive Council. Additional Positions may be created at the discretion of the Co-Commodores or the Executive Council.
+Position Holders are appointed by the Co-Commodores with the approval of the Executive Council. The Co-Commodores may remove Position Holders from their Position, but decisions of removal may be overturned by a majority vote of the Executive Council. Additional Positions may be created at the discretion of the Co-Commodores or the Executive Council.
 
 ## Dues Exemption 
 Position Holders are exempt from paying membership dues if the Member acts in the capacity of their designated role during the quarter(s) in which dues exemption is claimed.
 
 ## Positions
-The following are descriptions of Positions in the Club:
 
 ### Fundraising Chair
 1. Pursues financial support for our nonprofit organization through grant applications, funding requests, and periodic calls for donations.
@@ -131,6 +129,10 @@ There shall be one Fleet Captain for each Fleet of vessels and one Sail Fleet Ca
 1. Responsible for managing and maintaining critical Club computing infrastructure.
 2. Including but not limited to the database, checkout forms, keelboat calendar, membership processing, and mailing list.
 
+### Keelboat Instruction Chair
+1. Leads and coordinates keelboat instruction for the Club, working under the Vice Commodore
+2. Organizes keelboat classes, and helps recruit and schedule Instructors to run them.
+
 ## Special Committees
 Special Committees may be designated by the Commodore as the need arises. Committees may be Standing Committees or they may be Temporary Committees formed to achieve a specific goal.
 
@@ -138,12 +140,10 @@ Special Committees may be designated by the Commodore as the need arises. Commit
 # Ratings Examiners and Instructors
 ## Rating Examiners
 ### Definition
-Ratings Examiners host Supervised Sailing hours, give Ratings Tests and Written Exams, and otherwise coordinate with individual Members who wish to continue to receive sailing instruction outside of formal lessons. They may be Chiefs who wish to make it clear that they would like to help the Club provide Supervised Sailing opportunities, or they may be Members with Instructor qualifications who would like to be granted standing approval to provide Supervised Sailing opportunities.
+Ratings Examiners host Supervised Sailing hours, give Ratings Tests and Written Exams, and otherwise coordinate with individual Members who wish to continue to receive sailing instruction outside of formal lessons.
 
 ### Requirements
-Chiefs must inform the Vice Commodore if they wish to be recognized as a Ratings Examiner, and they may inform the Vice Commodore at any point if they no longer wish to be recognized as a Ratings Examiner.
-
-Members who have the qualifications to be Instructors may request to be approved to become a Ratings Examiner and thus be able to provide instructional sailing opportunities to club members outside of defined classes.
+Members who have the qualifications to be Instructors may request to be approved by the executive council to become a Ratings Examiner and thus be able to provide instructional sailing opportunities to club members outside of defined classes.
 
 ### Duties and Privileges
 Ratings Examiners may check out Members for vessels in which the Members are not rated and supervise their safe sailing of those vessels. Ratings Examiners may bring Members out on Whalers for informal practice (provided that the Member holds a Boater Education Card), especially when a Member is interested in becoming an Instructor or Ratings Examiner.
@@ -162,11 +162,10 @@ Members with at least one Novice rating, who are capable of assisting other Memb
 Instructors are Members with Ratings who teach organized sailing classes, mostly to beginning sailors.
 
 ### Requirements
-1. At least one Instructor for each class must hold a Whaler Rating except for during windsurf classes. If a Member wishes to become an Instructor, the Club will prioritize the training of potential Instructors in safe Whaler usage (provided that they hold a Boater Education Card).
-2. To become an Instructor, one should have a Skipper Rating for the class that they wish to teach. Alternatively, to teach a Dinghy Class (Single-Handed, Double-Handed, Sailboard, or Catamaran), they may have an Intermediate Rating for the class that they wish to teach and at least one other Dinghy Skipper rating, and be approved by the Vice Commodore.
+1. At least one Instructor for each dinghy class must hold a Whaler Rating.
+2. A Skipper Rating for the class that they wish to teach. Alternatively, to teach a Dinghy Class (Single-Handed, Double-Handed, Sailboard, or Catamaran), they may have an Intermediate Rating for the class that they wish to teach and at least one other Dinghy Skipper rating, and be approved by the Vice Commodore.
 3. If approved by the Vice Commodore, Members with only Intermediate Ratings but with prior experience serving as a Co-Instructor may serve as an Instructor for Novice Dinghy classes for the Fleet in which they hold the Intermediate Rating.
-4. Dinghy Instructors should have already passed the Dinghy Novice Written Test, and they should attempt to pass the Dinghy Skipper Written Test before teaching their next class.
-5. For windsurf instruction, the instructor must be familiar with the teaching boundaries, windsurf teaching materials, and how to rescue folks with the stand-up paddleboard.
+4. For windsurf instruction, the instructor must be familiar with the teaching boundaries, windsurf teaching materials, and how to rescue folks with the stand-up paddleboard.
 
 ### Duties and Privileges
 1. Instructors may check out Members for vessels in which the Members are not rated within the defined scope of the class that is being taught.
@@ -193,19 +192,7 @@ Two Members who meet the requirements for being Assistant Instructors may teach 
 The primary purpose of maintaining an active set of Chiefs of the Club is to identify and recognize Members who show good judgment in matters of safety and a willingness to continue to contribute their advice and efforts to supporting the Members and the activities of the Club. Their substantial knowledge, abilities, and experience with the Club benefits the continued success of the Club as a whole.
 
 ### Requirements and Appointment Process
-To become a Chief, a Member must have a Whaler Rating and one or more Skipper Ratings They must be nominated at a General Meeting or an Executive Council Meeting and then be approved by a majority vote. During the nomination process, the Fleets for which the Chief will hold Designated Chief status will be decided on. If approved, there will be a probationary period of six months, during which the Chief designation may be revoked by a majority vote of the Executive Council or the General Membership.
-  
-A windsurf chief must hold at least a windsurf skipper rating and be familiar with:  
-
- ● Undertaking a risk assessment of environment and provide a safety-related chalk talk before supervising windsurfers on the water.   
- ● Club supervision/teaching boundaries and rescue policies.   
- ● Having different methods for preventing windsurfers from entering dangerous situations.   
- ● Explaining and demonstrating members windsurfing out of dangerous situations.   
- ● Rescuing windsurfers from dangerous situations.   
- ● Using a stand-up paddleboard.   
- ● Calling emergency services or for outside help.  
-
-A windsurf chief does not need a whaler rating.   
+To become a Chief, a Member must hold the rating(s) required for the fleet(s) for which they will be designated, as specified under Designated Chief below. They must be nominated at a General Meeting or an Executive Council Meeting and then be approved by a majority vote. During the nomination process, the Fleets for which the Chief will hold Designated Chief status will be decided on. If approved, there will be a probationary period of six months, during which the Chief designation may be revoked by a majority vote of the Executive Council or the General Membership.
 
 ### Duties
 The duties and the responsibilities of a Chief, to be exercised with discretion and courtesy, are outlined below:
@@ -234,14 +221,25 @@ Designated Chiefs for a specific fleet of vessels may give Skipper Ratings for t
 
 For simplicity, the word “Designated” does not have to be stated in order to understand that a Chief is a Designated Chief for the specific fleet of vessels indicated. For example, a “Catamaran Chief” may be understood to be a Chief who holds a Catamaran Designation and they do not explicitly have to be referred to as a Designated Catamaran Chief.
 
-### Designated Chief Types
-Designated Chiefs exist for six fleets of club vessels: Single-Handed, Double-Handed, Windsurf Skipper Examiner, Windsurf Captain, Catamaran, Keelboat, and Whaler.
+### Types and Requirements
+To become a Designated Chief for a fleet, one must hold, for each fleet for which they are to be designated, the qualifications described below.
 
-### Requirements and Appointment Process
-To become a Designated Chief for a fleet of vessels, one must be a Chief, have a Skipper Rating for that fleet (or a general Whaler Rating to be considered for a Whaler Designation). If possible, for the Single-Handed, Double-Handed, Sailboard, and Catamaran fleets, an existing Designated Chief for the fleet in question should give their approval for the Member to proceed with being considered for appointment. However, to be considered specifically for a Whaler Designation or Keelboat Designation, one or more existing Whaler Chiefs or Keelboat Chiefs, respectively, must support the Member being considered for this appointment.  
+#### Single-Handed, Double-Handed, or Catamaran
+The Skipper Rating for that fleet, and a Whaler Rating.
 
-A Windsurf Skipper Examiner Designated Chief can give Skipper ratings, while a Windsurf Captain Examiner Designated Chief can give Captains ratings. A Windsurf Skipper Examiner Designated Chief, who then receives their windsurf captain rating does not automatically become a Windsurf Captain Examiner. To receive the Windsurf Captain Examiner, the sailor must have a Captain rating, be given approval for appointment by one or more existing Windsurf Captain Examiner Chiefs, and be considered for appointment by the executive council.  
-A Windsurf Skipper and Windsurf Captains Examiner Designated Chief must hold a Windsurf Badge - Level 1, the Captains Examiner must also hold a Gorge Windsurf Badge and Power Gybe Badge. 
+#### Keelboat
+A Keelboat Skipper Rating.
+
+#### Whaler
+A Whaler Rating.
+
+#### Windsurf Skipper Examiner, Windsurf Captain Examiner
+A Windsurf Skipper Examiner must hold a Windsurf Skipper rating and a Windsurf Badge – Level 1. A Windsurf Captain Examiner must hold a Windsurf Captain rating, a Windsurf Badge – Level 1, a Gorge Windsurf Badge, and a Power Gybe Badge. Both must be familiar with: undertaking a risk assessment of the environment and providing a safety-related chalk talk before supervising windsurfers on the water; Club supervision/teaching boundaries and rescue policies; different methods for preventing windsurfers from entering dangerous situations; explaining and demonstrating members windsurfing out of dangerous situations; rescuing windsurfers from dangerous situations; using a stand-up paddleboard; and calling emergency services or for outside help.
+
+### Appointment
+If possible, for the Single-Handed, Double-Handed, Sailboard, and Catamaran fleets, an existing Designated Chief for the fleet in question should give their approval for the Member to proceed with being considered for appointment. However, to be considered specifically for a Whaler Designation or Keelboat Designation, one or more existing Whaler Chiefs or Keelboat Chiefs, respectively, must support the Member being considered for this appointment.  
+
+A Windsurf Skipper Examiner Designated Chief can give Skipper ratings, while a Windsurf Captain Examiner Designated Chief can give Captains ratings. A Windsurf Skipper Examiner Designated Chief who then receives their Windsurf Captain rating does not automatically become a Windsurf Captain Examiner. To receive the Windsurf Captain Examiner Designation, the sailor must have a Captain rating, be given approval for appointment by one or more existing Windsurf Captain Examiner Chiefs, and be considered for appointment by the Executive Council.  
 
 ### Exception for Granting of Keelboat Novice Ratings
 Any Chief who is a Keelboat Skipper may give a Keelboat Novice Rating, but the Club is encouraged to continue to evaluate whether that Keelboat Skipper should be considered for appointment as a Designated Keelboat Chief as they continue to gain experience and show continued good judgment.
@@ -279,15 +277,13 @@ The proposed budget may be amended at the General Meeting in which it is voted o
 #### Amendments to Budget
 The budget may be updated at any time at the request of the Executive Council, but it must follow the approval procedures described above.
 
+<!-- evaluate the entire funds section -->
 ### Funds
 #### Description 
 The following Funds shall be tracked, with revenues being deposited into them coming from the fees and other income described below.
 
 ##### General Fund
 Membership dues and initiation fees not allocated to the New Boat Fund, in addition to any other income not allocated to a different fund.
-
-##### New Boat Fund
-30% of all membership dues and initiation fees, all unburdened donations, all interest earned on bank savings, and the proceeds from any sale of Club assets that are not a part of the Keelboat Fleet.
 
 ##### Keelboat Fund
 Keelboat reservation fees and keelboat sales.
@@ -302,7 +298,7 @@ Loans may be made from one Fund to another at the discretion of the Executive Co
 The Executive Council may permanently redistribute the monies held in any Fund at their discretion.
 
 ### Budget Categories
-Expenditures and budgets shall be tracked based on defined categories and shall be drawn from specific Funds. Purchases for the Keelboat Fleet shall be drawn from the Keelboat Fund and the purchase of boats that are not Keelboats will be drawn from the New Boat Fund. All other purchases will be drawn from the General Fund unless otherwise directed.
+Expenditures and budgets shall be tracked based on defined categories and shall be drawn from specific Funds. Purchases for the Keelboat Fleet shall be drawn from the Keelboat Fund. All other purchases will be drawn from the General Fund unless otherwise directed.
 
 ### Approval of Exceeding Expenditures
 Requests for expenditures exceeding the budgeted amount in any budget category must first receive approval by the General Membership or the Executive Council. They must be posted to the wyc_info@u.washington.edu email list 7 days prior to the meeting where the vote to approve will take place.
@@ -312,9 +308,6 @@ Emergency expenses above the budgeted amount in any budget category must be appr
 
 ### Reports
 Up to date budget reports shall be presented by the Treasurer quarterly for review by the Executive Council.
-
-### Insurance Costs
-Insurance costs shall be paid from the General Fund.
 
 ## Purchasing
 ### Check Writing

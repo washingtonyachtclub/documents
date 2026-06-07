@@ -41,9 +41,6 @@ Keelboats between 24 and 27 feet in length with outboard engines mounted on them
 #### Inboard Keelboats
 Keelboats greater than 27 feet in length with inboard engines installed inside of them. Require a Keelboat Skipper Rating and separate Rig Ratings to sail, and they may not participate in Duck Dodge.
 
-#### Ithaka
-Ithaka is a 44 foot long Swan 441 keelboat. It is the largest sailboat that the Club owns, and its normal usage is governed by the Ithaka Policy Document.
-
 ### Whaler Fleet
 Rescue powerboats maintained for the purpose of rescue and instruction.
 
@@ -405,8 +402,8 @@ Outboard motors may only be used for purposes other than those outlined above wi
 ### Amounts
 | | Initiation Fee | Quarterly Dues | Annual Dues |
 |:---|---:|---:|---:|
-| Student | $0 | $39 | $100 |
-| Associate | $0 | $80 | $225 |
+| Student | $0 | $60 | $150 |
+| Associate | $0 | $100 | $280 |
 
 Full-time UW Seattle student status or IMA membership is required to be a Member. Membership will not be recognized if these requirements are not met.
 

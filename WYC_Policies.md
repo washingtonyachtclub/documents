@@ -297,7 +297,7 @@ Permission must be granted each time the Member wants to sail.
 The Member checking out the boat must indicate on the online Checkout Form which Chief, Ratings Examiner, or Instructor is giving permission.
 
 #### Time Restriction
-A Chief, Ratings Examiner, or Instructor may apply any reasonable time restriction to the sailing of each vessel.
+A Chief or Ratings Examiner may apply any reasonable time restriction to the sailing of each vessel.
 
 #### Water Limitations
 Non-rated, Novice, and Intermediate-rated Members receiving checkout permission may sail only in Union Bay within sight of the WAC. Specific permission to sail in waters outside Union Bay may be given to Novice or Intermediate Members only by a Chief or Ratings Examiner, who must be operating a Rescue Whaler in support of the vessel.

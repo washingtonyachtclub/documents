@@ -341,9 +341,9 @@ Only Members with Ratings or Position Holders may access the windsurf equipment,
 
 The checkout-permission rules in the WYC Policies apply, with the following windsurf-specific additions and changes.
 
-#### Instructor Checkouts
+#### Supervised Checkouts
 
-Windsurf checkouts require the permission of a windsurf chief, windsurf ratings examiner, or windsurf Instructor. On Northerlies, an active WYC windsurf instructor may check out non-rated and novice members in up to Intermediate conditions. On Southerlies at Sail Sand Point, an active WYC windsurf instructor may check out non-rated members in Novice conditions and novice members in Intermediate conditions.
+Supervised windsurf checkouts require the permission of a windsurf chief, windsurf ratings examiner, or windsurf Instructor. On Northerlies, an active WYC windsurf instructor may check out non-rated and novice members in up to Intermediate conditions. On Southerlies at Sail Sand Point, an active WYC windsurf instructor may check out non-rated members in Novice conditions and novice members in Intermediate conditions.
 
 #### Water Limitations
 

@@ -1,5 +1,5 @@
 <div class="document_title">Windsurf Policies</div>
-<div class="document_revision">August 31, 2024</div>
+<div class="document_revision">June 25, 2026</div>
 
 # About This Document
 These Windsurf Policies are a supplement to the [WYC Policies](https://documents.washingtonyachtclub.org/WYC_Policies.pdf), covering the rules specific to windsurfing. The rules here are authoritative for windsurfing activity. For any topic not covered here, the WYC Policies have authority.

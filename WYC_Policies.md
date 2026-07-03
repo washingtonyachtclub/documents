@@ -1,5 +1,5 @@
 <div class="document_title">Policies</div>
-<div class="document_revision">May 7, 2026</div>
+<div class="document_revision">June 25, 2026</div>
 
 # Definitions and Ratings
 ## Fleets and Classes of Boats

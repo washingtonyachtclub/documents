@@ -166,7 +166,7 @@ Instructors are Members with Ratings who teach organized sailing classes, mostly
 
 ### Requirements
 1. At least one Instructor for each dinghy class must hold a Whaler Rating.
-2. A Skipper Rating for the class that they wish to teach. Alternatively, to teach a Dinghy Class (Single-Handed, Double-Handed, Sailboard, or Catamaran), they may have an Intermediate Rating for the class that they wish to teach and at least one other Dinghy Skipper rating, and be approved by the Vice Commodore.
+2. A Skipper Rating for the class that they wish to teach. Alternatively, to teach a Dinghy Class, Double-Handed, or Catamaran, they may have an Intermediate Rating for the class that they wish to teach and at least one other Dinghy Skipper rating, and be approved by the Vice Commodore.
 3. If approved by the Vice Commodore, Members with only Intermediate Ratings but with prior experience serving as a Co-Instructor may serve as an Instructor for Novice Dinghy classes for the Fleet in which they hold the Intermediate Rating.
 4. For windsurf instruction, the instructor must be familiar with the teaching boundaries, windsurf teaching materials, and how to rescue folks with the stand-up paddleboard.
 
@@ -220,7 +220,7 @@ The Officers shall automatically become Chiefs upon their election if they posse
 
 ## Designated Chief
 ### Definitions
-Designated Chiefs for a specific fleet of vessels may give Skipper Ratings for that fleet of vessels. For example, a Designated Catamaran Chief may give Catamaran Skipper Ratings, but they may give no other Skipper Ratings if they do not hold a Designation for those other fleets. A Designated Whaler Chief may give one type of Whaler Rating; separate Whaler Novice and Whaler Skipper ratings do not exist. A Windsurf Skipper Examiner Designated Chief can give Skipper ratings, while a Windsurf Captain Examiner Designated Chief can give Captains ratings. The individual types of Designated Chiefs make up the entire set of Chiefs of the Club.
+Designated Chiefs for a specific fleet of vessels may give Skipper Ratings for that fleet of vessels. For example, a Designated Catamaran Chief may give Catamaran Skipper Ratings, but they may give no other Skipper Ratings if they do not hold a Designation for those other fleets. A Designated Whaler Chief may give one type of Whaler Rating; separate Whaler Novice and Whaler Skipper ratings do not exist. A Designated Windsurf Chief can give Skipper ratings, while a Designated Windsurf Captain Chief can give Captains ratings. The individual types of Designated Chiefs make up the entire set of Chiefs of the Club.
 
 For simplicity, the word “Designated” does not have to be stated in order to understand that a Chief is a Designated Chief for the specific fleet of vessels indicated. For example, a “Catamaran Chief” may be understood to be a Chief who holds a Catamaran Designation and they do not explicitly have to be referred to as a Designated Catamaran Chief.
 
@@ -236,13 +236,13 @@ A Keelboat Skipper Rating.
 #### Whaler
 A Whaler Rating.
 
-#### Windsurf Skipper Examiner, Windsurf Captain Examiner
-A Windsurf Skipper Examiner must hold a Windsurf Skipper rating and a Windsurf Badge – Level 1. A Windsurf Captain Examiner must hold a Windsurf Captain rating, a Windsurf Badge – Level 1, a Gorge Windsurf Badge, and a Power Gybe Badge. Both must be familiar with: undertaking a risk assessment of the environment and providing a safety-related chalk talk before supervising windsurfers on the water; Club supervision/teaching boundaries and rescue policies; different methods for preventing windsurfers from entering dangerous situations; explaining and demonstrating members windsurfing out of dangerous situations; rescuing windsurfers from dangerous situations; using a stand-up paddleboard; and calling emergency services or for outside help.
+#### Windsurf Chief, Windsurf Captain Chief
+A Windsurf Chief must hold a Windsurf Skipper rating and a Windsurf Badge – Level 1. A Windsurf Captain Chief must hold a Windsurf Captain rating, a Windsurf Badge – Level 1, a Gorge Windsurf Badge, and a Power Gybe Badge. Both must be familiar with: undertaking a risk assessment of the environment and providing a safety-related chalk talk before supervising windsurfers on the water; Club supervision/teaching boundaries and rescue policies; different methods for preventing windsurfers from entering dangerous situations; explaining and demonstrating members windsurfing out of dangerous situations; rescuing windsurfers from dangerous situations; using a stand-up paddleboard; and calling emergency services or for outside help.
 
 ### Appointment
 For Dinghy and Sailboard Fleets, it is recommended that an existing Designated Chief for the relevant fleet endorse the apointee. For Whaler or Keelboat Designation, this endorsement is required.
 
-To receive the Windsurf Captain Examiner Designation, the sailor must have a Captain rating, be given approval for appointment by one or more existing Windsurf Captain Examiner Chiefs, and be considered for appointment by the Executive Council.  
+To receive the Windsurf Captain Chief Designation, the sailor must have a Captain rating, be given approval for appointment by one or more existing Windsurf Captain Chiefs, and be considered for appointment by the Executive Council.  
 
 ### Exception for Granting of Keelboat Novice Ratings
 Any Chief who is a Keelboat Skipper may give a Keelboat Novice Rating, but the Club is encouraged to continue to evaluate whether that Keelboat Skipper should be considered for appointment as a Designated Keelboat Chief as they continue to gain experience and show continued good judgment.

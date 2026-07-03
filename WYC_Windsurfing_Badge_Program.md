@@ -11,21 +11,21 @@ https://www.youtube.com/@wipawindsurfinginstructors
 https://www.tricktionary.com/en/windsurfing-tricktionary-3-english
 
 **Based On (US Windsurfing / WIPA):**\
-https://www.windsurfingipa.org/\_files/ugd/4da4bc_a6b598530b434a139a328f366932f994.pdf
+https://www.windsurfingipa.org/_files/ugd/4da4bc_a6b598530b434a139a328f366932f994.pdf
 
 ------------------------------------------------------------------------
 
-## 🌊 Windsurfing Is Pretty Awesome Badge -- Level
+## 🌊 Windsurfing Is Pretty Awesome Badge -- Level 2
 
 **Based On (US Windsurfing / WIPA):**\
-https://www.windsurfingipa.org/\_files/ugd/4da4bc_27b0cfa8c2064a519416ae4e83e4345a.pdf
+https://www.windsurfingipa.org/_files/ugd/4da4bc_27b0cfa8c2064a519416ae4e83e4345a.pdf
 
 ------------------------------------------------------------------------
 
 ## 🌀 Windsurf Freestylist Badge
 
 **Based On:**\
-https://www.windsurfingipa.org/\_files/ugd/4da4bc_3c9e37c0295048fcb3a1ec4813851125.pdf
+https://www.windsurfingipa.org/_files/ugd/4da4bc_3c9e37c0295048fcb3a1ec4813851125.pdf
 
 ------------------------------------------------------------------------
 

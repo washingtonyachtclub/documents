@@ -47,7 +47,7 @@ Members who perform service to the Club may be exempt from dues for one or more 
 # Officers
 
 ## Officers 
-The Officers of the Washington Yacht Club shall be co-Commodores, Vice Commodore, Rear Commodore, Secretary, Treasurer, and Head Fleet Captain; The Commodores with the assistance of the other officers shall exercise the executive functions of the Club. The Commodores shall call and conduct all Meetings of the Club and shall act as the official representatives of the Club.  Other officer positions may be held by a single individual (e.g. Vice Commodore) or by two individuals acting as co-officers (e.g. two co-Vice Commodores).
+The Officers of the Washington Yacht Club shall be co-Commodores, Vice Commodore, Rear Commodore, Secretary, and Treasurer; The Commodores with the assistance of the other officers shall exercise the executive functions of the Club. The Commodores shall call and conduct all Meetings of the Club and shall act as the official representatives of the Club.  Other officer positions may be held by a single individual (e.g. Vice Commodore) or by two individuals acting as co-officers (e.g. two co-Vice Commodores).
 
 ## Qualifications
 Rules of eligibility for candidacy for election to and holding of Club offices shall be established in the By-Laws and shall be consistent with University of Washington rules. Any officer of the Club who under the rules of the University of Washington of the Club becomes ineligible for such offices shall, upon determination of such fact and without further action, cease to hold such office and their office shall be filled according to Article VI - Section C of the Constitution.

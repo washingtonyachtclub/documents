@@ -1,6 +1,9 @@
 <div class="document_title">Windsurf Policies</div>
 <div class="document_revision">August 31, 2024</div>
 
+# About This Document
+These Windsurf Policies are a supplement to the [WYC Policies](https://documents.washingtonyachtclub.org/WYC_Policies.pdf), covering the rules specific to windsurfing. The rules here are authoritative for windsurfing activity. For any topic not covered here, the WYC Policies have authority.
+
 # Definitions, Ratings, and Badges
 
 ## Fleets
@@ -8,17 +11,6 @@
 In the context of Club Policies, the term windsurf board is understood to include boards with daggerboards and boards without daggerboards (shortboards and foil boards). The Windsurf Fleet represents the many combinations of boards, booms, masts, mast extenders, sails, and universal joints that may be rigged together and sailed by one person.
 
 ## Ratings Requirements and Privileges
-
-### Definition
-
-A Rating for a fleet or class of vessels allows a Member to use those vessels in the conditions and waters for which they are rated without supervision.
-
-### General Requirements
-
-1. All Members must read and be familiar with the contents of Articles I, II, and III of the Policies in order to qualify to receive Ratings, especially the Club's boat checkout procedures.
-2. All Members must display consideration for the safety of lives and for the protection of club equipment.
-3. A combination of Written Exams and on-the-water practical Ratings Tests are required for each Rating as described below.
-4. The requirements described here are minimum requirements. The final decision to award a Rating is at the discretion of the Chief, Instructor, or Ratings Examiner administering the Ratings Test.
 
 ### Windsurf Novice Ratings
 
@@ -366,30 +358,6 @@ No Novice or Intermediate sailing.
 
 Only Members with Ratings or Position Holders may use or access the windsurf equipment and only for usage in Club activity. When equipment is not in use, these spaces must be locked at all times unless a Member in the immediate area knows that the gate is unlocked and there is a defined plan for who will be locking the gate and when. Any Member failing to abide by the above requirements may have their privilege to access these facilities revoked.
 
-### Monetary Gain
-
-WYC and WAC facilities and equipment shall not be used for any type of personal monetary gain.
-
-### Responsibilities for Boat Usage
-
-It is the responsibility of the Member checking out a boat to ensure that the boat is correctly rigged and derigged, the boat is properly secured in its designated place, the sails are correctly put away, and all other equipment on board is stored back in its proper place.
-
-### Boat Checkout Requirements
-
-Boats may only be sailed if the following requirements are met:
-
-#### Checkout Sheet Requirement
-
-The online Checkout Form (http://checkout.washingtonyachtclub.org/) must be completed, and every Guest must sign the online Participant's Agreement (available at https://waiver.washingtonyachtclub.org/).
-
-#### Ratings Requirement
-
-The appropriate Novice, Intermediate, or Skipper Rating is required, except with the express permission of a Chief, Ratings Examiner, or Instructor.
-
-#### Equipment Requirement
-
-All proper equipment for the particular boat must be on board.
-
 ### Checkout Permissions by Chiefs and Ratings Examiners
 
 A Chief or Ratings Examiner may, at their discretion, give permission for a non-rated Member (or a Novice or Intermediate-rated Member when high wind conditions exist) to practice sailing for the purpose of becoming a windsurf Novice, windsurf Intermediate, or Skipper. On Northerlies, an active WYC windsurf instructor may check out non-rated and novice members in up to Intermediate conditions. On Southerlies at Sail Sand Point, an active WYC windsurf instructor can checkout non-rated members in Novice conditions and novice members in intermediate conditions.
@@ -418,74 +386,6 @@ Windsurfers require the permission of a windsurf chief, windsurf ratings examine
 
 A Chief or Ratings Examiner giving permission to practice must watch the Member's sailing performance until the Member demonstrates the basic ability to sail the boat safely. For Sailboards, the Chief or Ratings Examiner may alternatively tether the board until the Member demonstrates the basic ability to sail the board safely.
 
-### Classes
-
-Novice and Intermediate classes are taught only by Instructors. These classes are intended to assist the inexperienced sailor in learning the basic techniques of rigging, derigging, sailing, self-rescue, and docking of Club boats, with primary emphasis on instilling respect for club equipment and instilling in Members safe sailing behaviors.
-
-#### Times
-
-Classes are taught at scheduled times as determined by the Instructor(s) and the Vice Commodore.
-
-#### Instructor Checkout Permissions
-
-Class Members without appropriate Ratings shall, in addition to fulfilling the checkout requirements of Members having Ratings, obtain permission from the Instructor at each class session.
-
-#### Boat Reservations
-
-Instructors may reserve those boats needed for scheduled classes, subject to the restrictions of the Vice Commodore and/or Executive Council.
-
-### Defective Equipment
-
-No boat shall be sailed in known defective condition in regards to hull, rigging, spars, or sails without the express permission of the Fleet Captain of that fleet.
-
-### Smoking
-
-There will be no smoking in the vicinity of the WAC except in designated smoking areas. Smoking is not permitted in the cabin of any Club boat.
-
-### Flammable Liquids
-
-Flammable liquids must be stored in the Gas Locker.
-
-## Boat Equipment Requirements
-
-In order to be sailed, each boat shall be equipped with one Coast Guard-approved life jacket for each person on board or expected to be on board at any point in the outing. One Coast Guard-approved buoyant throwable must be on board any boat over 16 feet in length, and any additional Coast Guard equipment requirements must be met.
-
-## Personal Safety
-
-### Swimming Ability
-
-It is expected that all Members of the Club will have sufficient swimming ability to take care of themselves in an emergency. Members must vouch for their own abilities and sail at their own risk if this ability is insufficient.
-
-### Guests
-
-Members who check out a boat are responsible for the safety of their Guests and have full authority over their vessel. All Guests must fill out the online Participant's Agreement (available at https://waiver.washingtonyachtclub.org/) prior to boarding. Guests must wear proper flotation at all times while sailing aboard Dinghies. Guests who can not swim must wear flotation at all times while on board all Club boats.
-
-### Club Regulations
-
-The Member who checked out the boat is required to obey and enforce the safety regulations of the Club, especially those rules related to having and wearing life preservers. Non-swimmers must wear Coast Guard-approved life preservers at all times while on board Club boats.
-
-### Use of Personal Flotation Devices
-
-Members without Ratings, members who cannot swim, and all Guests must wear proper flotation at all times while sailing aboard Dinghies.
-
-### Sailboards
-
-All sailors of Sailboards must wear proper flotation at all times.
-
-## Damage to Club Boats
-
-### Responsibilities
-
-All Members are responsible, and equally so, for any damage or loss of equipment while the boat is checked out to them. The Executive Council may charge a reasonable amount for such loss to account for replacement and repair of equipment or vessels. Such a charge shall not exceed the value of the damage or loss and shall be proportional to the extent to which the Member was at fault for the damage.
-
-### Damage Repair Form
-
-Anyone damaging or finding a damaged boat shall fill out a Repair Form for that boat. If the damage is such that the boat is not in sailable condition, the Fleet Captain of that fleet or the Head Fleet Captain must be notified.
-
-### Boat Repair
-
-In case of damage to Club Boats, the Member shall make arrangements with the Fleet Captain of that fleet to learn to perform the necessary repairs, or repair such damage themselves.
-
 ## Use of Rescue Stand-up Paddleboards (SUPs)
 
 ### Personnel
@@ -503,9 +403,3 @@ The following equipment shall be on board the SUPs when in use:
 #### Paddle
 
 One or more paddles.
-
-## Uncovered Topics
-
-### With Respect to Uncovered Topics
-
-WYC Policy document has authority over topics not presented in this WYC Windsurf Policy document.

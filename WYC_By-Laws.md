@@ -166,7 +166,7 @@ Instructors are Members with Ratings who teach organized sailing classes, mostly
 
 ### Requirements
 1. At least one Instructor for each dinghy class must hold a Whaler Rating.
-2. A Skipper Rating for the class that they wish to teach. Alternatively, to teach a Dinghy Class, Double-Handed, or Catamaran, they may have an Intermediate Rating for the class that they wish to teach and at least one other Dinghy Skipper rating, and be approved by the Vice Commodore.
+2. A Skipper Rating for the class that they wish to teach. Alternatively, to teach a Dinghy Class, they may have an Intermediate Rating for the class that they wish to teach and at least one other Dinghy Skipper rating, and be approved by the Vice Commodore.
 3. If approved by the Vice Commodore, Members with only Intermediate Ratings but with prior experience serving as a Co-Instructor may serve as an Instructor for Novice Dinghy classes for the Fleet in which they hold the Intermediate Rating.
 4. For windsurf instruction, the instructor must be familiar with the teaching boundaries, windsurf teaching materials, and how to rescue folks with the stand-up paddleboard.
 

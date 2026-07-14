@@ -1,9 +1,9 @@
 <div class="document_title">Policies</div>
-<div class="document_revision">June 25, 2026</div>
+<div class="document_revision">July 9, 2026</div>
 
 # Definitions and Ratings
 ## Fleets and Classes of Boats
-In the context of Club Policies, the term Dinghy is understood to include the Bravo, Single-Handed, Double-Handed, Performance, Sailboard, and Catamaran Fleets, unless otherwise specified.
+In the context of Club Policies, the term Dinghy is understood to include the Bravo, Single-Handed, Double-Handed, Performance, and Catamaran Fleets, unless otherwise specified.
 
 ### Bravo Fleet
 12 foot long cat-rigged (having a single sail) catamarans. Our most beginner-friendly boats. They can be sailed by just one person, but they have room for additional crew as well.
@@ -20,7 +20,7 @@ The FJ’s, Laser 2, and RS Vision may be used for beginner instruction and Novi
 High-performance sloop-rigged, centerboard dinghies. These boats require a Specialty Rating to sail and are represented by the International 505 and International 14 (I-14) boats.
 
 ### Sailboard Fleet
-The Sailboard Fleet is represented by many combinations of boards, booms, masts, mast extenders, sails, and universal joints that may be rigged together and sailed by one person.
+The Sailboard Fleet is represented by many combinations of boards, booms, masts, mast extenders, sails, and universal joints that may be rigged together and sailed by one person. It's governed by the [WYC Windsurf Policies](https://documents.washingtonyachtclub.org/WYC_Windsurf_Policies.pdf)
 
 ### Catamaran Fleet
 Sloop-rigged sailboats with more than one hull.
@@ -66,13 +66,13 @@ A Bravo Rating entitles the Member to sail in winds not over 7 knots in Union Ba
 Bravo Ratings are valid for 6 months after issue date. The Bravo Rating may be renewed by taking the Bravo Practical Test again.
 
 ### Dinghy Novice Ratings
-Dinghy Novice Ratings may be awarded for the Single-Handed, Double-Handed, Sailboard, and Catamaran Fleets.
+Dinghy Novice Ratings may be awarded for the Single-Handed, Double-Handed, and Catamaran Fleets.
 
 #### Requirements
 To obtain a Novice Rating, one must:
 
 ##### Written Exam
-Pass the appropriate Novice Written Exam (Dinghy Novice or Sailboard).
+Pass the Dinghy Novice Exam.
 
 ##### Knots
 Be able to tie the following knots: Bowline, Cleating, Reef (also known as Square), and Figure Eight.
@@ -93,9 +93,6 @@ The test must be performed in a Laser and qualifies the holder to sail the Laser
 ##### Double-Handed Novice
 The test may be performed in an FJ, Laser II, or Vision, and qualifies the holder to sail the FJ, Laser II, Vision, and Flying Scot.
 
-##### Sailboard Novice
-The test may be performed using any Sailboard and qualifies the holder to sail all club Sailboards.
-
 ##### Catamaran Novice
 The test may be performed in a Hobie 16 or Dart and qualifies the holder to sail those vessels.
 
@@ -115,9 +112,6 @@ The test must be performed in a Laser and qualifies the holder to sail the Laser
 
 ##### Double-Handed Intermediate
 The test may be performed in an FJ, Laser II, Vision, or 470, and this Rating qualifies the holder to sail the boats in the Double-Handed and Daysailer Fleets. This Rating also qualifies the holder to obtain the Lake Sailor Specialty Rating and the Performance Boat Specialty Rig Ratings.
-
-##### Sailboard Intermediate
-The test may be performed using any Sailboard and qualifies the holder to sail all club Sailboards.
 
 ##### Catamaran Intermediate
 The test may be performed in a Hobie 16, Dart, or Big Cat and qualifies the holder to sail those vessels.
@@ -147,7 +141,6 @@ Given the extra privileges of a Skipper, a higher standard of responsibility and
 #### Privileges
 1. A Skipper Rating entitles the Member to sail in all safe wind conditions, subject to the restrictions of the By-Laws and Policies.
 2. Single-Handed, Double-Handed and Catamaran Skippers may sail in all interconnecting waters east of the Aurora Bridge.
-3. Sailboard Skippers may sail in Union Bay and in Lake Washington, north of the Evergreen Point Floating Bridge and south of Sand Point.
 
 #### Expiration
 Skipper Ratings do not expire.
@@ -158,9 +151,6 @@ The test must be performed in a Laser, and this Rating qualifies the holder to s
 
 ##### Double-Handed Skipper
 The test may be performed in any Double-Handed Dinghy, and this Rating qualifies the holder to sail any boats in the Double-Handed or Daysailer Fleets. This also qualifies the holder to earn Performance Boat Specialty Rig Ratings.
-
-##### Sailboard Skipper
-The test may be performed using any Sailboard and qualifies the holder to sail all club Sailboards.
 
 ##### Catamaran Skipper
 The test may be performed in a Hobie 16, Dart, or Big Cat and qualifies the holder to sail those vessels.
@@ -242,9 +232,6 @@ A Member with a Double-Handed Intermediate Rating may sail the Pearson Ensign, J
 ### Docking Hours
 All boats, except Keelboats and Daysailers with appropriate lighting must be docked by dark. The only exception shall be when a best effort to comply with this requirement is thwarted by insufficient wind. In this situation, the Member must inform the Officers or a Chief about their delay as soon as possible.
 
-### Sailboard Clothing
-From September 15th to June 15th, Members using the Sailboards are required to wear wetsuits.
-
 ### Hazardous Weather
 Hazardous weather conditions shall be deemed to exist if any of the following criteria are met: steady winds of 25 knots or higher (large branches of grown trees in motion); or puffy, shifty winds of 20 knots or higher (rapidly changing wind direction and intensity as seen in trees and in the rapidly shifting pattern of dark streaks across the water); or, the display of the Hazardous Weather sign as posted by a Chief or an Officer at their discretion. This may include occasions when wind velocities or other conditions are not yet hazardous but are so predicted. In hazardous weather conditions, whether the sign has been posted or not, the following procedures must be adhered to:
 
@@ -314,9 +301,6 @@ A Chief or Ratings Examiner may apply any reasonable time restriction to the sai
 
 #### Water Limitations
 Non-rated, Novice, and Intermediate-rated Members receiving checkout permission may sail only in Union Bay within sight of the WAC. Specific permission to sail in waters outside Union Bay may be given to Novice or Intermediate Members only by a Chief or Ratings Examiner, who must be operating a Rescue Whaler in support of the vessel.
-
-#### Catamarans and Sailboards Checkouts
-Permission to sail in Catamarans or sailboards may be given by any Chief or Ratings Examiner at their discretion.
 
 #### Confirmation of Basic Sailing Ability
 A Chief or Ratings Examiner giving permission to practice must watch the Member’s sailing performance until the Member demonstrates the basic ability to sail the boat safely. For Sailboards, the Chief or Ratings Examiner may alternatively tether the board until the Member demonstrates the basic ability to sail the board safely.

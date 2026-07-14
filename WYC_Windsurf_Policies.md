@@ -1,5 +1,5 @@
 <div class="document_title">Windsurf Policies</div>
-<div class="document_revision">June 25, 2026</div>
+<div class="document_revision">July 9, 2026</div>
 
 # About This Document
 These Windsurf Policies are a supplement to the [WYC Policies](https://documents.washingtonyachtclub.org/WYC_Policies.pdf), covering the rules specific to windsurfing. The rules here are authoritative for windsurfing activity. For any topic not covered here, the WYC Policies have authority.
@@ -53,7 +53,7 @@ The test may be performed using any windsurf board and qualifies the holder to s
 
 ##### Written Examination
 
-Pass the Windsurf Intermediate & Skipper Written Examination.
+Pass the Windsurf Intermediate Written Examination.
 
 ##### Practical Skills
 
@@ -75,7 +75,7 @@ To obtain a Skipper Rating one must:
 
 ##### Written Examination
 
-Pass the Windsurf Intermediate & Skipper Written Examination, doesn't expire.
+Pass the Skipper Written Examination, doesn't expire.
 
 ##### Practical Skills
 
@@ -297,28 +297,11 @@ Southerly winds at SSP are often characterized by intense gusts and shifts in di
 4. (Only on Southerlies) Windsurfer will be initially tied to a tether, manned by the supervisor on land until they have proven to be able to make consistent upwind progress. A series of tacks and maintaining in the sailing boundaries while making upwind progress would be sufficient. Ensure that the tether doesn't become a hazard for other people or vessels in the water.
 
 ### Windsurf Clothing
-
 From September 15th to June 15th, Members using the windsurf are required to wear adequately thick wetsuits.
 
 ### Hazardous Weather
 
-Hazardous weather conditions shall be deemed to exist if any of the following criteria are met: steady winds of 25 knots or higher (e.g., large branches of grown trees in motion); puffy, shifty winds of 20 knots or higher (e.g., rapidly changing wind direction and intensity as seen in trees and in the rapidly shifting pattern of dark streaks across the water); or display of the Hazardous Weather sign as posted by a Chief or an Officer at their discretion (note that this may include occasions when wind velocities or other conditions are not yet hazardous but are so predicted). In hazardous weather conditions, whether the sign has been posted or not, the following procedures must be adhered to:
-
-#### Bridge Hazard
-
-No boat shall be sailed near the Evergreen Point Bridge on the windward side of it.
-
-#### Personal Floating Device Use
-
-Adequate flotation must be worn by all persons in Club boats.
-
-#### Water Limitations
-
-No windsurfer shall launch from Sail Sand Point in hazardous Southerly conditions. The south point of Magnuson Park is the preferred launch for strong Southerly winds, given that all hazardous weather procedures are followed. In hazardous Northerly conditions, Sail Sand Point is okay to launch from given all hazardous weather procedures are followed.
-
-#### Ratings Restrictions
-
-No Novice or Intermediate sailing.
+The WYC Policies' Hazardous Weather rules apply. No windsurfer shall launch from Sail Sand Point in hazardous Southerly conditions. The south point of Magnuson Park is the preferred launch for strong Southerly winds, given that all hazardous weather procedures are followed. In hazardous Northerly conditions, Sail Sand Point is okay to launch from given all hazardous weather procedures are followed.
 
 ### Supervised Sailing Rescue Policy
 
@@ -348,43 +331,23 @@ No Novice or Intermediate sailing.
 
 ### Member and Guest Requirements
 
-1. All Members and Guests accessing Club boats and facilities at the waterfront must be either fully-enrolled UW Seattle students or alumni members of the WYC. IMA membership is not required for use of only windsurfing equipment.
-2. All Guests, both at the waterfront and at other locations, must sign the online WYC Participant's Agreement (available at https://waiver.washingtonyachtclub.org/) before sailing, and the Member bringing them out must verify that they have properly completed the waiver.
-3. All Guests must abide by the Club rules and may not be under 18 years of age.
-4. Failure to follow the above requirements may result in the Member losing their privilege to bring Guests, and both the Member and Guest being prohibited from using any and all WYC facilities and equipment for a period of time to be determined by the Executive Council. An appeal may be made according to Article IV - Section B.6 in the Policies.
-5. Club members must not knowingly allow prohibited Guests from accessing Club boats or facilities.
+The Member and Guest requirements in the WYC Policies apply, except that the use of only windsurfing equipment does not require IMA membership.
 
 ### Facilities Access
 
-Only Members with Ratings or Position Holders may use or access the windsurf equipment and only for usage in Club activity. When equipment is not in use, these spaces must be locked at all times unless a Member in the immediate area knows that the gate is unlocked and there is a defined plan for who will be locking the gate and when. Any Member failing to abide by the above requirements may have their privilege to access these facilities revoked.
+Only Members with Ratings or Position Holders may access the windsurf equipment, and only for Club activity. When the equipment is not in use, the gate must be locked unless a Member in the immediate area knows it is unlocked and there is a defined plan for who will lock it and when.
 
 ### Checkout Permissions by Chiefs and Ratings Examiners
 
-A Chief or Ratings Examiner may, at their discretion, give permission for a non-rated Member (or a Novice or Intermediate-rated Member when high wind conditions exist) to practice sailing for the purpose of becoming a windsurf Novice, windsurf Intermediate, or Skipper. On Northerlies, an active WYC windsurf instructor may check out non-rated and novice members in up to Intermediate conditions. On Southerlies at Sail Sand Point, an active WYC windsurf instructor can checkout non-rated members in Novice conditions and novice members in intermediate conditions.
+The checkout-permission rules in the WYC Policies apply, with the following windsurf-specific additions and changes.
 
-#### Permission
+#### Supervised Checkouts
 
-Permission must be granted each time the Member wants to sail.
-
-#### Checkout Form
-
-The Member checking out the boat must indicate on the online Checkout Form which Chief, Ratings Examiner, or Instructor is giving permission.
-
-#### Time Restriction
-
-A Chief, Ratings Examiner, or Instructor may apply any reasonable time restriction to the sailing of each vessel.
+Supervised windsurf checkouts require the permission of a windsurf chief, windsurf ratings examiner, or windsurf Instructor. On Northerlies, an active WYC windsurf instructor may check out non-rated and novice members in up to Intermediate conditions. On Southerlies at Sail Sand Point, an active WYC windsurf instructor may check out non-rated members in Novice conditions and novice members in Intermediate conditions.
 
 #### Water Limitations
 
 Non-rated, Novice, and Intermediate-rated Members receiving checkout permission may sail only in the wind-dependent teaching boundaries, within self-rescue distance from the launch. All approved waters have teaching boundaries as set by the supervisors, which must be adhered to by all individuals and are designed for a safe learning environment.
-
-#### Windsurf Checkouts
-
-Windsurfers require the permission of a windsurf chief, windsurf ratings examiner, or windsurf Instructor.
-
-#### Confirmation of Basic Sailing Ability
-
-A Chief or Ratings Examiner giving permission to practice must watch the Member's sailing performance until the Member demonstrates the basic ability to sail the boat safely. For Sailboards, the Chief or Ratings Examiner may alternatively tether the board until the Member demonstrates the basic ability to sail the board safely.
 
 ## Use of Rescue Stand-up Paddleboards (SUPs)
 

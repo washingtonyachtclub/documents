@@ -1,5 +1,5 @@
 <div class="document_title">Windsurf Policies</div>
-<div class="document_revision">July 9, 2026</div>
+<div class="document_revision">July 23, 2026</div>
 
 # About This Document
 These Windsurf Policies are a supplement to the [WYC Policies](https://documents.washingtonyachtclub.org/WYC_Policies.pdf), covering the rules specific to windsurfing. The rules here are authoritative for windsurfing activity. For any topic not covered here, the WYC Policies have authority.
@@ -174,21 +174,17 @@ It is recommended that a windsurf captain should volunteer to the club and share
 
 ### Definition
 
-Windsurf badges are for promoting and awarding the development of windsurf skills and proficiency across all types of windsurfing and wind conditions. Windsurf Chief Skipper Examiner requires a Windsurfer Badge - Level 1 and Windsurf Chief Captain Examiner requires a Windsurfer Badge - Level 1, Gorge Windsurfer Badge, and Power Gybe Badge.
+Windsurf badges are for promoting and awarding the development of windsurf skills and proficiency across all types of windsurfing and wind conditions.
 
 ### Types of Badges
 
-1. Windsurfer Badge - Level 1
-2. Windsurfing is Pretty Awesome - Level 2
-3. Windsurf Freestylist Badge
-4. Windsurf Foil Badge
-5. Windsurf Racer Badge
-6. Gorge Windsurfer Badge
-7. Power Gybe Badge
-
-### Badge Requirements
-
-Visit the [Windsurf Badge Program](https://documents.washingtonyachtclub.org/WYC_Windsurfing_Badge_Program.pdf).
+1. **[Windsurfer Badge - Level 1](https://www.windsurfingipa.org/_files/ugd/4da4bc_a6b598530b434a139a328f366932f994.pdf)**
+2. **[Windsurfing is Pretty Awesome - Level 2](https://www.windsurfingipa.org/_files/ugd/4da4bc_27b0cfa8c2064a519416ae4e83e4345a.pdf)**
+3. **[Windsurf Freestylist Badge](https://www.windsurfingipa.org/_files/ugd/4da4bc_3c9e37c0295048fcb3a1ec4813851125.pdf)**
+4. **Windsurf Foil Badge** — Criteria to be defined.
+5. **Windsurf Racer Badge** — For city league participants.
+6. **Gorge Windsurfer Badge** — Requirements: waterstarts, planing, harness use, fast tack or planing gybe, and ability to make upwind progress on a shortboard.
+7. **Power Gybe Badge** — Requirements: planing power gybe.
 
 # Use of Boats, Facilities, and Equipment
 
@@ -269,8 +265,6 @@ Windsurf boards must be sailed only during daylight hours and must be within tea
 All windsurf boards must be back on shore by dark, no exceptions.
 
 ### Sail Sand Point Southerly Policy
-
-Full policy described in [Windsurfing SSP Southerly Policies](https://documents.washingtonyachtclub.org/WYC_Windsurfing_SSP_Southerly_Policies.pdf).
 
 *(not directly applicable for northerly winds)*
 

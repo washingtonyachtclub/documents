@@ -24,8 +24,6 @@
 		"build:bylaws": "md-to-pdf --config-file ./wyc_md-to-pdf_config.json ../WYC_By-Laws.md",
 		"build:policies": "md-to-pdf --config-file ./wyc_md-to-pdf_config.json ../WYC_Policies.md",
 		"build:windsurf-policies": "md-to-pdf --config-file ./wyc_md-to-pdf_config.json ../WYC_Windsurf_Policies.md",
-		"build:windsurf-badges": "md-to-pdf --config-file ./wyc_md-to-pdf_config.json ../WYC_Windsurfing_Badge_Program.md",
-		"build:windsurf-southerly": "md-to-pdf --config-file ./wyc_md-to-pdf_config.json ../WYC_Windsurfing_SSP_Southerly_Policies.md",
     "build:all": "md-to-pdf --config-file ./wyc_md-to-pdf_config.json ../WYC_*.md"
 	},
 	"dependencies": {

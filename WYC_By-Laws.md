@@ -1,5 +1,5 @@
 <div class="document_title">By-Laws</div>
-<div class="document_revision">June 25, 2026</div>
+<div class="document_revision">August 6, 2026</div>
 
 # Articles and Regulations Taking Precedence
 ## University of Washington Policies
@@ -354,4 +354,3 @@ If any document is not updated within 14 days, those changes shall not be bindin
 
 # Sunset Provision
 If an action approved at either a General Meeting or an Executive Council Meeting has not been started within 10 weeks of when it could reasonably be started or another timeframe set for the commencement of that action, that action shall be considered null and void.
-

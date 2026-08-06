@@ -1,5 +1,5 @@
 <div class="document_title">Policies</div>
-<div class="document_revision">July 23, 2026</div>
+<div class="document_revision">August 6, 2026</div>
 
 # Definitions and Ratings
 ## Fleets and Classes of Boats
@@ -493,4 +493,3 @@ Any Club action which requires formal notification will be announced on the wyc_
 
 # Meeting Forecasts
 Dates for a minimum of one Executive Council Meeting and one General Meeting, to occur during the upcoming quarter, shall be decided by the final Meeting of each quarter.
-

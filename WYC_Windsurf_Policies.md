@@ -35,8 +35,6 @@ Rig and derig, demonstrate basic sailing ability by performing three tacks and t
 
 A Novice Rating entitles the Member to sail in winds not over 7 knots at Sail Sand Point, within the approved waters defined by wind direction. Approved waters for Sail Sand Point visualized under Article II, Section A. 1. b. A.
 
-Windsurfers must not step foot on NOAA property (located to the East of Arena sports parking lot), at risk of having your ratings revoked.
-
 #### Expiration
 
 Novice Ratings are valid for 6 months. It is recommended that Members try their best to obtain an Intermediate or higher Rating within this time, as the purpose of the Novice Rating is to allow the Member to practice whenever they wish, so that they may continue to improve their sailing. The Novice Rating may be renewed by taking the Novice Practical Test again.
@@ -200,12 +198,13 @@ Sail Sand Point, Union Bay, South Point of Magnuson Park, Snooze 'n Cruise Trips
 
 Additional waters can be allowed for skippers or captains by permission of a windsurf chief that is knowledgeable of the launch and waters; or with the approval of the Membership at a General Meeting, club boats may be sailed on other waters during organized club activities and as otherwise specified.
 
+Windsurfers must not step foot on NOAA property (located east of Arena Sports parking lot) at risk of having their rating temporarily suspended.
+
 #### Special Launch Restrictions
 
 ##### Sail Sand Point
 
-1. Northerlies/Easterlies: Windsurfers must not step foot on NOAA property (located east of Arena Sports parking lot) at risk of having their rating temporarily suspended.
-2. Southerlies/Westerlies: Southerly wind policies must be followed.
+Southerlies/Westerlies: Southerly wind policies must be followed.
 
 The following are the teaching boundaries, to be used for classes or ratings examinations:
 

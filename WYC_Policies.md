@@ -1,5 +1,5 @@
 <div class="document_title">Policies</div>
-<div class="document_revision">July 9, 2026</div>
+<div class="document_revision">August 6, 2026</div>
 
 # Definitions and Ratings
 ## Fleets and Classes of Boats
@@ -122,8 +122,8 @@ The Big Cats may be sailed by any Member who has a Catamaran Intermediate Rating
 ##### Lake Sailor Specialty
 The Lake Sailor Specialty Rating may be given to a Member holding a Double-Handed Intermediate Rating who has displayed additional skill and judgment in sailing Daysailers. The Lake Sailor Rating allows the Member to sail any Daysailer in winds less than 15 knots in Lake Washington, north of the Evergreen Point Floating Bridge and south of Sand Point, during daylight hours. The wind speed is to be determined at the place where the boat is being sailed.
 
-##### Daysailer Small Outboard Specialty Rig Rating
-Daysailers may be sailed with an outboard of no more than 6 horsepower by DH intermediate or above who demonstrate to a Chief who has this rating the correct usage and installation of the propane, electric, and gasoline outboards as well as proper docking and safety methods as well as competency. The outboards shall only be used for the appropriate vessels (daysailers) and the corresponding daysailer reservation fees adhering to Article III section B of the policies must be paid in advance of usage of the vessel.
+##### Daysailer Electric Outboard Specialty Rig Rating
+Daysailers may be sailed with an electric outboard of no more than 6 horsepower by DH intermediate or above who demonstrate to a Chief who has this rating the correct usage and installation of the electric outboards as well as proper docking, safety, and competency. The electric outboards shall only be used for the appropriate vessels (daysailers).
 
 ### Dinghy Skipper Rating
 #### Requirements
@@ -375,7 +375,7 @@ One or more paddles.
 Usage of the outboard motors affixed to Keelboats is limited to qualified Keelboat Novices and Skippers, except with the permission of a Chief or the Executive Council.
 
 ## Outboard Motor Usage on Daysailers
-Usage of outboard motors affixed to a Daysailer is limited to qualified Keelboat Novices and Skippers, except with the permission of a Chief or the Executive Council. A reservation fee equivalent to 50% of the corresponding Keelboat Reservation Fee described in Article III, Section B of this Policies document must be submitted to the club.
+Usage of gas or propane outboard motors affixed to a Daysailer is limited to qualified Keelboat Novices and Skippers, except with the permission of a Chief or the Executive Council. A reservation fee equivalent to 50% of the corresponding Keelboat Reservation Fee described in Article III, Section B of this Policies document must be submitted to the club.
 
 ## Other Usage of Outboard Motors
 Outboard motors may only be used for purposes other than those outlined above with the permission of a Chief or the Executive Council.
@@ -407,7 +407,7 @@ Dues are effective from the date that instruction begins for the quarter(s) cove
 Members who qualify for a dues exemption may request a refund for the quarter affected or have that amount applied to their future membership after fulfilling the duties of their role.
 
 ## Keelboat Reservation Fees
-Unless the Keelboat Fleet Captain has otherwise set other restrictions and/or policies governing the reservation and check out of the keelboats, the Reservation Fees outlined below are required in order to take out a Club Keelboat, or a Daysailer with usage of an attached Outboard.
+Unless the Keelboat Fleet Captain has otherwise set other restrictions and/or policies governing the reservation and check out of the keelboats, the Reservation Fees outlined below are required in order to take out a Club Keelboat, or a Daysailer with usage of an attached gas or propane Outboard.
 
 | || Regular Members || Associate Members |
 |:---|---:|---:|---:|---:|
@@ -493,4 +493,3 @@ Any Club action which requires formal notification will be announced on the wyc_
 
 # Meeting Forecasts
 Dates for a minimum of one Executive Council Meeting and one General Meeting, to occur during the upcoming quarter, shall be decided by the final Meeting of each quarter.
-

@@ -1,5 +1,5 @@
 <div class="document_title">By-Laws</div>
-<div class="document_revision">June 25, 2026</div>
+<div class="document_revision">August 6, 2026</div>
 
 # Articles and Regulations Taking Precedence
 ## University of Washington Policies
@@ -306,7 +306,7 @@ The following Members shall have permission to write checks from the Club accoun
 If warranted, checks shall be distributed by the Treasurer or Secretary upon request.
 
 #### Records
-Records of sent checks shall be submitted to the Treasurer, along with receipts detailing which accounts, outlined in Article VII - Section A.4 of the By-Laws, that the purchases shall be taken from.
+Records of sent checks shall be submitted to the Treasurer, along with receipts detailing which accounts the purchases shall be taken from.
 
 #### Fees
 If not properly reported to the Treasurer, any fees associated with determining the amount, recipient, and purpose of specific checks shall be paid by the Member who wrote the check.
@@ -354,4 +354,3 @@ If any document is not updated within 14 days, those changes shall not be bindin
 
 # Sunset Provision
 If an action approved at either a General Meeting or an Executive Council Meeting has not been started within 10 weeks of when it could reasonably be started or another timeframe set for the commencement of that action, that action shall be considered null and void.
-

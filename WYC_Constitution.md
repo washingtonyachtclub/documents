@@ -1,5 +1,5 @@
 <div class="document_title">Constitution</div>
-<div class="document_revision">June 25, 2026</div>
+<div class="document_revision">August 6, 2026</div>
 
 # Name 
 The name of this organization shall be WASHINGTON YACHT CLUB.
@@ -109,12 +109,9 @@ This Constitution may be amended by a 2/3 vote of those present at a General Mee
 ## Procedure
 A proposed amendment to the Constitution must be announced at a General Meeting where discussion and revision of the amendment will take place. The revised amendment will then be posted in an appropriate manner to inform the Members at least fourteen (14) calendar days prior to the General Meeting for which the vote is scheduled. Details for this posting are described in the Policies.
 
-## Announcement
-Procedure outlined by Article VII - Section D in the By-Laws.
-
 # Chapters
 
 ## Washington Yacht Club Rec Club Chapter
 The Washington Yacht Club Rec Club Chapter is a chapter of the Washington Yacht Club that operates as a UW Rec Club. This Chapter is based at the Waterfront Activities Center at the University of Washington.
 
-The Chapter can enter into agreements with the UW Department of Recreation to be a UW Rec Club. This agreement allows the Chapter, equipment and vessels operated by the Chapter, and its members to use facilities managed by UW Recreation at the University. The Club reserves the right to terminate this Chapter through the processes of Article VIII, at which time any agreements made by this chapter will also end.
+The Chapter can enter into agreements with the UW Department of Recreation to be a UW Rec Club. This agreement allows the Chapter, equipment and vessels operated by the Chapter, and its members to use facilities managed by UW Recreation at the University. The Club reserves the right to terminate this Chapter through the Constitution amendment processes, at which time any agreements made by this chapter will also end.

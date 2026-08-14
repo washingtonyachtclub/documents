@@ -422,7 +422,7 @@ Unless the Keelboat Fleet Captain has otherwise set other restrictions and/or po
 
 ## Volunteer Recognition
 ### Volunteer Recognition Positions
-The Secretary and Ratings Examiners may be paid by a fixed ammount as a quarterly stipend.
+The Secretary and Ratings Examiners may be paid by a fixed amount as a quarterly stipend.
 
 #### Secretary
 The quarterly stipend shall be set by the Executive Council.

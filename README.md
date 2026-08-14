@@ -1,6 +1,6 @@
 # WYC Documents
 
-Official Washington Yacht Club governing documents (constitution, by-laws, policies) stored as markdown and converted to PDF for public access.
+Official Washington Yacht Club governing documents (constitution, by-laws, policies, and code of conduct) stored as markdown and converted to PDF for public access.
 
 ## Deployment
 

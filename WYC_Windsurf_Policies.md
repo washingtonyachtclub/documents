@@ -104,10 +104,6 @@ Skipper Ratings do not expire.
 
 In order to travel with equipment from SSP, a skipper must receive a travel rig rating from a Windsurf Chief. This rating covers how to travel with equipment in a vehicle and ensures that the skipper has adequate ability and equipment to safely transport windsurf gear. A skipper with a travel rig rating may also transport the equipment of other skippers or others for supervised sailing/classes.
 
-#### Equipment Checkout and Fee
-
-A checkout fee applies to windsurf and wetsuit equipment that is not returned within a single day. Beginner boards and beginner sail rig equipment cannot be checked out in an overlapping time period with windsurf classes, socials, and other club events. The Kona's and other longboards, shortboards, and foil board are free from beginner board restrictions.
-
 ### Windsurf Captain Rating
 
 #### Requirements
@@ -150,7 +146,6 @@ The development of skills for the Captain's rating takes time and multiple seaso
 
 1. A Captain Rating entitles the Member to sail in all safe wind conditions, subject to the restrictions of the By-Laws and Policies.
 2. Windsurf Captains may sail in all Approved Waters and Launches (Article 2, Section 1.a.).
-3. Only the windsurf captain is allowed to use equipment.
 
 #### Approved Waters
 
@@ -159,10 +154,6 @@ All Waters approved under Article II, Section 1. a.
 #### Expiration
 
 Captain Ratings do not expire.
-
-#### Equipment Checkout and Fee
-
-A checkout fee applies to windsurf and wetsuit equipment that is not returned within a single day. Beginner boards and beginner sail rig equipment cannot be checked out in an overlapping time period with windsurf classes. The Kona's and other longboards, shortboards, and foil board are free from beginner equipment board restriction.
 
 #### Volunteering
 
@@ -329,6 +320,10 @@ The Member and Guest requirements in the WYC Policies apply, except that the use
 ### Facilities Access
 
 Only Members with Ratings or Position Holders may access the windsurf equipment, and only for Club activity. When the equipment is not in use, the gate must be locked unless a Member in the immediate area knows it is unlocked and there is a defined plan for who will lock it and when.
+
+### Equipment Checkout and Fees
+
+A checkout fee applies to windsurf and wetsuit equipment not returned within a single day. Beginner boards and beginner sail rigs may not be checked out during scheduled classes, socials, or other Club events that require that equipment. Longboards, shortboards, and foil boards are not subject to this beginner-equipment availability restriction.
 
 ### Checkout Permissions by Chiefs and Ratings Examiners
 

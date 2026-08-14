@@ -1,5 +1,5 @@
 <div class="document_title">Policies</div>
-<div class="document_revision">August 6, 2026</div>
+<div class="document_revision">August 20, 2026</div>
 
 # Definitions and Ratings
 ## Fleets and Classes of Boats
@@ -12,12 +12,12 @@ In the context of Club Policies, the term Dinghy is understood to include the Br
 14 foot long cat-rigged, daggerboard (removable centerboard) dinghies that are sailed by one person..They may be rigged as a Laser Radial using a shorter Radial mast and smaller Radial sail.
 
 ### Double-Handed Fleet
-Beginner-friendly sloop-rigged (having two basic sail) dinghies designed to be sailed by two people (one skipper and one crew). Our primary Double-Handed boats are the Flying Juniors (FJ), which are 13 foot long with a centerboard, and we also have a Laser 2 (14.5 foot long with a daggerboard), RS Vision (15 foot long with a centerboard), and an International 470 (I-470) (15.5 feet long with a centerboard).
+Beginner-friendly sloop-rigged (having two basic sail) dinghies designed to be sailed by two people (one skipper and one crew). Our primary Double-Handed boats are the Flying Juniors (FJ), which are 13 foot long with a centerboard, and we also have an RS Vision (15 foot long with a centerboard) and an International 470 (I-470) (15.5 feet long with a centerboard).
 
-The FJ’s, Laser 2, and RS Vision may be used for beginner instruction and Novice Ratings Tests, while the 470 may also be used for Intermediate and Skipper Ratings Tests.
+The FJ’s and RS Vision may be used for beginner instruction and Novice Ratings Tests, while the 470 may also be used for Intermediate and Skipper Ratings Tests.
 
 ### Performance Fleet
-High-performance sloop-rigged, centerboard dinghies. These boats require a Specialty Rating to sail and are represented by the International 505 and International 14 (I-14) boats.
+High-performance sloop-rigged, centerboard dinghies. These boats require a Specialty Rating to sail and are represented by the E Scow.
 
 ### Sailboard Fleet
 The Sailboard Fleet is represented by many combinations of boards, booms, masts, mast extenders, sails, and universal joints that may be rigged together and sailed by one person. It's governed by the [WYC Windsurf Policies](https://documents.washingtonyachtclub.org/WYC_Windsurf_Policies.pdf)
@@ -26,7 +26,7 @@ The Sailboard Fleet is represented by many combinations of boards, booms, masts,
 Sloop-rigged sailboats with more than one hull.
 
 #### Novice Catamarans
-16 to 17 foot long catamarans suitable for beginner instruction and Novice Ratings Tests. They are represented by Hobie 16’s and a Dart.
+16 to 17 foot long catamarans suitable for beginner instruction and Novice Ratings Tests. They are represented by Hobie 16’s, a Dart, and a Hobie Getaway.
 
 #### Big Cats
 Catamarans longer than 17 feet intended for more experienced catamaran sailors. They require a Specialty Rig Rating to sail.
@@ -91,10 +91,10 @@ Novice Ratings are valid for 6 months. It is recommended that Members try their 
 The test must be performed in a Laser and qualifies the holder to sail the Laser and Bravo. The test may be performed in a Laser Radial at the discretion of the examiner.
 
 ##### Double-Handed Novice
-The test may be performed in an FJ, Laser II, or Vision, and qualifies the holder to sail the FJ, Laser II, Vision, and Flying Scot.
+The test may be performed in an FJ or Vision, and qualifies the holder to sail the FJ, Vision, Flying Scot, and Bravo.
 
 ##### Catamaran Novice
-The test may be performed in a Hobie 16 or Dart and qualifies the holder to sail those vessels.
+The test may be performed in a Hobie 16, Dart, or Hobie Getaway and qualifies the holder to sail those vessels.
 
 ### Dinghy Intermediate Ratings
 #### Requirements
@@ -111,7 +111,7 @@ Intermediate Ratings do not expire.
 The test must be performed in a Laser and qualifies the holder to sail the Laser and Bravo. The test may be performed in a Laser Radial at the discretion of the examiner.
 
 ##### Double-Handed Intermediate
-The test may be performed in an FJ, Laser II, Vision, or 470, and this Rating qualifies the holder to sail the boats in the Double-Handed and Daysailer Fleets. This Rating also qualifies the holder to obtain the Lake Sailor Specialty Rating and the Performance Boat Specialty Rig Ratings.
+The test may be performed in an FJ, Vision, or 470, and this Rating qualifies the holder to sail the boats in the Double-Handed and Daysailer Fleets. This Rating also qualifies the holder to obtain the Lake Sailor Specialty Rating and the Performance Boat Specialty Rig Ratings.
 
 ##### Catamaran Intermediate
 The test may be performed in a Hobie 16, Dart, or Big Cat and qualifies the holder to sail those vessels.
@@ -121,6 +121,9 @@ The Big Cats may be sailed by any Member who has a Catamaran Intermediate Rating
 
 ##### Lake Sailor Specialty
 The Lake Sailor Specialty Rating may be given to a Member holding a Double-Handed Intermediate Rating who has displayed additional skill and judgment in sailing Daysailers. The Lake Sailor Rating allows the Member to sail any Daysailer in winds less than 15 knots in Lake Washington, north of the Evergreen Point Floating Bridge and south of Sand Point, during daylight hours. The wind speed is to be determined at the place where the boat is being sailed.
+
+##### Performance Boat Specialty Rig Ratings
+The Performance Boats may be sailed by any Member who has a Double-Handed Intermediate Rating and demonstrates to a Chief the rigging procedure for that specific boat.
 
 ##### Daysailer Electric Outboard Specialty Rig Rating
 Daysailers may be sailed with an electric outboard of no more than 6 horsepower by DH intermediate or above who demonstrate to a Chief who has this rating the correct usage and installation of the electric outboards as well as proper docking, safety, and competency. The electric outboards shall only be used for the appropriate vessels (daysailers).
@@ -150,13 +153,10 @@ Skipper Ratings do not expire.
 The test must be performed in a Laser, and this Rating qualifies the holder to sail the Laser and Bravo. The test may be performed in a Laser Radial at the discretion of the examiner.
 
 ##### Double-Handed Skipper
-The test may be performed in any Double-Handed Dinghy, and this Rating qualifies the holder to sail any boats in the Double-Handed or Daysailer Fleets. This also qualifies the holder to earn Performance Boat Specialty Rig Ratings.
+The test may be performed in any Double-Handed Dinghy, and this Rating qualifies the holder to sail any boats in the Double-Handed or Daysailer Fleets.
 
 ##### Catamaran Skipper
 The test may be performed in a Hobie 16, Dart, or Big Cat and qualifies the holder to sail those vessels.
-
-##### Performance Boat Specialty Rig Ratings
-The Performance Boats may be sailed by any Member who has a Double-Handed Skipper Rating and demonstrates to a Chief the rigging procedure for that specific boat.
 
 ### Keelboat Novice Rating
 #### Requirements
@@ -190,9 +190,6 @@ A Keelboat Skipper is entitled to sail a Keelboat in all winds and in all waters
 
 #### Inboard Keelboat Specialty Rig Ratings
 A Keelboat Skipper may obtain separate Specialty Ratings allowing for the use of the Cal 3-30 or San Juan 30 sailboats. This Rating may be awarded by a Keelboat Chief and requires proficiency in sailing the larger boats, as well as use of the inboard engine and other equipment specific to the boat for which the Rating is given. A Keelboat Novice may also receive a Specialty Rating if they fulfill the same requirements. Keelboat novice water restrictions still apply with the Specialty Rating.
-
-#### Ithaka Skipper
-A Keelboat Skipper is eligible to be elected as an Ithaka Skipper by a two-thirds majority vote at a General Meeting following nomination by an existing Ithaka Skipper. This designation allows the Ithaka Skipper to skipper the Swan 441 when approved by a vote at a General Meeting, and is subject to any other restrictions on the use of the Swan 441 imposed by the Officers or by a majority vote of Members at an Executive Council Meeting or General Meeting.
 
 ### Whaler Rating
 #### Requirements
@@ -493,3 +490,6 @@ Any Club action which requires formal notification will be announced on the wyc_
 
 # Meeting Forecasts
 Dates for a minimum of one Executive Council Meeting and one General Meeting, to occur during the upcoming quarter, shall be decided by the final Meeting of each quarter.
+
+# Code of Conduct
+All Members must follow the [WYC Code of Conduct](https://documents.washingtonyachtclub.org/WYC_Code_of_Conduct.pdf). Serious or repeated violations may result in suspension under these Policies, including indefinite suspension.

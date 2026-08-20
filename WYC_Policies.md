@@ -492,4 +492,4 @@ Any Club action which requires formal notification will be announced on the wyc_
 Dates for a minimum of one Executive Council Meeting and one General Meeting, to occur during the upcoming quarter, shall be decided by the final Meeting of each quarter.
 
 # Code of Conduct
-All Members must follow the [WYC Code of Conduct](https://documents.washingtonyachtclub.org/WYC_Code_of_Conduct.pdf). Serious or repeated violations may result in suspension under these Policies, including indefinite suspension.
+All Members must follow the [WYC Code of Conduct](https://docs.google.com/document/d/11fGnYBFDAAlDfSLM64krB4q2f9Gp8AVAlnqWxMsi5Yw/edit?usp=sharing). Serious or repeated violations may result in suspension (as covered by [Membership Suspensions](#membership-suspensions)).

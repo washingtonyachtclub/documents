@@ -54,6 +54,12 @@ Effort to deduplicate the Windsurf Policies against the main WYC Policies.
 - **§Announcement (113) deleted.** It cited "Article VII - Section D in the By-Laws"; the real target (VIII.D) leads to VIII.A, which says amendment procedures "are described in the Constitution" — a closed loop. §Procedure (110) already carries the full rule, and its delegation of the posting medium to the Policies is the good kind (the email list should move on a simple majority, not 2/3). Deleting §C leaves IX-B intact, so line 107's self-reference still resolves.
 - **Chapter termination (120)** "processes of Article VIII" (= Sponsor) → "the Constitution amendment processes", named rather than numbered.
 
+### Constitution reference and wording cleanup
+- Replaced the broken By-Laws delegation with a direct requirement that Officers be Regular Members and eligible under University of Washington rules, while retaining the existing consequence for an officer who becomes ineligible.
+- Replaced the numbered references to *Filling of Vacant Offices* and *Procedure* with heading-name links.
+- Corrected "in general of their interest" to "in general or their interest" and "form the floor" to "from the floor."
+- Removed the incorrect "(50%)" parenthetical from "simple majority."
+
 ### NOAA penalty deduplicated
 - The Windsurf document now has one NOAA rule, in *All Approved Waters and Launches*: a violation may result in the rating being temporarily suspended. The duplicate wording is gone, so no policy change was needed here.
 
@@ -89,13 +95,6 @@ Effort to deduplicate the Windsurf Policies against the main WYC Policies.
 
 ---
 ## Todo
-
-### Constitution amendments (meeting proposal)
-
-- **Confirm the source of officer eligibility rules.** Determine whether officer eligibility must be established in the By-Laws or may be stated directly in the Constitution, taking into account applicable University of Washington requirements.
-- **Draft concise officer-eligibility language.** Require candidates and officeholders to be Regular Members and to remain eligible under applicable University of Washington rules. Keep the existing consequence that an officer who becomes ineligible leaves office and the vacancy is filled through the established succession process.
-- **Replace numbered references with heading names.** Replace “Article VI - Section C” with a link to *Filling of Vacant Offices* and “Article IX - Section B” with a link to *Procedure*.
-- **Correct deferred Constitution typos and garbles.** Change “in general of their interest” to “in general or their interest,” “form the floor” to “from the floor,” and replace “simple majority (50%)” with wording that correctly requires more than 50%.
 
 ### Deferred cleanup and policy changes
 

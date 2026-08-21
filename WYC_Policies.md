@@ -17,7 +17,7 @@ Beginner-friendly sloop-rigged (having two basic sails) dinghies designed to be 
 The FJ’s and RS Vision may be used for beginner instruction and Novice Ratings Tests, while the 470 may also be used for Intermediate and Skipper Ratings Tests.
 
 ### Performance Fleet
-High-performance sloop-rigged, centerboard dinghies. These boats require a Rig Rating to sail and are represented by the E Scow.
+High-performance sloop-rigged, centerboard dinghies. These boats require a Rig Rating to sail and are represented by the E Scow and 470.
 
 ### Sailboard Fleet
 The Sailboard Fleet is represented by many combinations of boards, booms, masts, mast extenders, sails, and universal joints that may be rigged together and sailed by one person. It's governed by the [WYC Windsurf Policies](https://documents.washingtonyachtclub.org/WYC_Windsurf_Policies.pdf)
@@ -492,4 +492,4 @@ Any Club action which requires formal notification will be announced on the wyc_
 Dates for a minimum of one Executive Council Meeting and one General Meeting, to occur during the upcoming quarter, shall be decided by the final Meeting of each quarter.
 
 # Code of Conduct
-All Members must follow the [WYC Code of Conduct](https://docs.google.com/document/d/11fGnYBFDAAlDfSLM64krB4q2f9Gp8AVAlnqWxMsi5Yw/edit?usp=sharing). Serious or repeated violations may result in suspension (as covered by [Membership Suspensions](#membership-suspensions)).
+All Members must follow the [WYC Code of Conduct](https://documents.washingtonyachtclub.org/WYC_Code_of_Conduct.pdf). Serious or repeated violations may result in suspension under [Membership Suspensions](#membership-suspensions). University of Washington rules take precedence over the WYC Code of Conduct in the event of a conflict. Amendments to the Code of Conduct follow the same procedure as amendments to the Policies.

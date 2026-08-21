@@ -33,7 +33,7 @@ Rig and derig, demonstrate basic sailing ability by performing three tacks and t
 
 #### Privileges
 
-A Novice Rating entitles the Member to sail in winds not over 7 knots at Sail Sand Point, within the approved waters defined by wind direction. Approved waters for Sail Sand Point visualized under Article II, Section A. 1. b. A.
+A Novice Rating entitles the Member to sail in winds not over 7 knots at Sail Sand Point, within the approved waters defined by wind direction. Approved waters for Sail Sand Point are described under [Sail Sand Point](#sail-sand-point).
 
 #### Expiration
 
@@ -86,15 +86,15 @@ Given the extra privileges of a Skipper, a higher standard of responsibility and
 #### Privileges
 
 1. A Skipper Rating entitles the Member to sail in all safe wind conditions, subject to the restrictions of the By-Laws and Policies.
-2. Sailboard Skippers may sail in Approved Skipper Waters (section 6.c.).
+2. Sailboard Skippers may sail in [Approved Skipper Waters](#approved-skipper-waters).
 
 #### Approved Skipper Waters
 
-Lake Washington waters and beaches, north of the Evergreen Point Floating bridge, Greenlake, and Lake Ballinger. Skippers may drive equipment over to beaches that are appropriate for the wind direction, anywhere within approved skipper waters, provided they obtain the Travel Rig Rating (item e. below). On a skipper's first time going to a new launch, it is recommended they contact a chief on how best to launch there.
+Lake Washington waters and beaches, north of the Evergreen Point Floating bridge, Green Lake, and Lake Ballinger. Skippers may drive equipment over to beaches that are appropriate for the wind direction, anywhere within approved skipper waters, provided they obtain the [Travel Rig Rating](#travel-rig-rating). On a skipper's first time going to a new launch, it is recommended they contact a chief on how best to launch there.
 
 The Hook Park in Hood River, OR (inside and outside) is also approved for skippers, as long as they communicate with a knowledgeable windsurf chief on how to windsurf there.
 
-See section e. Travel Rig Rating
+See [Travel Rig Rating](#travel-rig-rating).
 
 #### Expiration
 
@@ -103,10 +103,6 @@ Skipper Ratings do not expire.
 #### Travel Rig Rating
 
 In order to travel with equipment from SSP, a skipper must receive a travel rig rating from a Windsurf Chief. This rating covers how to travel with equipment in a vehicle and ensures that the skipper has adequate ability and equipment to safely transport windsurf gear. A skipper with a travel rig rating may also transport the equipment of other skippers or others for supervised sailing/classes.
-
-#### Equipment Checkout and Fee
-
-A checkout fee applies to windsurf and wetsuit equipment that is not returned within a single day. Beginner boards and beginner sail rig equipment cannot be checked out in an overlapping time period with windsurf classes, socials, and other club events. The Kona's and other longboards, shortboards, and foil board are free from beginner board restrictions.
 
 ### Windsurf Captain Rating
 
@@ -149,20 +145,15 @@ The development of skills for the Captain's rating takes time and multiple seaso
 #### Privileges
 
 1. A Captain Rating entitles the Member to sail in all safe wind conditions, subject to the restrictions of the By-Laws and Policies.
-2. Windsurf Captains may sail in all Approved Waters and Launches (Article 2, Section 1.a.).
-3. Only the windsurf captain is allowed to use equipment.
+2. Windsurf Captains may sail in [All Approved Waters and Launches](#all-approved-waters-and-launches).
 
 #### Approved Waters
 
-All Waters approved under Article II, Section 1. a.
+All waters listed under [All Approved Waters and Launches](#all-approved-waters-and-launches).
 
 #### Expiration
 
 Captain Ratings do not expire.
-
-#### Equipment Checkout and Fee
-
-A checkout fee applies to windsurf and wetsuit equipment that is not returned within a single day. Beginner boards and beginner sail rig equipment cannot be checked out in an overlapping time period with windsurf classes. The Kona's and other longboards, shortboards, and foil board are free from beginner equipment board restriction.
 
 #### Volunteering
 
@@ -270,7 +261,7 @@ All windsurf boards must be back on shore by dark, no exceptions.
 Southerly winds at SSP are often characterized by intense gusts and shifts in direction between the south and west. Southerly and westerly winds are offshore winds at SSP, which increase the risk of being blown offshore. To mitigate this risk, if steady winds are above 11 knots, or intermittent or frequent whitecaps are seen offshore towards Kirkland, the following policies must be adhered to:
 
 1. Only skippers may windsurf unsupervised.
-2. In Southerly winds, the 6th street wind meter in Kirkland should be used to determine true wind speed. Dependent on direction, this wind meter tends to be a few mph less than actual. SSP and WYC wind meters are not accurate gauges what-so-ever of southerly winds.
+2. In Southerly winds, the 6th street wind meter in Kirkland should be used to determine true wind speed. Dependent on direction, this wind meter tends to read a few knots lower than the actual wind speed. SSP and WYC wind meters are not accurate gauges what-so-ever of southerly winds.
    1. Another option is this king county buoy (is in meters per second, convert to knots): https://green2.kingcounty.gov/lake-buoy/Meteorology.aspx?Buoy=Washington
    2. In the case that the wind meters are down, look for whitecaps offshore towards Kirkland
 3. Members attempting their skipper test must hold an intermediate rating already.
@@ -285,7 +276,7 @@ Southerly winds at SSP are often characterized by intense gusts and shifts in di
 ### Supervised Sailing Southerly Policies
 
 1. Only a member with a skipper rating may supervise.
-2. The supervising member will conduct a chalk-talk with everyone to communicate the sailing boundaries, launching point, washup options, and self-rescuing in a direction at least 45 away from the wind to allow for progress back to shore. If possible, the supervisor may physically demonstrate the teaching boundaries by providing a demo of sailing within them.
+2. The supervising member will conduct a chalk-talk with everyone to communicate the sailing boundaries, launching point, washup options, and self-rescuing in a direction at least 45 degrees away from the wind to allow for progress back to shore. If possible, the supervisor may physically demonstrate the teaching boundaries by providing a demo of sailing within them.
 3. Only one member will be allowed to sail at a time for testing.
 4. (Only on Southerlies) Windsurfer will be initially tied to a tether, manned by the supervisor on land until they have proven to be able to make consistent upwind progress. A series of tacks and maintaining in the sailing boundaries while making upwind progress would be sufficient. Ensure that the tether doesn't become a hazard for other people or vessels in the water.
 
@@ -329,6 +320,10 @@ The Member and Guest requirements in the WYC Policies apply, except that the use
 ### Facilities Access
 
 Only Members with Ratings or Position Holders may access the windsurf equipment, and only for Club activity. When the equipment is not in use, the gate must be locked unless a Member in the immediate area knows it is unlocked and there is a defined plan for who will lock it and when.
+
+### Equipment Checkout and Fees
+
+A checkout fee applies to windsurf and wetsuit equipment not returned within a single day. Beginner boards and beginner sail rigs may not be checked out during scheduled classes, socials, or other Club events that require that equipment. Longboards, shortboards, and foil boards are not subject to this beginner-equipment availability restriction.
 
 ### Checkout Permissions by Chiefs and Ratings Examiners
 

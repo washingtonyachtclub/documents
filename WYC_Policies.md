@@ -1,5 +1,5 @@
 <div class="document_title">Policies</div>
-<div class="document_revision">August 6, 2026</div>
+<div class="document_revision">August 20, 2026</div>
 
 # Definitions and Ratings
 ## Fleets and Classes of Boats
@@ -9,15 +9,15 @@ In the context of Club Policies, the term Dinghy is understood to include the Br
 12 foot long cat-rigged (having a single sail) catamarans. Our most beginner-friendly boats. They can be sailed by just one person, but they have room for additional crew as well.
 
 ### Single-Handed Fleet
-14 foot long cat-rigged, daggerboard (removable centerboard) dinghies that are sailed by one person..They may be rigged as a Laser Radial using a shorter Radial mast and smaller Radial sail.
+14 foot long cat-rigged, daggerboard (removable centerboard) dinghies that are sailed by one person. They may be rigged as a Laser Radial using a shorter Radial mast and smaller Radial sail.
 
 ### Double-Handed Fleet
-Beginner-friendly sloop-rigged (having two basic sail) dinghies designed to be sailed by two people (one skipper and one crew). Our primary Double-Handed boats are the Flying Juniors (FJ), which are 13 foot long with a centerboard, and we also have a Laser 2 (14.5 foot long with a daggerboard), RS Vision (15 foot long with a centerboard), and an International 470 (I-470) (15.5 feet long with a centerboard).
+Beginner-friendly sloop-rigged (having two basic sails) dinghies designed to be sailed by two people (one skipper and one crew). Our primary Double-Handed boats are the Flying Juniors (FJ), which are 13 foot long with a centerboard, and we also have an RS Vision (15 foot long with a centerboard) and an International 470 (I-470) (15.5 feet long with a centerboard).
 
-The FJ’s, Laser 2, and RS Vision may be used for beginner instruction and Novice Ratings Tests, while the 470 may also be used for Intermediate and Skipper Ratings Tests.
+The FJ’s and RS Vision may be used for beginner instruction and Novice Ratings Tests, while the 470 may also be used for Intermediate and Skipper Ratings Tests.
 
 ### Performance Fleet
-High-performance sloop-rigged, centerboard dinghies. These boats require a Specialty Rating to sail and are represented by the International 505 and International 14 (I-14) boats.
+High-performance sloop-rigged, centerboard dinghies. These boats require a Rig Rating to sail and are represented by the E Scow and 470.
 
 ### Sailboard Fleet
 The Sailboard Fleet is represented by many combinations of boards, booms, masts, mast extenders, sails, and universal joints that may be rigged together and sailed by one person. It's governed by the [WYC Windsurf Policies](https://documents.washingtonyachtclub.org/WYC_Windsurf_Policies.pdf)
@@ -26,10 +26,10 @@ The Sailboard Fleet is represented by many combinations of boards, booms, masts,
 Sloop-rigged sailboats with more than one hull.
 
 #### Novice Catamarans
-16 to 17 foot long catamarans suitable for beginner instruction and Novice Ratings Tests. They are represented by Hobie 16’s and a Dart.
+16 to 17 foot long catamarans suitable for beginner instruction and Novice Ratings Tests. They are represented by Hobie 16’s, a Dart, and a Hobie Getaway.
 
 #### Big Cats
-Catamarans longer than 17 feet intended for more experienced catamaran sailors. They require a Specialty Rig Rating to sail.
+Catamarans longer than 17 feet intended for more experienced catamaran sailors. They require a Rig Rating to sail.
 
 ### Daysailer Fleet
 Sloop-rigged sailboats from 19 to 22 feet in length that may comfortably hold four or more crew. The Flying Scot has a centerboard and can be sailed by a Double-Handed Novice. The other Daysailers have a fixed keel and require a Double-Handed Intermediate Rating to sail. If a fixed-keeled daysailer is operated with an outboard motor it may be sailed by a keelboat Novice or Skipper within the geographical restriction of their respective ratings.
@@ -49,7 +49,7 @@ Rescue powerboats maintained for the purpose of rescue and instruction.
 A Rating for a fleet or class of vessels allows a Member to use those vessels in the conditions and waters for which they are rated without supervision.
 
 ### General Requirements
-1. All Members must read and be familiar with the contents of Articles I, II, and III of the Policies in order to qualify to receive Ratings, especially the Club’s boat checkout procedures.
+1. All Members must read and be familiar with [Definitions and Ratings](#definitions-and-ratings), [Use of Boats, Facilities, and Equipment](#use-of-boats-facilities-and-equipment), and [Membership Dues, Fees, and Volunteer Recognition](#membership-dues-fees-and-volunteer-recognition) in order to qualify to receive Ratings, especially the Club’s boat checkout procedures.
 2. All Members must display consideration for the safety of lives and for the protection of club equipment.
 3. A combination of Written Exams and on-the-water practical Ratings Tests are required for each Rating as described below.
 4. The requirements described here are minimum requirements. The final decision to award a Rating is at the discretion of the Chief, Instructor, or Ratings Examiner administering the Ratings Test.
@@ -91,10 +91,10 @@ Novice Ratings are valid for 6 months. It is recommended that Members try their 
 The test must be performed in a Laser and qualifies the holder to sail the Laser and Bravo. The test may be performed in a Laser Radial at the discretion of the examiner.
 
 ##### Double-Handed Novice
-The test may be performed in an FJ, Laser II, or Vision, and qualifies the holder to sail the FJ, Laser II, Vision, and Flying Scot.
+The test may be performed in an FJ or Vision, and qualifies the holder to sail the FJ, Vision, Flying Scot, and Bravo.
 
 ##### Catamaran Novice
-The test may be performed in a Hobie 16 or Dart and qualifies the holder to sail those vessels.
+The test may be performed in a Hobie 16, Dart, or Hobie Getaway and qualifies the holder to sail those vessels.
 
 ### Dinghy Intermediate Ratings
 #### Requirements
@@ -111,18 +111,21 @@ Intermediate Ratings do not expire.
 The test must be performed in a Laser and qualifies the holder to sail the Laser and Bravo. The test may be performed in a Laser Radial at the discretion of the examiner.
 
 ##### Double-Handed Intermediate
-The test may be performed in an FJ, Laser II, Vision, or 470, and this Rating qualifies the holder to sail the boats in the Double-Handed and Daysailer Fleets. This Rating also qualifies the holder to obtain the Lake Sailor Specialty Rating and the Performance Boat Specialty Rig Ratings.
+The test may be performed in an FJ, Vision, or 470, and this Rating qualifies the holder to sail the boats in the Double-Handed and Daysailer Fleets. This Rating also qualifies the holder to obtain the Lake Sailor Rating and the Performance Boat Rig Ratings.
 
 ##### Catamaran Intermediate
 The test may be performed in a Hobie 16, Dart, or Big Cat and qualifies the holder to sail those vessels.
 
-##### Big Cat Specialty
-The Big Cats may be sailed by any Member who has a Catamaran Intermediate Rating and who has demonstrated to a Catamaran Chief the specialty procedures for each boat.
+##### Big Cat Rig Rating
+The Big Cats may be sailed by any Member who has a Catamaran Intermediate Rating and who has demonstrated to a Catamaran Chief the special procedures for each boat.
 
-##### Lake Sailor Specialty
-The Lake Sailor Specialty Rating may be given to a Member holding a Double-Handed Intermediate Rating who has displayed additional skill and judgment in sailing Daysailers. The Lake Sailor Rating allows the Member to sail any Daysailer in winds less than 15 knots in Lake Washington, north of the Evergreen Point Floating Bridge and south of Sand Point, during daylight hours. The wind speed is to be determined at the place where the boat is being sailed.
+##### Lake Sailor Rating
+The Lake Sailor Rating may be given to a Member holding a Double-Handed Intermediate Rating who has displayed additional skill and judgment in sailing Daysailers. The Lake Sailor Rating allows the Member to sail any Daysailer in winds less than 15 knots in Lake Washington, north of the Evergreen Point Floating Bridge and south of Sand Point, during daylight hours. The wind speed is to be determined at the place where the boat is being sailed.
 
-##### Daysailer Electric Outboard Specialty Rig Rating
+##### Performance Boat Rig Ratings
+The Performance Boats may be sailed by any Member who has a Double-Handed Intermediate Rating and demonstrates to a Chief the rigging procedure for that specific boat.
+
+##### Daysailer Electric Outboard Rig Rating
 Daysailers may be sailed with an electric outboard of no more than 6 horsepower by DH intermediate or above who demonstrate to a Chief who has this rating the correct usage and installation of the electric outboards as well as proper docking, safety, and competency. The electric outboards shall only be used for the appropriate vessels (daysailers).
 
 ### Dinghy Skipper Rating
@@ -150,13 +153,10 @@ Skipper Ratings do not expire.
 The test must be performed in a Laser, and this Rating qualifies the holder to sail the Laser and Bravo. The test may be performed in a Laser Radial at the discretion of the examiner.
 
 ##### Double-Handed Skipper
-The test may be performed in any Double-Handed Dinghy, and this Rating qualifies the holder to sail any boats in the Double-Handed or Daysailer Fleets. This also qualifies the holder to earn Performance Boat Specialty Rig Ratings.
+The test may be performed in any Double-Handed Dinghy, and this Rating qualifies the holder to sail any boats in the Double-Handed or Daysailer Fleets.
 
 ##### Catamaran Skipper
 The test may be performed in a Hobie 16, Dart, or Big Cat and qualifies the holder to sail those vessels.
-
-##### Performance Boat Specialty Rig Ratings
-The Performance Boats may be sailed by any Member who has a Double-Handed Skipper Rating and demonstrates to a Chief the rigging procedure for that specific boat.
 
 ### Keelboat Novice Rating
 #### Requirements
@@ -188,11 +188,8 @@ Demonstrate the proper use of secondary equipment, such as head, engine, stove, 
 #### Privileges
 A Keelboat Skipper is entitled to sail a Keelboat in all winds and in all waters for which the club carries insurance during the hours covered by a reservation, subject to the restrictions in this Policies document.
 
-#### Inboard Keelboat Specialty Rig Ratings
-A Keelboat Skipper may obtain separate Specialty Ratings allowing for the use of the Cal 3-30 or San Juan 30 sailboats. This Rating may be awarded by a Keelboat Chief and requires proficiency in sailing the larger boats, as well as use of the inboard engine and other equipment specific to the boat for which the Rating is given. A Keelboat Novice may also receive a Specialty Rating if they fulfill the same requirements. Keelboat novice water restrictions still apply with the Specialty Rating.
-
-#### Ithaka Skipper
-A Keelboat Skipper is eligible to be elected as an Ithaka Skipper by a two-thirds majority vote at a General Meeting following nomination by an existing Ithaka Skipper. This designation allows the Ithaka Skipper to skipper the Swan 441 when approved by a vote at a General Meeting, and is subject to any other restrictions on the use of the Swan 441 imposed by the Officers or by a majority vote of Members at an Executive Council Meeting or General Meeting.
+#### Inboard Keelboat Rig Ratings
+A Keelboat Skipper may obtain separate Rig Ratings allowing for the use of the Cal 3-30 or San Juan 30 sailboats. This Rating may be awarded by a Keelboat Chief and requires proficiency in sailing the larger boats, as well as use of the inboard engine and other equipment specific to the boat for which the Rating is given. A Keelboat Novice may also receive a Rig Rating if they fulfill the same requirements. Keelboat novice water restrictions still apply with the Rig Rating.
 
 ### Whaler Rating
 #### Requirements
@@ -251,7 +248,7 @@ From November 1st to May 1st, if hazardous conditions exist and a Rescue Whaler 
 No Novice or Intermediate sailing.
 
 ### Exception for Keelboats
-The above sections of Article II regarding Sailing Hours, Docking Hours, and Hazardous Weather do not apply to the use of Keelboats. However, the Executive Council or Officers may determine conditions or expected conditions in which Keelboats may not be used.
+The Sailing Hours, Docking Hours, and Hazardous Weather rules do not apply to the use of Keelboats. However, the Executive Council or Officers may determine conditions or expected conditions in which Keelboats may not be used.
 
 ### Restrictions During Football Games
 Except in case of an emergency or with special permission from a Co-Commodore, no WYC activities or use of Club resources may take place at the WAC on home football game Husky Harbor days from the time that the boats are moved prior to the game until the official end of Husky Harbor (one hour after the end of the football game).
@@ -263,8 +260,8 @@ Except in case of an emergency or with special permission from a Co-Commodore, n
 3. To access Club boats and facilities at the waterfront outside of WAC operating hours, Guests must email guests@washingtonyachtclub.org each quarter with proof of full-time student status or IMA membership, and the Member bringing out the Guest must also be a recipient of this email. This will be used to verify that the waterfront is not being used for club activity by individuals without IMA membership.
 4. All Guests, both at the waterfront and at other locations, must sign the online WYC Participant’s Agreement (available at https://waiver.washingtonyachtclub.org/) before sailing, and the Member bringing them out must verify that they have properly completed the waiver.
 5. All Guests must abide by the Club rules and may not be under 18 years of age.
-6. Failure to follow the above requirements may result in the Member losing their privilege to bring Guests, and both the Member and Guest being prohibited from using any and all WYC facilities and equipment for a period of time to be determined by the Executive Council. An appeal may be made according to Article IV - Section B.6 in the Policies.
-7. Club members must not knowingly allow prohibited Guests from accessing Club boats or facilities.
+6. Failure to follow the above requirements may result in the Member losing their privilege to bring Guests, and both the Member and Guest being prohibited from using any and all WYC facilities and equipment for a period of time to be determined by the Executive Council. An appeal may be made under [Appeal Suspensions](#appeal-suspensions).
+7. Club members must not knowingly allow prohibited Guests to access Club boats or facilities.
 
 ### Facilities Access
 Only Members with Ratings or Position Holders may open the Sail Locker, Shell House, and Gas Locker and only for usage in Club activity. When Members are not inside, these spaces must be locked at all times unless a Member in the immediate area knows that the door is unlocked and there is a defined plan for who will be locking the door and when. Any Member failing to abide by the above requirements may have their privilege to access these facilities revoked.
@@ -375,7 +372,7 @@ One or more paddles.
 Usage of the outboard motors affixed to Keelboats is limited to qualified Keelboat Novices and Skippers, except with the permission of a Chief or the Executive Council.
 
 ## Outboard Motor Usage on Daysailers
-Usage of gas or propane outboard motors affixed to a Daysailer is limited to qualified Keelboat Novices and Skippers, except with the permission of a Chief or the Executive Council. A reservation fee equivalent to 50% of the corresponding Keelboat Reservation Fee described in Article III, Section B of this Policies document must be submitted to the club.
+Usage of gas or propane outboard motors affixed to a Daysailer is limited to qualified Keelboat Novices and Skippers, except with the permission of a Chief or the Executive Council. A reservation fee equivalent to 50% of the corresponding [Keelboat Reservation Fee](#keelboat-reservation-fees) must be submitted to the club.
 
 ## Other Usage of Outboard Motors
 Outboard motors may only be used for purposes other than those outlined above with the permission of a Chief or the Executive Council.
@@ -392,7 +389,7 @@ Outboard motors may only be used for purposes other than those outlined above wi
 Full-time UW Seattle student status or IMA membership is required to be a Member. Membership will not be recognized if these requirements are not met.
 
 #### Force Majeure
-In the event of being unable to access the boats, facilities, and equipment for an extended period of time, quarterly membership dues will be reduced to $0. At such time as access becomes available again, membership dues shall return to the amounts listed above and must be paid before usage as described in Article II of the Policies. However, any duration of time in which Members were unable to make use of their Membership will be added on to their updated Membership duration.
+In the event of being unable to access the boats, facilities, and equipment for an extended period of time, quarterly membership dues will be reduced to $0. At such time as access becomes available again, membership dues shall return to the amounts listed above and must be paid before usage as described in [Use of Boats, Facilities, and Equipment](#use-of-boats-facilities-and-equipment). However, any duration of time in which Members were unable to make use of their Membership will be added on to their updated Membership duration.
 
 ### Duration
 Membership dues shall be paid either quarterly or annually. The rates established for the payment of dues may not be prorated. An annual membership covers four consecutive quarters.
@@ -425,7 +422,7 @@ Unless the Keelboat Fleet Captain has otherwise set other restrictions and/or po
 
 ## Volunteer Recognition
 ### Volunteer Recognition Positions
-The Secretary and Ratings Examiners may be paid by a fixed ammount as a quarterly stipend.
+The Secretary and Ratings Examiners may be paid by a fixed amount as a quarterly stipend.
 
 #### Secretary
 The quarterly stipend shall be set by the Executive Council.
@@ -493,3 +490,6 @@ Any Club action which requires formal notification will be announced on the wyc_
 
 # Meeting Forecasts
 Dates for a minimum of one Executive Council Meeting and one General Meeting, to occur during the upcoming quarter, shall be decided by the final Meeting of each quarter.
+
+# Code of Conduct
+All Members must follow the [WYC Code of Conduct](https://documents.washingtonyachtclub.org/WYC_Code_of_Conduct.pdf). Serious or repeated violations may result in suspension under [Membership Suspensions](#membership-suspensions). University of Washington rules take precedence over the WYC Code of Conduct in the event of a conflict. Amendments to the Code of Conduct follow the same procedure as amendments to the Policies.

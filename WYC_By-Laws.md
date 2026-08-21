@@ -19,7 +19,7 @@ This Article provides details for the duties and powers of the Officers. The pro
 4. Ensure that all other Officers and Position Holders perform their assigned duties. 
 5. Set policies as necessary to ensure Membership is at least 50% Regular Members (currently-enrolled UW Seattle student members), in accordance with the Constitution.
 6. Preside over all General Meetings and Executive Council Meetings.
-7. Own the Club bank account and authorize signers as designated by Article VII - Section B.1.a in the By-Laws.
+7. Own the Club bank account and authorize signers as designated under [Check Writing Privileges](#check-writing-privileges).
 8. Have the power to check the records of the Treasurer.
 
 ### Vice Commodore
@@ -60,7 +60,7 @@ The Voting Members of the Executive Council are Regular Members who are Officers
 The Members of the Executive Council are responsible for leading all aspects of the Club’s operations.The Executive Council shall act as the Club’s planning and coordinating body, which also enables all necessary Club activities to be carried out.
 
 ### Rules Enforcement, Membership Suspensions, and Authority
-By a majority vote, may suspend any Member for a designated period of up to two weeks for infraction of the By-Laws, the Policies, or University regulations following the procedure described in Article IV of the Policies document. If warranted, longer suspensions may be made by a two-thirds majority vote for an indefinite period of time.
+By a majority vote, may suspend any Member for a designated period of up to two weeks for infraction of the By-Laws, the Policies, or University regulations following the [Membership Suspensions](https://documents.washingtonyachtclub.org/WYC_Policies.pdf#membership-suspensions) rules in the Policies. If warranted, longer suspensions may be made by a two-thirds majority vote for an indefinite period of time.
 
 The Executive Council has the final authority over decision making in the Club, able to check the decisions, powers, and actions of the Officers and other Members when they are believed to go against the best interest of the Club.
 
@@ -240,7 +240,7 @@ A Whaler Rating.
 A Windsurf Chief must hold a Windsurf Skipper rating and a Windsurf Badge – Level 1. A Windsurf Captain Chief must hold a Windsurf Captain rating, a Windsurf Badge – Level 1, a Gorge Windsurf Badge, and a Power Gybe Badge. Both must be familiar with: undertaking a risk assessment of the environment and providing a safety-related chalk talk before supervising windsurfers on the water; Club supervision/teaching boundaries and rescue policies; different methods for preventing windsurfers from entering dangerous situations; explaining and demonstrating members windsurfing out of dangerous situations; rescuing windsurfers from dangerous situations; using a stand-up paddleboard; and calling emergency services or for outside help.
 
 ### Appointment
-For Dinghy and Sailboard Fleets, it is recommended that an existing Designated Chief for the relevant fleet endorse the apointee. For Whaler or Keelboat Designation, this endorsement is required.
+For Dinghy and Sailboard Fleets, it is recommended that an existing Designated Chief for the relevant fleet endorse the appointee. For Whaler or Keelboat Designation, this endorsement is required.
 
 To receive the Windsurf Captain Chief Designation, the sailor must have a Captain rating, be given approval for appointment by one or more existing Windsurf Captain Chiefs, and be considered for appointment by the Executive Council.  
 

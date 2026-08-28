@@ -53,6 +53,7 @@ A Rating for a fleet or class of vessels allows a Member to use those vessels in
 2. All Members must display consideration for the safety of lives and for the protection of club equipment.
 3. A combination of Written Exams and on-the-water practical Ratings Tests are required for each Rating as described below.
 4. The requirements described here are minimum requirements. The final decision to award a Rating is at the discretion of the Chief, Instructor, or Ratings Examiner administering the Ratings Test.
+5. Any Rating may be awarded by a majority vote of the Executive Council
 
 ### Bravo Rating
 #### Requirements
@@ -114,19 +115,7 @@ The test must be performed in a Laser and qualifies the holder to sail the Laser
 The test may be performed in an FJ, Vision, or 470, and this Rating qualifies the holder to sail the boats in the Double-Handed and Daysailer Fleets. This Rating also qualifies the holder to obtain the Lake Sailor Rating and the Performance Boat Rig Ratings.
 
 ##### Catamaran Intermediate
-The test may be performed in a Hobie 16, Dart, or Big Cat and qualifies the holder to sail those vessels.
-
-##### Big Cat Rig Rating
-The Big Cats may be sailed by any Member who has a Catamaran Intermediate Rating and who has demonstrated to a Catamaran Chief the special procedures for each boat.
-
-##### Lake Sailor Rating
-The Lake Sailor Rating may be given to a Member holding a Double-Handed Intermediate Rating who has displayed additional skill and judgment in sailing Daysailers. The Lake Sailor Rating allows the Member to sail any Daysailer in winds less than 15 knots in Lake Washington, north of the Evergreen Point Floating Bridge and south of Sand Point, during daylight hours. The wind speed is to be determined at the place where the boat is being sailed.
-
-##### Performance Boat Rig Ratings
-The Performance Boats may be sailed by any Member who has a Double-Handed Intermediate Rating and demonstrates to a Chief the rigging procedure for that specific boat.
-
-##### Daysailer Electric Outboard Rig Rating
-Daysailers may be sailed with an electric outboard of no more than 6 horsepower by DH intermediate or above who demonstrate to a Chief who has this rating the correct usage and installation of the electric outboards as well as proper docking, safety, and competency. The electric outboards shall only be used for the appropriate vessels (daysailers).
+The test may be performed in a Hobie 16, Dart, or Hobie Getaway and qualifies the holder to sail those vessels.
 
 ### Dinghy Skipper Rating
 #### Requirements
@@ -188,9 +177,6 @@ Demonstrate the proper use of secondary equipment, such as head, engine, stove, 
 #### Privileges
 A Keelboat Skipper is entitled to sail a Keelboat in all winds and in all waters for which the club carries insurance during the hours covered by a reservation, subject to the restrictions in this Policies document.
 
-#### Inboard Keelboat Rig Ratings
-A Keelboat Skipper may obtain separate Rig Ratings allowing for the use of the Cal 3-30 or San Juan 30 sailboats. This Rating may be awarded by a Keelboat Chief and requires proficiency in sailing the larger boats, as well as use of the inboard engine and other equipment specific to the boat for which the Rating is given. A Keelboat Novice may also receive a Rig Rating if they fulfill the same requirements. Keelboat novice water restrictions still apply with the Rig Rating.
-
 ### Whaler Rating
 #### Requirements
 To obtain a Whaler Rating, one must:
@@ -203,6 +189,35 @@ Demonstrate proper operation of a marine VHF radio.
 
 ##### State Law Compliance
 Meet the requirements to operate a motor-powered vessel within the State of Washington (e.g., possessing a Boater Education Card).
+
+### Specialty Ratings
+Specialty Ratings authorize the use of specific boats or equipment or grant additional sailing privileges. Unless otherwise specified, a Specialty Rating may be awarded by a Chief who holds that Rating.
+
+#### Big Cat Rig Rating
+The Big Cats may be sailed by any Member who has a Catamaran Intermediate Rating and who has demonstrated the special procedures for each boat.
+
+#### Performance Boat Rig Ratings
+The Performance Boats may be sailed by any Member who has a Double-Handed Intermediate Rating and demonstrates the rigging procedure for that specific boat.
+
+#### Inboard Keelboat Rig Ratings
+A Keelboat Novice or Skipper may obtain separate Rig Ratings allowing for the use of the Cal 3-30. This Rating requires proficiency in sailing the larger boats, as well as use of the inboard engine and other equipment specific to the boat for which the Rating is given.
+
+#### Daysailer Electric Outboard Rating
+Daysailers may be sailed with an electric outboard of no more than 6 horsepower by DH Intermediate or above who demonstrate the correct usage and installation of the electric outboards as well as proper docking, safety, and competency. The electric outboards shall only be used for the appropriate vessels (daysailers).
+
+#### Lake Sailor Rating
+The Lake Sailor Rating may be given to a Member holding a Double-Handed Intermediate Rating who has displayed additional skill and judgment in sailing Daysailers. The Lake Sailor Rating allows the Member to sail any Daysailer in winds less than 15 knots in Lake Washington, north of the Evergreen Point Floating Bridge and south of Sand Point, during daylight hours. The wind speed is to be determined at the place where the boat is being sailed.
+
+To receive the Lake Sailor Rating, a Member must demonstrate:
+- Proper rigging and derigging
+- Docking under sail.
+- Capsize recovery (if wanting to sail a capsizable daysailer)
+- Crew-overboard recovery.
+- Reefing and heaving-to.
+- Knowledge of applicable COLREGS rules.
+- Knowledge of hazards relevant to the Lake Sailor Rating boundaries.
+- Weather forecasting and planning.
+- Good sailing judgement
 
 
 # Use of Boats, Facilities, and Equipment

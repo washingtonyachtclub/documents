@@ -1,5 +1,5 @@
 <div class="document_title">By-Laws</div>
-<div class="document_revision">August 6, 2026</div>
+<div class="document_revision">September 3rd, 2026</div>
 
 # Articles and Regulations Taking Precedence
 ## University of Washington Policies
@@ -220,9 +220,7 @@ The Officers shall automatically become Chiefs upon their election if they posse
 
 ## Designated Chief
 ### Definitions
-Designated Chiefs for a specific fleet of vessels may give Skipper Ratings for that fleet of vessels. For example, a Designated Catamaran Chief may give Catamaran Skipper Ratings, but they may give no other Skipper Ratings if they do not hold a Designation for those other fleets. A Designated Whaler Chief may give one type of Whaler Rating; separate Whaler Novice and Whaler Skipper ratings do not exist. A Designated Windsurf Chief can give Skipper ratings, while a Designated Windsurf Captain Chief can give Captains ratings. The individual types of Designated Chiefs make up the entire set of Chiefs of the Club.
-
-For simplicity, the word “Designated” does not have to be stated in order to understand that a Chief is a Designated Chief for the specific fleet of vessels indicated. For example, a “Catamaran Chief” may be understood to be a Chief who holds a Catamaran Designation and they do not explicitly have to be referred to as a Designated Catamaran Chief.
+Designated Chiefs for a specific fleet of vessels may give Skipper Ratings for that fleet of vessels. For example, a Catamaran Chief may give Catamaran Skipper Ratings, but they may give no other Skipper Ratings if they do not hold a Designation for those other fleets. A Whaler Chief may give one type of Whaler Rating; separate Whaler Novice and Whaler Skipper ratings do not exist. A Windsurf Chief can give Skipper ratings, while a Windsurf Captain Chief can give Captains ratings. The individual types of Designated Chiefs make up the entire set of Chiefs of the Club.
 
 ### Types and Requirements
 To become a Designated Chief for a fleet, one must hold, for each fleet for which they are to be designated, the qualifications described below.
@@ -245,7 +243,7 @@ For Dinghy and Sailboard Fleets, it is recommended that an existing Designated C
 To receive the Windsurf Captain Chief Designation, the sailor must have a Captain rating, be given approval for appointment by one or more existing Windsurf Captain Chiefs, and be considered for appointment by the Executive Council.  
 
 ### Exception for Granting of Keelboat Novice Ratings
-Any Chief who is a Keelboat Skipper may give a Keelboat Novice Rating, but the Club is encouraged to continue to evaluate whether that Keelboat Skipper should be considered for appointment as a Designated Keelboat Chief as they continue to gain experience and show continued good judgment.
+Any Chief who is a Keelboat Skipper may give a Keelboat Novice Rating, but the Club is encouraged to continue to evaluate whether that Keelboat Skipper should be considered for appointment as a Keelboat Chief as they continue to gain experience and show continued good judgment.
 
 
 # Financial Matters

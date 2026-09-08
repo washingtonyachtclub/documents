@@ -220,7 +220,7 @@ The Officers shall automatically become Chiefs upon their election if they posse
 
 ## Designated Chief
 ### Definitions
-Designated Chiefs for a specific fleet of vessels may give Skipper Ratings for that fleet of vessels. A Single-Handed or Double-Handed Chief may also give Skipper Ratings for the other of those two fleets if they hold the Skipper Rating for that fleet. For example, a Catamaran Chief may give Catamaran Skipper Ratings, but they may give no other Skipper Ratings if they do not hold a Designation for those other fleets. A Whaler Chief may give one type of Whaler Rating; separate Whaler Novice and Whaler Skipper ratings do not exist. A Windsurf Chief can give Skipper ratings, while a Windsurf Captain Chief can give Captains ratings. The individual types of Designated Chiefs make up the entire set of Chiefs of the Club.
+Designated Chiefs for a specific fleet of vessels may give Skipper Ratings for that fleet of vessels. For example, a Catamaran Chief may give Catamaran Skipper Ratings, but they may give no other Skipper Ratings if they do not hold a Designation for those other fleets. A Whaler Chief may give one type of Whaler Rating; separate Whaler Novice and Whaler Skipper ratings do not exist. A Windsurf Chief can give Skipper ratings, while a Windsurf Captain Chief can give Captains ratings. The individual types of Designated Chiefs make up the entire set of Chiefs of the Club.
 
 ### Types and Requirements
 To become a Designated Chief for a fleet, one must hold, for each fleet for which they are to be designated, the qualifications described below.

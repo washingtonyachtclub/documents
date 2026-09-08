@@ -53,7 +53,6 @@ A Rating for a fleet or class of vessels allows a Member to use those vessels in
 2. All Members must display consideration for the safety of lives and for the protection of club equipment.
 3. A combination of Written Exams and on-the-water practical Ratings Tests are required for each Rating as described below.
 4. The requirements described here are minimum requirements. The final decision to award a Rating is at the discretion of the Chief, Instructor, or Ratings Examiner administering the Ratings Test.
-5. Any Rating may be awarded by a majority vote of the Executive Council
 
 ### Bravo Rating
 #### Requirements
@@ -209,15 +208,22 @@ Daysailers may be sailed with an electric outboard of no more than 6 horsepower 
 The Lake Sailor Rating may be given to a Member holding a Double-Handed Intermediate Rating who has displayed additional skill and judgment in sailing Daysailers. The Lake Sailor Rating allows the Member to sail any Daysailer in winds less than 15 knots in Lake Washington, north of the Evergreen Point Floating Bridge and south of Sand Point, during daylight hours. The wind speed is to be determined at the place where the boat is being sailed.
 
 To receive the Lake Sailor Rating, a Member must demonstrate:
+
+**Skill**
+
 - Proper rigging and derigging
-- Docking under sail.
-- Capsize recovery (if wanting to sail a capsizable daysailer)
+- Docking under sail and power
+- Capsize recovery, if wanting to sail a capsizable daysailer.
 - Crew-overboard recovery.
-- Reefing and heaving-to.
+- Reefing
+
+**Knowledge**
+
 - Knowledge of applicable COLREGS rules.
 - Knowledge of hazards relevant to the Lake Sailor Rating boundaries.
 - Weather forecasting and planning.
-- Good sailing judgement
+- Responsible sailing judgement.
+- Pass Dinghy Skipper Exam
 
 
 # Use of Boats, Facilities, and Equipment

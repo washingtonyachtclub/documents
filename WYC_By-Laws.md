@@ -1,5 +1,5 @@
 <div class="document_title">By-Laws</div>
-<div class="document_revision">August 6, 2026</div>
+<div class="document_revision">September 3rd, 2026</div>
 
 # Articles and Regulations Taking Precedence
 ## University of Washington Policies

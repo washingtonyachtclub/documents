@@ -11,10 +11,13 @@ The three governing documents of the WYC are the Constitution, the By-Laws, and 
 # Officers
 This Article provides details for the duties and powers of the Officers. The procedures for their election and removal from office are included in the Constitution.
 
+## Co-Held Roles
+When an Officer or Position Holder role is held by co-holders, each has the full duties and powers of that role, with equal authority. A singular reference to the role permits any current holder to act individually. A collective reference to its co-holders requires all current holders to act together.
+
 ## Officer Duties
 ### Co-Commodores
 1. Oversee all activities of the Club, the Officers, the Executive Council, and the General Membership.
-2. Serve as the primary representatives of the Club to members, entities of the University, and the general public. Only the Co-Commodores are empowered to represent the Club when speaking with University administration and public entities, unless authorization is otherwise explicitly granted. This policy does not restrict communications of a routine or operational nature.
+2. Serve as the primary representatives of the Club to members, entities of the University, and the general public. Only the Commodore is empowered to represent the Club when speaking with University administration and public entities, unless authorization is otherwise explicitly granted. This policy does not restrict communications of a routine or operational nature.
 3. Make appointments and removals of Position Holders, to be approved by the Executive Council.
 4. Ensure that all other Officers and Position Holders perform their assigned duties. 
 5. Set policies as necessary to ensure Membership is at least 50% Regular Members (currently-enrolled UW Seattle student members), in accordance with the Constitution.

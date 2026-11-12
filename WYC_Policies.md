@@ -35,11 +35,7 @@ Catamarans longer than 17 feet intended for more experienced catamaran sailors. 
 Sloop-rigged sailboats from 19 to 22 feet in length that may comfortably hold four or more crew. The Flying Scot has a centerboard and can be sailed by a Double-Handed Novice. The other Daysailers have a fixed keel and require a Double-Handed Intermediate Rating to sail. If a fixed-keeled daysailer is operated with an outboard motor it may be sailed by a keelboat Novice or Skipper within the geographical restriction of their respective ratings.
 
 ### Keelboat Fleet
-#### Outboard Keelboats
-Keelboats between 24 and 27 feet in length with outboard engines mounted on them. Can be sailed with a Keelboat Novice Rating.
-
-#### Inboard Keelboats
-Keelboats greater than 27 feet in length with inboard engines installed inside of them. Require a Keelboat Skipper Rating and separate Rig Ratings to sail, and they may not participate in Duck Dodge.
+Keelboats 24-27 ft long can be sailed with a Keelboat Novice Rating. Operating a keelboat’s inboard engine requires the applicable Rig Rating. Keelboats >27 ft long require a Keelboat Skipper Rating and a separate Rig Rating to sail, and may not participate in Duck Dodge.
 
 ### Whaler Fleet
 Rescue powerboats maintained for the purpose of rescue and instruction.
@@ -199,7 +195,7 @@ The Big Cats may be sailed by any Member who has a Catamaran Intermediate Rating
 The Performance Boats may be sailed by any Member who has a Double-Handed Intermediate Rating and demonstrates the rigging procedure for that specific boat.
 
 #### Inboard Keelboat Rig Ratings
-A Keelboat Novice or Skipper may obtain separate Rig Ratings allowing for the use of the Cal 3-30. This Rating requires proficiency in sailing the larger boats, as well as use of the inboard engine and other equipment specific to the boat for which the Rating is given.
+A Keelboat Novice or Skipper may obtain separate Rig Ratings for Catalina 27 and Cal 3-30 inboard keelboats. Each Rating requires proficiency in sailing the boat and using its inboard engine and other boat-specific equipment.
 
 #### Daysailer Electric Outboard Rating
 Daysailers may be sailed with an electric outboard of no more than 6 horsepower by DH Intermediate or above who demonstrate the correct usage and installation of the electric outboards as well as proper docking, safety, and competency. The electric outboards shall only be used for the appropriate vessels (daysailers).
@@ -443,10 +439,7 @@ Unless the Keelboat Fleet Captain has otherwise set other restrictions and/or po
 
 ## Volunteer Recognition
 ### Volunteer Recognition Positions
-The Secretary and Ratings Examiners may be paid by a fixed amount as a quarterly stipend.
-
-#### Secretary
-The quarterly stipend shall be set by the Executive Council.
+Ratings Examiners may be paid by a fixed amount as a quarterly stipend.
 
 #### Ratings Examiners
 The quarterly stipend shall not be greater than total of all fees required for membership by the club and the UW Recreation Department.

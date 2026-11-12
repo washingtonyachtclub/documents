@@ -1,5 +1,5 @@
 <div class="document_title">By-Laws</div>
-<div class="document_revision">September 3rd, 2026</div>
+<div class="document_revision">November 19th, 2026</div>
 
 # Articles and Regulations Taking Precedence
 ## University of Washington Policies
@@ -11,10 +11,13 @@ The three governing documents of the WYC are the Constitution, the By-Laws, and 
 # Officers
 This Article provides details for the duties and powers of the Officers. The procedures for their election and removal from office are included in the Constitution.
 
+## Co-Held Roles
+When an Officer or Position Holder role is held by co-holders, each has the full duties and powers of that role, with equal authority. A singular reference to the role permits any current holder to act individually. A collective reference to its co-holders requires all current holders to act together.
+
 ## Officer Duties
 ### Co-Commodores
 1. Oversee all activities of the Club, the Officers, the Executive Council, and the General Membership.
-2. Serve as the primary representatives of the Club to members, entities of the University, and the general public. Only the Co-Commodores are empowered to represent the Club when speaking with University administration and public entities, unless authorization is otherwise explicitly granted. This policy does not restrict communications of a routine or operational nature.
+2. Serve as the primary representatives of the Club to members, entities of the University, and the general public. Only the Commodore is empowered to represent the Club when speaking with University administration and public entities, unless authorization is otherwise explicitly granted. This policy does not restrict communications of a routine or operational nature.
 3. Make appointments and removals of Position Holders, to be approved by the Executive Council.
 4. Ensure that all other Officers and Position Holders perform their assigned duties. 
 5. Set policies as necessary to ensure Membership is at least 50% Regular Members (currently-enrolled UW Seattle student members), in accordance with the Constitution.
@@ -112,10 +115,9 @@ Position Holders are exempt from paying membership dues if the Member acts in th
 
 ### Head Fleet Captain
 1. Responsible for scheduling, planning, and coordinating regular Club work parties, whether or not they are able to attend all such work parties.
-2. Ensures that there is a responsible Member (e.g., Officer, Fleet Captain, or Chief) in charge of all work parties.
-3. In charge of the preparations for work parties (e.g., determining the major tasks and necessary supplies for the work party).
-4. Oversees the activity of the other Fleet Captains, communicates repair needs to the entire Club, and teaches boat maintenance and repair skills when possible.
-5. Is responsible for the Club’s Garage Bay (repair shop), including coordinating with the Quartermaster to keep it stocked and making sure it is clean.
+2. Oversees the activity of the other Fleet Captains, communicates repair needs to the entire Club, and teaches boat maintenance and repair skills when possible.
+3. Is responsible for the Club’s Garage Bay (repair shop), including coordinating with the Quartermaster to keep it stocked and making sure it is clean.
+4. Each spring, coordinate a review of every Club boat to decide whether to retain, repair, or sell it. Each fall, assess potential boat acquisitions.
 
 ### Fleet Captains
 There shall be one Fleet Captain for each Fleet of vessels and one Sail Fleet Captain. The Fleet Captains shall be responsible for overseeing and/or leading the repair and maintenance of boats and equipment within their specific Fleet.

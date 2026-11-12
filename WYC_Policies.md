@@ -287,7 +287,7 @@ Only Members with Ratings or Position Holders may open the Sail Locker, Shell Ho
 WYC and WAC facilities and equipment shall not be used for any type of personal monetary gain.
 
 ### Responsibilities for Boat Usage
-It is the responsibility of the Member checking out a boat to ensure that the boat is correctly rigged and derigged, the boat is properly secured in its designated place, the sails are correctly put away, and all other equipment on board is stored back in its proper place.
+It is the responsibility of the Member checking out a boat to ensure that the boat is correctly rigged and derigged, the boat is properly secured in its designated place, the sails are correctly put away, all other equipment on board is stored back in its proper place, and the boat is returned at least as clean as when checked out.
 
 ### Boat Checkout Requirements
 Boats may only be sailed if the following requirements are met:

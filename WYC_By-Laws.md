@@ -115,10 +115,9 @@ Position Holders are exempt from paying membership dues if the Member acts in th
 
 ### Head Fleet Captain
 1. Responsible for scheduling, planning, and coordinating regular Club work parties, whether or not they are able to attend all such work parties.
-2. Ensures that there is a responsible Member (e.g., Officer, Fleet Captain, or Chief) in charge of all work parties.
-3. In charge of the preparations for work parties (e.g., determining the major tasks and necessary supplies for the work party).
-4. Oversees the activity of the other Fleet Captains, communicates repair needs to the entire Club, and teaches boat maintenance and repair skills when possible.
-5. Is responsible for the Club’s Garage Bay (repair shop), including coordinating with the Quartermaster to keep it stocked and making sure it is clean.
+2. Oversees the activity of the other Fleet Captains, communicates repair needs to the entire Club, and teaches boat maintenance and repair skills when possible.
+3. Is responsible for the Club’s Garage Bay (repair shop), including coordinating with the Quartermaster to keep it stocked and making sure it is clean.
+4. Each spring, coordinate a review of every Club boat to decide whether to retain, repair, or sell it. Each fall, assess potential boat acquisitions.
 
 ### Fleet Captains
 There shall be one Fleet Captain for each Fleet of vessels and one Sail Fleet Captain. The Fleet Captains shall be responsible for overseeing and/or leading the repair and maintenance of boats and equipment within their specific Fleet.

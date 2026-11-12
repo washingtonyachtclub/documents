@@ -1,5 +1,7 @@
 # Eshan's Document Changes - November 2026
 
+[View PR and diff on GitHub](https://github.com/washingtonyachtclub/documents/pull/25)
+
 # Content Changes
 
 Vote on individually.

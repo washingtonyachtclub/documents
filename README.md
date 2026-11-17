@@ -31,4 +31,4 @@ python3 -m http.server 8080 --bind 127.0.0.1
 
 Open <http://127.0.0.1:8080>. The PDF links require generated PDFs in the repository root; run `npm ci` and `npm run build:all` in `pdf-generator/` to build them first.
 
-The listing's styles, mobile navigation, and club logo live in `assets/` and deploy alongside `index.html`. The header, footer, typography, and resource rows mirror the main site's Club Documents & Forms page. Keep the navigation links and shared styling aligned when the main site changes. Fonts load from Google Fonts, with local serif and sans-serif fallbacks.
+The listing's stylesheet lives in `assets/` and deploys alongside `index.html`. Its colors, typography, and resource rows mirror the main site's Club Documents & Forms content area. Keep the shared styling aligned when the main site changes. Fonts load from Google Fonts, with local serif and sans-serif fallbacks.

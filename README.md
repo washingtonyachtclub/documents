@@ -20,3 +20,15 @@ The build uses [md-to-pdf](https://github.com/simonhaenisch/md-to-pdf/) — conf
 - Use the full PDF URL and heading anchor to link to a section in another document.
   - The other document must contain an internal link to that heading. Otherwise, the PDF generator will not create the destination.
 - Refer to document sections by their linked heading titles, not by article or section numbers that may change.
+
+## Previewing the documents listing
+
+From the repository root, serve the static page:
+
+```sh
+python3 -m http.server 8080 --bind 127.0.0.1
+```
+
+Open <http://127.0.0.1:8080>. The PDF links require generated PDFs in the repository root; run `npm ci` and `npm run build:all` in `pdf-generator/` to build them first.
+
+The listing's styles, mobile navigation, and club logo live in `assets/` and deploy alongside `index.html`. The header, footer, typography, and resource rows mirror the main site's Club Documents & Forms page. Keep the navigation links and shared styling aligned when the main site changes. Fonts load from Google Fonts, with local serif and sans-serif fallbacks.

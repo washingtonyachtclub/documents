@@ -197,13 +197,17 @@ Windsurfers must not step foot on NOAA property (located east of Arena Sports pa
 
 Southerlies/Westerlies: Southerly wind policies must be followed.
 
-The following are the teaching boundaries, to be used for classes or ratings examinations:
+<figure class="windsurf-map">
+<figcaption>The following are the northerly teaching boundaries, to be used for classes or ratings examinations:</figcaption>
+<img src="../images/SSP_northerly_teaching_boundaries.jpg" alt="SSP Northerly Teaching Boundaries">
+</figure>
 
-![SSP Teaching Boundaries](../images/SSP_teaching_boundaries.jpg)
+<figure class="windsurf-map">
+<figcaption>The following are the novice and intermediate sailing boundaries for open sailing in northerly winds:</figcaption>
+<img src="../images/SSP_northerly_sailing_boundaries.png" alt="SSP Northerly Sailing Boundaries">
+</figure>
 
-The following are novice and intermediate sailing boundaries for open sailing:
-
-![SSP Sailing Boundaries](../images/SSP_sailing_boundaries.png)
+For southerly teaching and sailing boundaries, see [Sail Sand Point Southerly Policy](#sail-sand-point-southerly-policy).
 
 ##### Union Bay
 
@@ -237,6 +241,11 @@ No Restrictions
 ##### The Hook Park, Hood River Oregon (Outside the Hook)
 
 Between mainland Oregon and Wells Island. Skippers or Supervised Sailing.
+
+<figure class="windsurf-map">
+<figcaption>The following guide shows the Hook sailing areas, launch, and hazards:</figcaption>
+<img src="../images/Hook_sailing_guide.png" alt="The Hook Park Sailing Guide">
+</figure>
 
 ##### University Beach at Lake Wenatchee
 
@@ -272,6 +281,16 @@ Southerly winds at SSP are often characterized by intense gusts and shifts in di
    1. No sail over 4m can be used for skipper test.
    2. It is much more appropriate to use a non-beginner sail in highwinds
 8. If a sailor washes up far from the launch, they should tear down and secure their gear, and call the WYC or its members, or find another way to bring themselves and the equipment back to the launch.
+
+<figure class="windsurf-map">
+<figcaption>The following are the southerly teaching boundaries, to be used for classes or ratings examinations:</figcaption>
+<img src="../images/SSP_teaching_boundaries.jpg" alt="SSP Southerly Teaching Boundaries">
+</figure>
+
+<figure class="windsurf-map">
+<figcaption>The following are the novice and intermediate sailing boundaries for open sailing in southerly and westerly winds, subject to the restrictions above:</figcaption>
+<img src="../images/SSP_sailing_boundaries.png" alt="SSP Southerly Sailing Boundaries">
+</figure>
 
 ### Supervised Sailing Southerly Policies
 

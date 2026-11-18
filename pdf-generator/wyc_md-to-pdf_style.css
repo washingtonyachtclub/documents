@@ -219,3 +219,15 @@ img {
 	margin: 1em 0;
 }
 
+
+/* Keep windsurf map captions with their images across PDF page breaks. */
+figure.windsurf-map {
+  margin: 1em 0 1em 5em;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+figure.windsurf-map img {
+  display: block;
+  margin: 0.5em 0 0;
+}

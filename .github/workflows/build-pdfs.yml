@@ -50,16 +50,24 @@ jobs:
       with:
         path: site
 
-  deploy:
+  verify-handoff:
     needs: build
     runs-on: ubuntu-latest
     permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      contents: read
     steps:
-    - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v5
+    - name: List and download the Pages artifact
+      uses: actions/download-artifact@v5
+      with:
+        pattern: github-pages
+        path: downloaded
+    - name: Verify the downloaded archive
+      working-directory: .
+      run: |
+        tar -tf downloaded/github-pages/artifact.tar
+        mkdir unpacked
+        tar -xf downloaded/github-pages/artifact.tar -C unpacked
+        test "$(cat unpacked/CNAME)" = documents.washingtonyachtclub.org
+        test -s unpacked/index.html
+        test -s unpacked/assets/site.css
+        test "$(find unpacked -name 'WYC_*.pdf' | wc -l)" -eq 5

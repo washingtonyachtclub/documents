@@ -64,9 +64,11 @@ jobs:
     - name: Verify the downloaded archive
       working-directory: .
       run: |
-        tar -tf downloaded/github-pages/artifact.tar
+        find downloaded -type f
+        archive=$(find downloaded -type f -name artifact.tar)
+        tar -tf "$archive"
         mkdir unpacked
-        tar -xf downloaded/github-pages/artifact.tar -C unpacked
+        tar -xf "$archive" -C unpacked
         test "$(cat unpacked/CNAME)" = documents.washingtonyachtclub.org
         test -s unpacked/index.html
         test -s unpacked/assets/site.css

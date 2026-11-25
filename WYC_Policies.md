@@ -195,7 +195,7 @@ The Big Cats may be sailed by any Member who has a Catamaran Intermediate Rating
 The Performance Boats may be sailed by any Member who has a Double-Handed Intermediate Rating and demonstrates the rigging procedure for that specific boat.
 
 #### Inboard Keelboat Rig Ratings
-A Keelboat Novice or Skipper may obtain separate Rig Ratings for Catalina 27 and Cal 3-30 inboard keelboats. Each Rating requires proficiency in sailing the boat and using its inboard engine and other boat-specific equipment.
+A Keelboat Novice or Skipper may obtain separate Rig Ratings for the Almond Joy and Nightshade inboard keelboats. Each Rating requires proficiency in sailing the boat and using its inboard engine and other boat-specific equipment.
 
 #### Daysailer Electric Outboard Rating
 Daysailers may be sailed with an electric outboard of no more than 6 horsepower by DH Intermediate or above who demonstrate the correct usage and installation of the electric outboards as well as proper docking, safety, and competency. The electric outboards shall only be used for the appropriate vessels (daysailers).
@@ -287,7 +287,7 @@ Only Members with Ratings or Position Holders may open the Sail Locker, Shell Ho
 WYC and WAC facilities and equipment shall not be used for any type of personal monetary gain.
 
 ### Responsibilities for Boat Usage
-It is the responsibility of the Member checking out a boat to ensure that the boat is correctly rigged and derigged, the boat is properly secured in its designated place, the sails are correctly put away, all other equipment on board is stored back in its proper place, and the boat is returned at least as clean as when checked out.
+It is the responsibility of the Member checking out a boat to ensure that the boat is correctly rigged and derigged, the boat is properly secured in its designated place, the sails are correctly put away, all other equipment on board is stored back in its proper place, and the boat is returned cleaner than it was found.
 
 ### Boat Checkout Requirements
 Boats may only be sailed if the following requirements are met:
